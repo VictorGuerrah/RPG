@@ -1,0 +1,72 @@
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Card Collection</title>
+  <style>
+    :root { --paper:#f4f0e8; --ink:#172a2e; --muted:#647077; --line:#d4cec1; --teal:#112f35; --teal-soft:#20454b; --orange:#bd5a25; --gold:#e3b778; --white:#fffdf8; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink); font-family:Georgia, "Times New Roman", serif; }
+    .app { min-height:100vh; display:grid; grid-template-columns:282px minmax(0, 1fr); }
+    .side { padding:28px 20px; background:var(--teal); color:var(--white); display:flex; flex-direction:column; gap:23px; }
+    .brand { padding-bottom:20px; border-bottom:1px solid #4b6a6e; }
+    .eyebrow { margin:0 0 7px; color:var(--gold); font:700 11px Arial,sans-serif; letter-spacing:1px; text-transform:uppercase; }
+    h1 { margin:0; font-size:27px; line-height:1.05; }
+    .brand p:last-child { margin:10px 0 0; color:#c7d6d5; font-size:14px; line-height:1.45; }
+    label,.label { display:block; margin-bottom:8px; color:#c7d6d5; font:700 11px Arial,sans-serif; letter-spacing:.9px; text-transform:uppercase; }
+    .search { width:100%; padding:11px; border:1px solid #4b6a6e; border-radius:4px; background:#0b2429; color:white; font:14px Arial,sans-serif; }
+    .search:focus { outline:2px solid var(--gold); outline-offset:1px; }
+    .tabs { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+    .tabs button,.groups button { border:1px solid #4b6a6e; border-radius:4px; padding:8px; background:transparent; color:#d8e3e1; text-align:left; font:13px Arial,sans-serif; }
+    .tabs button.active,.groups button.active { border-color:var(--gold); background:var(--teal-soft); color:white; }
+    .groups { display:flex; flex-wrap:wrap; gap:6px; }
+    .groups button { padding:6px 8px; font-size:12px; }
+    .reset { align-self:start; margin-top:auto; padding:0; border:0; background:none; color:var(--gold); font:13px Arial,sans-serif; }
+    .main { padding:32px clamp(20px,4vw,54px) 42px; }
+    .top { display:flex; justify-content:space-between; gap:20px; align-items:end; padding-bottom:20px; margin-bottom:24px; border-bottom:1px solid var(--line); }
+    .top h2 { margin:0; font-size:29px; }
+    .top p { margin:7px 0 0; color:var(--muted); font-size:15px; }
+    .count { color:var(--orange); font:700 13px Arial,sans-serif; text-align:right; }
+    .work { display:grid; grid-template-columns:minmax(0,1fr) minmax(280px,360px); gap:26px; align-items:start; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(205px,1fr)); gap:12px; }
+    .card { min-height:175px; padding:18px; border:0; border-radius:6px; background:var(--teal); color:white; text-align:left; box-shadow:0 10px 24px rgba(20,34,36,.11); }
+    .card:hover { transform:translateY(-2px); }
+    .card.selected { outline:3px solid var(--orange); outline-offset:2px; }
+    .meta { color:var(--gold); font:700 10px Arial,sans-serif; letter-spacing:.9px; text-transform:uppercase; }
+    .card h3 { margin:9px 0 10px; font-size:20px; line-height:1.05; }
+    .card p { margin:0; color:#d7e4e1; font-size:13px; line-height:1.4; }
+    .detail { position:sticky; top:24px; min-height:300px; padding:23px; border:1px solid var(--line); border-radius:6px; background:var(--white); }
+    .detail.empty { display:grid; place-items:center; color:var(--muted); text-align:center; line-height:1.5; }
+    .detail h3 { margin:0 0 18px; font-size:28px; line-height:1.05; }
+    .detail p { font-size:15px; line-height:1.55; }
+    .detail strong { color:var(--teal); }
+    .none { grid-column:1/-1; padding:32px; border:1px dashed var(--line); color:var(--muted); text-align:center; }
+    .foot { color:var(--muted); font-size:13px; line-height:1.45; }
+    @media (max-width:920px) { .app{grid-template-columns:1fr}.side{padding:20px;gap:16px}.reset{margin-top:0}.main{padding:24px 18px}.work{grid-template-columns:1fr}.detail{position:static;order:-1} }
+    @media (max-width:520px) { .top{align-items:start;flex-direction:column}.count{text-align:left}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.card{min-height:155px;padding:14px}.card h3{font-size:17px}.card p{font-size:12px} }
+  </style>
+  <link rel="stylesheet" href="light.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="side">
+      <div class="brand"><p class="eyebrow">Ferramenta de mesa</p><h1>Compêndio de Cartas</h1><p>Encontre Marcas e adversários sem folhear os baralhos.</p></div>
+      <div><label for="search">Buscar</label><input class="search" id="search" type="search" placeholder="Nome, efeito ou custo"></div>
+      <div><span class="label">Exibir</span><div class="tabs" id="tabs"></div></div>
+      <div><span class="label">Família ou papel</span><div class="groups" id="groups"></div></div>
+      <button class="reset" id="reset" type="button">Limpar filtros</button>
+    </aside>
+    <main class="main">
+      <header class="top"><div><p class="eyebrow">Baralhos atuais</p><h2 id="title">Carregando cartas</h2><p id="description">Lendo os arquivos atuais do projeto.</p></div><div class="count" id="count"></div></header>
+      <div class="work"><section class="grid" id="grid"></section><aside class="detail empty" id="detail">Escolha uma carta para ver Descrição, Efeito, Custo e demais informações.</aside></div>
+      <p class="foot">Os filtros acompanham as famílias e papéis atuais. Etiquetas de cenário e localidade entram aqui quando forem definidas no compêndio.</p>
+    </main>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
