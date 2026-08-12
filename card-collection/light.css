@@ -1,0 +1,121 @@
+
+body {
+  background: #f6f5f1 !important;
+  color: #1f3134 !important;
+}
+
+aside {
+  background: #fcfbf7 !important;
+  color: #1f3134 !important;
+  border-right: 1px solid #dedbd3;
+}
+
+.ey {
+  color: #a64d22 !important;
+}
+
+aside input,
+aside select {
+  background: #ffffff !important;
+  border-color: #c9c7bf !important;
+  color: #1f3134 !important;
+}
+
+aside button:not(#clear) {
+  border-color: #d8d5cd !important;
+  color: #415457 !important;
+}
+
+aside button.active {
+  background: #e8f0ee !important;
+  border-color: #6f928c !important;
+  color: #173d40 !important;
+}
+
+#clear {
+  color: #a64d22 !important;
+}
+
+header {
+  border-bottom-color: #dedbd3 !important;
+}
+
+.card {
+  background: #ffffff !important;
+  color: #1f3134 !important;
+  border: 1px solid #dedbd3 !important;
+  box-shadow: 0 3px 10px rgba(28, 45, 47, .06) !important;
+}
+
+.card:hover {
+  background: #fafcfb !important;
+  border-color: #7c9d98 !important;
+}
+
+.card.selected {
+  outline-color: #b85b2b !important;
+}
+
+.card small {
+  color: #a64d22 !important;
+}
+
+.card p {
+  color: #607275 !important;
+}
+
+#detail {
+  background: #ffffff !important;
+  border-color: #dedbd3 !important;
+  box-shadow: 0 3px 10px rgba(28, 45, 47, .04);
+}
+
+#detail button {
+  background: #1d5355 !important;
+}
+
+.enc {
+  border-top-color: #dedbd3 !important;
+}
+
+#new-card {
+  margin-top: 12px;
+  color: #1d5355 !important;
+  font-weight: 700 !important;
+}
+
+.creator label {
+  display: block;
+  margin: 12px 0 5px;
+  color: #607275;
+  font: 700 11px Arial, sans-serif;
+  letter-spacing: .6px;
+  text-transform: uppercase;
+}
+
+.creator input, .creator select, .creator textarea {
+  width: 100%;
+  padding: 9px;
+  border: 1px solid #c9c7bf;
+  border-radius: 4px;
+  background: #fff;
+  color: #1f3134;
+  font: 13px Arial, sans-serif;
+}
+
+.creator textarea {
+  resize: vertical;
+  line-height: 1.45;
+}
+
+.creator p {
+  color: #607275;
+  font-size: 12px;
+}
+
+.creator .secondary {
+  margin-top: 8px;
+  background: transparent !important;
+  color: #1d5355 !important;
+  border: 1px solid #1d5355 !important;
+}
