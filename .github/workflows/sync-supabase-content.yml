@@ -1,0 +1,60 @@
+name: Sync Supabase content
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync-supabase-content.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-supabase-content
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: https://skzrdmqyzrvzcsfwdgxw.supabase.co
+      SUPABASE_KEY: sb_publishable_eq2kyrozvUWslX5wtI61Mg_6EaJM122
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Export rules and cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p snapshots
+
+          curl -fsS \
+            "$SUPABASE_URL/rest/v1/system_rules?id=eq.1&select=content" \
+            -H "apikey: $SUPABASE_KEY" \
+            -H "Accept: application/json" \
+            | jq -er '.[0].content' > snapshots/system_rules.md
+
+          curl -fsS \
+            "$SUPABASE_URL/rest/v1/compendium_cards?select=*&order=type.asc,group.asc,title.asc" \
+            -H "apikey: $SUPABASE_KEY" \
+            -H "Accept: application/json" \
+            | jq '.' > snapshots/compendium_cards.json
+
+      - name: Commit snapshot when content changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- snapshots; then
+            echo "Supabase content is already synchronized."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshots/system_rules.md snapshots/compendium_cards.json
+          git commit -m "sync Supabase content"
+          git push
