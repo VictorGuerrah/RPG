@@ -48,7 +48,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- snapshots; then
+          if [[ -z "$(git status --porcelain -- snapshots)" ]]; then
             echo "Supabase content is already synchronized."
             exit 0
           fi
