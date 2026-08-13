@@ -1,0 +1,742 @@
+[
+  {
+    "id": "fa2f641d-6a6d-432b-b9a6-4bb249e51b79",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Aranha Gigante",
+    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Teia.** Em vez de causar dano, um ataque bem-sucedido pode prender o alvo. Libertar-se exige uma ação de Corpo contra Resistência d6.\n\n**Instinto:** imobilizar uma presa e arrastá-la para longe do grupo.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "7e1208b1-b6a3-4d7e-bbb8-f9854485ed60",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Armadura Animada",
+    "body": "**Comum | Construto | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Placas Vazias.** Reduza em **1** o primeiro dano físico sofrido na cena.\n\n**Instinto:** guardar uma entrada, objeto ou pessoa sem abandonar seu posto.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "c7554239-e4aa-4275-a992-44da614b20c1",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Elemental Menor",
+    "body": "**Comum | Elemental | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Corpo Elemental.** Ao sofrer dano em combate Próximo, pode criar uma condição coerente com seu elemento, como fogo, gelo, vento ou terreno instável.\n\n**Instinto:** espalhar seu elemento e consumir aquilo que o contém.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "01f236b4-5a36-4696-8ce3-9351fdeff02a",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Guarda Veterano",
+    "body": "**Veterano | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Formação Defensiva.** Enquanto estiver Próximo de um aliado, receba **+1 nas Defesas Ativas**.\n\n**Instinto:** proteger a passagem e obrigar os inimigos a lutar em terreno desfavorável.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "547e01d3-724a-4aa5-aba7-fcbc3661a628",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Guerreiro Orc",
+    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Fúria Ferida.** Enquanto estiver com Vitalidade 1, receba **+1 nos ataques**.\n\n**Instinto:** ocupar o centro da luta e desafiar quem parecer mais perigoso.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "39b6de96-7bf6-4f2d-95f6-db128f80bd7a",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Lobo de Caça",
+    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Derrubar.** Em um sucesso forte ou decisivo no ataque, o alvo cai ou perde sua posição.\n\n**Instinto:** perseguir quem fugir e separar o alvo mais lento.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "32aeaaa5-32e1-4353-8dbb-9b4c5982e3ea",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Saqueador Goblin",
+    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Ataque em Bando.** Quando atacar um alvo que já foi atacado por outro goblin nesta rodada, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** cercar o alvo mais vulnerável e fugir quando estiver sozinho.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "e16ffc04-eaf5-436b-b19e-ff58ae210bad",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Sombra Faminta",
+    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Forma Escura.** Ataques físicos sem luz intensa, magia ou outra forma adequada de alcançá-la recebem **-1**.\n\n**Instinto:** apagar fontes de luz e atacar quem estiver sozinho.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "7abeecc7-39a8-4599-8ef4-68ade5875f4c",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Zumbi Obstinado",
+    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d4 | Vitalidade 3**\n\n**Marca: Recusa em Cair.** Na primeira vez que chegaria a Vitalidade 0, permaneça com Vitalidade 1.\n\n**Instinto:** avançar pelo caminho mais curto e agarrar quem estiver ao alcance.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "fbe4bb66-7db9-4d16-a1fe-210285b984fa",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Cubo Gelatinoso",
+    "body": "**Brutamontes | Limo | 2 pontos**\n\n**Capacidade d4 | Vitalidade 5**\n\n**Marca: Engolfar.** Em um ataque bem-sucedido, o alvo fica preso dentro do cubo. Escapar exige uma ação de Corpo contra Resistência d8. Enquanto estiver preso, sofre 1 dano no início do turno do cubo.\n\n**Instinto:** avançar sem desviar e dissolver tudo que não puder expulsar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "0c9b055d-07bc-40ce-a8d8-068cff3b25c1",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Escavador Blindado",
+    "body": "**Brutamontes | Fera | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Ataque Subterrâneo.** Depois de passar um turno sob o solo, reapareça em qualquer ponto Perto e realize um Ataque Surpresa.\n\n**Instinto:** desaparecer depois de ser cercado e atacar por baixo do alvo mais pesado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "5368b163-3abf-4d33-b835-8332188f1c9a",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Golem de Pedra",
+    "body": "**Brutamontes | Construto | 2 pontos**\n\n**Capacidade d6 | Vitalidade 5**\n\n**Marca: Corpo Inerte.** Veneno, medo, intimidação e controle mental comum não o afetam.\n\n**Instinto:** cumprir uma ordem literal e destruir tudo que impedir sua execução.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "3f228aba-1db5-402b-82cf-a45a3482580b",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Ogro",
+    "body": "**Brutamontes | Gigante | 2 pontos**\n\n**Capacidade d6 | Vitalidade 4**\n\n**Marca: Golpe Anunciado.** Prepare um golpe contra uma área Próxima. No próximo turno, ataque todos que permanecerem ali; quem for atingido sofre **+1 dano**.\n\n**Instinto:** quebrar cobertura, espalhar o grupo e perseguir quem o feriu.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "eb96ce3a-a360-4938-a32e-51c4e74545f8",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Troll",
+    "body": "**Brutamontes | Gigante | 2 pontos**\n\n**Capacidade d6 | Vitalidade 4**\n\n**Marca: Regeneração.** No início do turno, recupere 1 de Vitalidade se não tiver sofrido dano de fogo ou outra fraqueza estabelecida desde o turno anterior.\n\n**Instinto:** suportar os primeiros golpes e avançar sobre o personagem mais próximo.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "ab8907ee-239c-4574-951a-e247e776bfb1",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Batedor Goblin",
+    "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Ataque em Bando.** Ao atacar um alvo que já foi atacado por um aliado nesta rodada, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** cercar quem estiver isolado e fugir quando perder a vantagem numérica.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "3d1e8e78-8205-4d40-b55d-24b2063ce604",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Cultista Fanático",
+    "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Martírio.** Quando um aliado Próximo é derrotado, o próximo ataque do cultista recebe **+1**.\n\n**Instinto:** proteger o ritual e provar sua devoção diante dos outros.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "7c27c26c-335b-4e65-b278-db7e48d05241",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Esporo Faminto",
+    "body": "**Capanga | Planta | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Nuvem Irritante.** Quando for destruído, quem estiver Próximo recebe **-1 na próxima rolagem**.\n\n**Instinto:** aproximar-se de calor, movimento e respiração.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "92425416-5d73-41ea-a77b-4b8479fb3f62",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Esqueleto Rachado",
+    "body": "**Capanga | Morto-vivo | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Sem Medo.** Medo, intimidação e dor não impedem o esqueleto de agir.\n\n**Instinto:** cumprir a última ordem recebida, mesmo quando isso o destrói.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "c901b94b-bf37-4ebc-bc1e-272176017eae",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Rato Voraz",
+    "body": "**Capanga | Fera | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Fome Coletiva.** Quando um Rato Voraz acerta um alvo, o próximo rato que atacar esse mesmo alvo recebe **+1**.\n\n**Instinto:** atacar comida exposta, feridos e rotas de fuga.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "152c2b8d-f93a-4d24-9880-6bca5f2c4d2c",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Sentinela Mecânica",
+    "body": "**Capanga | Construto | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Alarme.** Em sua primeira ação, pode alertar os aliados; a próxima rolagem de um deles recebe **+1**.\n\n**Instinto:** identificar intrusos, bloquear a passagem e chamar reforços.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "580092fd-0882-4672-9754-732a1e742d7f",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Arqueiro Goblin",
+    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Tiro de Posição.** Ao atacar de Longe sem ter se movido no turno, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** manter distância, procurar cobertura e trocar de posição quando ameaçado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "9aa1c09d-089c-4fce-90df-800759bcd661",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Basilisco",
+    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Olhar Petrificante.** Use uma ação contra alguém Perto que possa vê-lo. O alvo defende com Espírito; em falha, sofre 1 dano em Corpo e não pode se mover até receber ajuda ou gastar uma ação para se libertar.\n\n**Instinto:** imobilizar a ameaça mais próxima antes de avançar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "091f84b4-8772-40d3-a2a3-15997c3065b9",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Feiticeiro do Culto",
+    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Selo Doloroso.** Use uma ação para marcar uma área Próxima. A primeira criatura que atravessá-la sofre 1 dano ou interrompe o movimento.\n\n**Instinto:** lutar atrás dos aliados e transformar o terreno em armadilha.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "751032c2-0065-4b21-bfd8-981a3c20c3e4",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Harpia",
+    "body": "**Especialista | Monstruosidade | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Canção Hipnótica.** Use uma ação para cantar. Quem puder ouvir defende com Espírito; em falha, precisa se aproximar da harpia ou perde a próxima ação resistindo ao chamado.\n\n**Instinto:** atrair viajantes para lugares altos, isolados ou perigosos.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "976a5cb8-2d3a-4c82-85a5-1f4eb1e3ccdb",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Mímico",
+    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Objeto Falso.** Enquanto não se mover, parece um objeto comum. Seu primeiro ataque contra alguém enganado é um Ataque Surpresa.\n\n**Instinto:** esperar que alguém se aproxime e bloquear a saída depois do ataque.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "460153d7-71de-40ca-bda2-92acb30b5b29",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Monstro da Ferrugem",
+    "body": "**Especialista | Monstruosidade | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Corroer Metal.** Em um ataque bem-sucedido, pode deixar uma arma, armadura ou ferramenta metálica indisponível em vez de causar dano. O item retorna após reparo.\n\n**Instinto:** alcançar o maior objeto de metal e fugir depois de se alimentar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "d729aebf-4a17-4c43-aec7-0ef59636b17f",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Arcanista Imortal",
+    "body": "**Solo | Morto-vivo | 4 pontos**\n\n- **Corpo d6**\n- **Mente d12**\n- **Espírito d6**\n\n**Marca: Feitiço Preparado.** No primeiro turno, escolha fogo, gelo, medo ou deslocamento. Até o fim da cena, ataques mágicos desse tipo usam Mente e podem alcançar alvos Perto.\n\n**Marca: Âncora da Alma.** Na primeira vez em que ficaria fora de combate, permaneça em cena com apenas um Atributo não Abalado. Destruir ou neutralizar a âncora impede este efeito.\n\n**Instinto:** estudar as capacidades do grupo, explorar sua maior fraqueza e proteger a âncora da alma.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "da008e07-0623-417c-8afa-c853ade88e05",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Dragão Jovem",
+    "body": "**Solo | Dragão | 4 pontos**\n\n- **Corpo d10**\n- **Mente d8**\n- **Espírito d6**\n\n**Marca: Sopro Elemental.** Use uma ação para atacar todos em uma área Perto. Depois disso, a Marca fica indisponível até o dragão passar um turno preparando um novo sopro.\n\n**Marca: Voo Poderoso.** Mova-se entre Perto e Longe sem usar a ação principal quando houver espaço para voar.\n\n**Instinto:** dominar o campo do alto, proteger seu tesouro e punir grupos amontoados.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "d53ef2ff-82af-4cea-a4eb-89f1ae084609",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Gigante Errante",
+    "body": "**Solo | Gigante | 4 pontos**\n\n- **Corpo d12**\n- **Mente d6**\n- **Espírito d6**\n\n**Marca: Varredura.** Use uma ação para atacar todos que estiverem Próximos. Em sucesso, cause dano ou arremesse o alvo para Perto.\n\n**Marca: Arremesso de Rocha.** Ataque um ponto Longe. Em sucesso, quem estiver Próximo do impacto precisa se mover ou recebe **-1 na próxima rolagem**.\n\n**Instinto:** usar tamanho e terreno para impedir que inimigos permaneçam juntos.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "9c8ebfa0-2468-423d-ad7a-fc32f12611db",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Guardião Minotauro",
+    "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d6**\n- **Espírito d6**\n\n**Marca: Investida.** Depois de se mover de Perto para Próximo, ataque com Corpo. Em sucesso, empurre o alvo para Perto ou cause **+1 dano**.\n\n**Marca: Labirinto Familiar.** Ao perseguir, esconder-se ou cortar caminho em seu território, receba **+1 no resultado do Atributo**.\n\n**Instinto:** separar intrusos e encurralá-los onde não possam recuar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "3a3d559b-d02d-4451-9372-6a68002de5fc",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Hidra",
+    "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d4**\n- **Espírito d8**\n\n**Marca: Muitas Cabeças.** No início de cada rodada, a Hidra recebe **três Reações** em vez das duas concedidas normalmente a um Solo.\n\n**Marca: Cabeças Renascidas.** Uma vez por rodada, depois de sofrer dano, recupere Corpo em um passo se não tiver sofrido dano de fogo desde seu último turno.\n\n**Instinto:** atacar alvos diferentes, cercar o grupo e proteger o corpo central.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "157a5d12-273e-40f8-bdc3-3fca8396a212",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Vampiro",
+    "body": "**Solo | Morto-vivo | 4 pontos**\n\n- **Corpo d8**\n- **Mente d8**\n- **Espírito d8**\n\n**Marca: Beber Vida.** Uma vez por rodada, quando causar dano em combate Próximo, recupere um Atributo em um passo.\n\n**Marca: Forma de Névoa.** Gaste uma Reação para evitar ser Interposto ou atravessar uma abertura estreita; ataques físicos contra você recebem **-1** até seu próximo turno.\n\n**Instinto:** seduzir antes de lutar, isolar uma vítima e preservar sua própria existência.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "bc8484aa-9e38-4200-a7e3-c678a8cfa6f0",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Capitão Goblin",
+    "body": "**Líder importante | Humanoide | 3 pontos**\n\n- **Corpo d8**\n- **Mente d6**\n- **Espírito d8**\n\n**Marca: Ordem Cruel.** Uma vez por rodada, quando um aliado Próximo fizer um ataque, o capitão pode gastar sua Reação para conceder **+1 no resultado do Atributo**.\n\n**Custo:** se o ataque falhar, o aliado hesita e não pode usar sua Reação até o início da próxima rodada.\n\n**Marca: Sobreviver a Qualquer Custo.** Quando sofrer dano, o capitão pode fazer um aliado Próximo receber o dano em seu lugar.\n\n**Custo:** o aliado fica fora de combate, mesmo que pudesse suportar o dano.\n\n**Instinto:** manter aliados entre si e o perigo, recuando quando ficar sem proteção.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "e6ae538b-4589-4088-9658-c96742a65549",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Comandante Mercenário",
+    "body": "**Líder | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Reposicionar.** Uma vez por rodada, gaste sua Reação para mover um aliado Perto para uma posição Próxima sem provocar uma rolagem.\n\n**Instinto:** controlar cobertura, concentrar ataques e preservar uma rota de retirada.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "2f41460f-1998-40be-bc9e-b79024f75909",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Dríade Guardiã",
+    "body": "**Suporte | Feérico | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Raízes Vivas.** Use uma ação para prender um alvo Perto. Ele defende com Corpo; em falha, não pode se mover até gastar uma ação para escapar.\n\n**Instinto:** separar invasores, proteger árvores antigas e negociar antes de matar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "1cb6fe8a-36c1-49be-b128-bda99a2263bf",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Necromante",
+    "body": "**Líder | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Erguer os Mortos.** Uma vez por cena, use uma ação para colocar dois Esqueletos Rachados Próximos a restos mortais disponíveis.\n\n**Instinto:** aumentar o número de aliados e fugir quando for alcançado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "f75dcf9e-712b-49da-aa4b-965ba186ee1e",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Xamã de Guerra",
+    "body": "**Suporte | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Revigorar.** Uma vez por cena, use uma ação para fazer um aliado Próximo recuperar 1 de Vitalidade.\n\n**Instinto:** manter o aliado mais perigoso em combate e se esconder atrás dele.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "59bc7da0-da8b-40fd-b32b-74362659bdf0",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Arma Devastadora",
+    "body": "Uma arma pesada, encantada ou construída para causar ferimentos graves.\n\n**Efeito:** depois de gastar uma ação para preparar o golpe ou receber um apoio bem-sucedido para criar uma abertura, seu próximo ataque causa **+1 dano**.\n\n**Custo:** depois do ataque, sua próxima defesa antes do início do seu turno recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "378b3867-a2ef-493f-ae97-46534271ed5a",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Armadura Reforçada",
+    "body": "Uma couraça, traje blindado ou proteção corporal feita para absorver impactos.\n\n**Efeito:** possui **1 ponto de Proteção**. Ao sofrer dano físico, gaste-o para reduzir o dano em **1**. A Proteção retorna quando a armadura for reparada durante um descanso longo.\n\n**Custo:** receba **-1** em rolagens de furtividade, agilidade ou movimentos delicados enquanto estiver usando a armadura.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "f7530da7-9768-444b-8b0f-7d641c340759",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Escudo Confiável",
+    "body": "Um escudo, campo defensivo ou dispositivo feito para interceptar ataques.\n\n**Efeito:** ao usar Defender contra um ataque físico, receba **+1 no resultado da Resistência**.\n\n**Custo:** se a defesa falhar por margem 3 ou maior, o escudo fica indisponível até ser reparado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "1799c95c-4f6e-4836-8cb0-56b56349a4e6",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Ferramentas de Especialista",
+    "body": "Um conjunto de instrumentos apropriados para uma profissão ou tarefa.\n\n**Efeito:** escolha uma atividade, como abrir fechaduras, cirurgia, alquimia, mecânica ou falsificação. Ao usar as ferramentas nessa atividade, receba **+1 no resultado do Atributo**.\n\n**Custo:** se o dado do Atributo mostrar **1**, as ferramentas ficam indisponíveis até serem reparadas ou substituídas.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "e10fb25b-f070-401d-a1e9-e501dbbb3cad",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Gancho e Corda",
+    "body": "Um conjunto resistente para escalar, atravessar espaços e alcançar lugares difíceis.\n\n**Efeito:** crie uma passagem segura entre dois pontos Próximos ou Perto que possam ser conectados pela corda.\n\n**Custo:** preparar a passagem exige uma ação e um ponto firme onde o equipamento possa ser preso.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "47eca903-9ef3-47f1-8a06-fabcde4168ef",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Kit de Disfarces",
+    "body": "Roupas, pigmentos, próteses e documentos básicos para assumir outra identidade.\n\n**Efeito:** com alguns minutos de preparação, assuma a aparência convincente de uma função social ou tipo de pessoa.\n\n**Custo:** uma inspeção física detalhada revela o disfarce, assim como alguém que conheça pessoalmente a identidade imitada.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "29a3fe5e-83a8-4e37-a277-750208aa9f3a",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Improvisador",
+    "body": "Você transforma materiais inadequados em soluções temporárias.\n\n**Efeito:** ignore a falta de uma ferramenta comum quando houver objetos que possam substituí-la.\n\n**Custo:** em uma falha, o material improvisado quebra e a tentativa não pode ser repetida sem ferramentas adequadas.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "3301992e-aa0a-4f05-922e-97e5d04491ed",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Memória Perfeita",
+    "body": "Você conserva detalhes visuais, palavras e caminhos com precisão extraordinária.\n\n**Efeito:** depois de observar algo com atenção, recorde seus detalhes importantes sem precisar rolar.\n\n**Custo:** uma informação falsa aceita como verdadeira permanece em sua memória até ser claramente contradita.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "6b512c40-eb60-4294-9a11-6c83246b4cbf",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Recusar a Queda",
+    "body": "Você continua avançando quando outra pessoa já teria parado.\n\n**Efeito:** uma vez por descanso longo, quando um Atributo fosse ficar Abalado, mantenha-o em **d4**.\n\n**Custo:** depois da cena, o Atributo fica Abalado e não pode ser recuperado por descanso breve.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "7b5c07b2-cf13-410a-bf9f-4f3da1028c92",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Reflexos Impossíveis",
+    "body": "Você reage antes de compreender completamente o perigo.\n\n**Efeito:** você começa o combate com sua Reação disponível mesmo quando estiver surpreso, desde que esteja consciente e possa perceber algum sinal do perigo.\n\n**Custo:** ao perceber uma ameaça oculta, decida imediatamente se usa sua Reação; você não pode esperar por mais informações.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "a0dec9f8-b877-4e49-9e25-e717245d8b1c",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Sempre Preparado",
+    "body": "Você costuma carregar pequenos objetos úteis, mesmo quando ninguém esperava por isso.\n\n**Efeito:** uma vez por cena, declare que possui um item comum e portátil relacionado à situação.\n\n**Custo:** o item não pode ser raro, valioso, especializado nem capaz de resolver sozinho o desafio.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "36a8d857-02c7-4a99-a315-50d1fd666ba1",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Vontade Inabalável",
+    "body": "Dor, medo e pressão dificilmente alteram suas decisões.\n\n**Efeito:** ao resistir a medo, intimidação ou controle mental, receba **+1 no resultado de Espírito**.\n\n**Custo:** depois de resistir, sua próxima tentativa de recuar ou aceitar ajuda durante a cena recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "2a2412f0-c09b-4400-83f7-97aa89c8b9b4",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Feito de Outro Material",
+    "body": "Seu corpo é formado total ou parcialmente por pedra, metal, madeira, cristal ou matéria semelhante.\n\n**Efeito:** uma vez por cena, reduza em **1** o dano causado por veneno, doença ou outro perigo que dependa de um corpo orgânico.\n\n**Custo:** um descanso breve não recupera seu Corpo sem materiais ou cuidados adequados à sua composição.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "44fb7a84-a938-4eb1-91ba-d9d26fd8d728",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Forma Mutável",
+    "body": "Seu corpo pode alterar rosto, voz, pele, pelos ou porte.\n\n**Efeito:** depois de alguns instantes de concentração, altere características superficiais para assumir outra aparência.\n\n**Custo:** a transformação não copia lembranças ou capacidades. Se alguém perceber uma falha no disfarce, a Marca deixa de enganar essa pessoa durante a cena.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "c07f6532-d9f9-4b55-ba01-1970acd2eb02",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Herança Aquática",
+    "body": "Seu corpo está adaptado à água por ancestralidade, mutação, magia ou tecnologia.\n\n**Efeito:** você respira debaixo d'água e nada como se estivesse se movendo em terreno comum.\n\n**Custo:** depois de uma cena prolongada sem acesso à água, sua próxima rolagem de Corpo recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "351e723f-89d5-405e-a69f-539bf11d7e2a",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Povo das Profundezas",
+    "body": "Você cresceu em cavernas, túneis, ruínas subterrâneas ou cidades sem luz natural.\n\n**Efeito:** você enxerga na escuridão comum e reconhece sinais evidentes de instabilidade em construções subterrâneas.\n\n**Custo:** depois de encarar luz intensa ou repentina, sua próxima rolagem recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "ab5cc30a-0ad8-4e04-8499-b52fdc4f2738",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Sangue Gigante",
+    "body": "Você descende de seres enormes ou possui força física incomum.\n\n**Efeito:** ao levantar, empurrar, carregar ou quebrar algo com força bruta, receba **+1 no resultado de Corpo**.\n\n**Custo:** seu tamanho ou peso impõe **-1** quando atravessar espaços estreitos, estruturas frágeis ou lugares feitos para corpos menores.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "8a4c5832-855c-49be-a106-93dc810bff4b",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Sentidos de Caçador",
+    "body": "Seu olfato, audição, visão ou outro sentido está muito acima do normal.\n\n**Efeito:** ao rastrear alguém por sinais físicos recentes, receba **+1 no resultado de Mente**.\n\n**Custo:** quando estímulos intensos sobrecarregarem seus sentidos, sua próxima rolagem de Mente recebe **-1**.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "93705541-1d3e-4139-9a5f-714126c2c12e",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Barreira Instantânea",
+    "body": "Você cria uma proteção breve de energia, pedra, vento ou outra força.\n\n**Efeito:** gaste sua Reação para conceder **+1 no resultado da Resistência** de você ou de um aliado Próximo contra um único perigo.\n\n**Custo:** depois de usada, a Barreira fica indisponível até o início da próxima cena.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "e2cafed7-4c65-4aee-9431-720263575a77",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Mãos de Fogo",
+    "body": "Você concentra calor até produzir chama aberta.\n\n**Efeito:** ao tocar algo, produza fogo, incendeie material inflamável ou realize uma ação impossível sem chama.\n\n**Custo:** em uma falha, suas mãos queimam; a próxima rolagem de Corpo que dependa delas recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "f44308bb-5db7-4117-b7d1-ce8d5f4355e6",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Mover sem Tocar",
+    "body": "Você exerce força à distância por magia, mente ou tecnologia.\n\n**Efeito:** mova ou manipule à distância um objeto que uma pessoa comum conseguiria carregar.\n\n**Custo:** exige concentração e linha de visão. Sofrer dano ou realizar outra ação interrompe o controle.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "cf2b18fe-bda5-4c44-bc27-59fa70a3cf92",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Olhar Além",
+    "body": "Você percebe ecos mágicos, presenças invisíveis ou vestígios de eventos passados.\n\n**Efeito:** ao se concentrar, perceba forças sobrenaturais e descubra sua direção ou natureza geral.\n\n**Custo:** aquilo que você observa pode perceber sua atenção. Quando isso acontecer, sua próxima rolagem de Espírito recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "006899aa-e027-4441-8c93-65cbf069866d",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Palavra Vinculante",
+    "body": "Sua voz carrega uma força que impõe obediência momentânea.\n\n**Efeito:** dê uma ordem curta a alguém que possa ouvi-lo. Se houver resistência, role Espírito. Em sucesso, o alvo interrompe a ação atual ou segue a ordem, desde que ela não cause dano direto contra ele mesmo.\n\n**Custo:** depois de ser afetado, o alvo não pode ser submetido novamente a esta Marca até a próxima cena.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "ccb43cb0-fa31-4449-89dc-f8aaf37265a7",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Passo pelas Sombras",
+    "body": "Você atravessa a escuridão e reaparece a uma curta distância.\n\n**Efeito:** mova-se instantaneamente entre duas sombras que estejam até Perto e que você consiga perceber.\n\n**Custo:** a sombra de destino precisa comportar seu corpo. Em uma falha, sua próxima defesa recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "60f12e67-7399-4e38-baf3-5f76e864d102",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Atirador Preparado",
+    "body": "Você sabe escolher posição, controlar a respiração e esperar o momento certo.\n\n**Efeito:** depois de gastar um movimento para preparar um ataque à distância, receba **+1 no resultado do Atributo**.\n\n**Custo:** mover-se novamente, trocar de alvo ou sofrer um ataque antes do disparo desfaz a preparação.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "db43f75a-2e87-49ae-8e57-234e90977f9a",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Duelista",
+    "body": "Você controla distância, ritmo e abertura em confrontos individuais.\n\n**Efeito:** ao enfrentar sozinho um único adversário em combate Próximo, receba **+1 no resultado de Corpo** para atacar ou se defender dele.\n\n**Custo:** o benefício termina quando outro adversário interfere diretamente no duelo.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "8034c43a-9ac6-438c-8dcc-5c3e21062f65",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Especialista em Infiltração",
+    "body": "Você sabe atravessar áreas vigiadas sem ser percebido.\n\n**Efeito:** ao se mover silenciosamente, esconder-se ou evitar vigilância, receba **+1 no resultado do Atributo**.\n\n**Custo:** em uma falha, sua próxima rolagem para escapar da vigilância ou perseguição recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "a78bf6cb-0ccb-4bfe-b711-02e6c70b4424",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Investigador",
+    "body": "Você reconhece inconsistências, padrões e detalhes que outras pessoas ignoram.\n\n**Efeito:** depois de uma investigação bem-sucedida, faça ao Mestre uma pergunta direta sobre o que aconteceu. Em um sucesso forte ou decisivo, faça uma segunda pergunta.\n\n**Custo:** em uma falha, a próxima investigação diretamente relacionada recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "56a76ff4-8cd5-4668-ab19-6350e0980f6c",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Mãos Precisas",
+    "body": "Você possui coordenação e controle excepcionais em trabalhos delicados.\n\n**Efeito:** ao desarmar mecanismos, manipular peças pequenas ou executar trabalhos manuais de precisão, receba **+1 no resultado de Mente**.\n\n**Custo:** se o dado de Mente mostrar **1**, uma peça, ferramenta ou componente fica danificado ou preso.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "e504ad69-ab69-4c48-8a70-4c4a99685640",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Médico de Campo",
+    "body": "Você sabe estabilizar ferimentos e manter pessoas em condições de agir.\n\n**Efeito:** durante um descanso breve, trate você ou um aliado para recuperar **um passo adicional** em um Atributo.\n\n**Custo:** o tratamento exige alguns minutos, instrumentos básicos e materiais adequados.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "f962b18f-6aeb-4290-862f-bfcbb179bee3",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Sobrevivente",
+    "body": "Você conhece abrigo, orientação, alimentos e perigos naturais.\n\n**Efeito:** em regiões selvagens, encontre água, abrigo básico ou uma direção segura quando esse recurso existir na área.\n\n**Custo:** conseguir o recurso exige tempo ou obriga o grupo a seguir uma rota menos direta.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "e360d95e-1322-4b5a-aa4d-dccc39adb9c2",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Voz de Comando",
+    "body": "Você sabe transformar hesitação em ação.\n\n**Efeito:** gaste sua ação principal e dê uma instrução clara a um aliado que possa ouvi-lo. A próxima rolagem dele diretamente ligada à instrução recebe **+1**.\n\n**Custo:** se o aliado seguir a instrução e falhar, você também fica sujeito à consequência quando ela puder alcançá-lo.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "27d9a185-3c37-484d-86a2-2b5eda19f0a5",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Companheiro Leal",
+    "body": "Um animal, espírito, máquina ou parceiro menor acompanha você.\n\n**Efeito:** uma vez por cena, receba **+1 no resultado do Atributo** quando o companheiro puder ajudar diretamente. Ele também pode carregar objetos pequenos, entregar mensagens ou explorar lugares acessíveis a ele.\n\n**Custo:** se for exposto a perigo direto, proteja-o ou deixe a Marca indisponível até que ele receba cuidado.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "7d8475cb-cc63-4e60-b4a6-deeafc77a93e",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Contato no Submundo",
+    "body": "Você conhece intermediários, contrabandistas e negociadores ilegais.\n\n**Efeito:** em uma comunidade habitada, encontre alguém disposto a negociar informação, mercadoria proibida ou acesso clandestino.\n\n**Custo:** depois de recorrer ao contato, a Marca fica indisponível até que você pague o preço ou cumpra o favor exigido.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "d18b6d8a-ccff-4523-aa4a-b4e3349aad5f",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Dívida Antiga",
+    "body": "Alguém poderoso deve a você um favor significativo.\n\n**Efeito:** uma vez por aventura, peça ajuda, informação, transporte, proteção ou acesso compatível com os recursos dessa pessoa.\n\n**Custo:** depois do favor, a Marca fica indisponível pelo restante da aventura e o contato pode colocar você no centro de um problema relacionado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "5d54a4e7-63d5-488c-b1aa-204ab4b9619f",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Nome Respeitado",
+    "body": "Uma organização, família, título ou feito conhecido abre portas para você.\n\n**Efeito:** entre pessoas que reconhecem sua reputação, consiga uma audiência, abrigo temporário ou tratamento respeitoso.\n\n**Custo:** agir contra as expectativas ligadas ao seu nome torna a Marca indisponível naquela comunidade.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  },
+  {
+    "id": "a184a07d-ade9-455f-98b1-21778123efd0",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Procurado",
+    "body": "Você conhece os métodos usados para perseguir pessoas porque já foi alvo deles.\n\n**Efeito:** ao evitar autoridades, caçadores ou sistemas de vigilância, receba **+1 no resultado do Atributo**.\n\n**Custo:** em uma falha, a próxima rolagem para escapar da mesma perseguição enfrenta **+1 no resultado da Resistência**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00"
+  }
+]
