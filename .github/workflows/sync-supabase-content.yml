@@ -39,7 +39,7 @@ jobs:
             | jq -er '.[0].content' > snapshots/system_rules.md
 
           curl -fsS \
-            "$SUPABASE_URL/rest/v1/compendium_cards?select=*&order=type.asc,group.asc,title.asc" \
+            "$SUPABASE_URL/rest/v1/compendium_cards?select=*&order=card_type.asc,card_group.asc,title.asc" \
             -H "apikey: $SUPABASE_KEY" \
             -H "Accept: application/json" \
             | jq '.' > snapshots/compendium_cards.json
