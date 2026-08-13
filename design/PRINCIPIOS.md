@@ -19,23 +19,55 @@ Use nomes clássicos e imediatamente compreensíveis quando eles descrevem bem a
 
 Em um sistema genérico, não presumir que apenas arquétipos de fantasia serão oficiais. Procurar nomes reconhecíveis dentro de cada gênero em vez de inventar uma taxonomia abstrata apenas para unificar tudo.
 
-## Classe sem novo subsistema
+## Personagem = quatro Marcas
 
-A hipótese-base de criação é **1 Marca de Classe + 3 Marcas comuns**.
+A criação usa **quatro Marcas livres**. Não existe Marca de Classe, Classe-base ou Especialização como regra.
 
-A Marca de Classe representa a fantasia central do personagem e continua sendo uma Marca. Ela deve ser mais ampla e definidora, não simplesmente mais forte numericamente.
+As Marcas são as únicas peças mecânicas dessa camada. Um personagem pode combinar treinamento, poder, equipamento, origem, contato, companheiro e outras fantasias sem obedecer a uma árvore de classe.
 
-Classe e Especialização servem como etiquetas de organização e recomendação. Marcas comuns não são exclusivas de uma Classe por padrão.
+## Receitas orientam; não restringem
+
+Classes, arquétipos e fantasias conhecidas aparecem no compêndio como **receitas**: combinações sugeridas de Marcas que ajudam o jogador a chegar rapidamente a um personagem reconhecível.
+
+Uma receita pode oferecer quatro Marcas para início rápido e alternativas para personalização. Ela não cria requisitos, exclusividades ou progressão própria.
+
+Exemplos de receitas: Paladino, Mago, Ladino, Médico, Hacker, Ocultista, Soldado e Investigador.
+
+## Descoberta por intenção
+
+O compêndio deve ajudar o jogador a procurar cartas por três caminhos complementares:
+
+- **Receita:** “que tipo de personagem quero montar?”;
+- **Função:** “o que quero que uma Marca faça?”;
+- **Busca livre/keywords:** “que palavras eu usaria para procurar isso?”.
+
+Não transformar todas as propriedades de uma carta em filtros públicos. Uma categoria só merece aparecer na interface se ajudar uma decisão real do usuário.
 
 ## Defaults fortes, liberdade preservada
 
-A criação deve oferecer caminhos prontos para iniciantes sem transformar recomendações em restrições. O jogador experiente pode ignorar filtros, combinar cartas livremente e criar ou adaptar suas próprias opções.
+A criação deve oferecer caminhos prontos para iniciantes sem transformar recomendações em restrições. O jogador experiente pode ignorar receitas e filtros, combinar cartas livremente e criar ou adaptar suas próprias opções.
 
 ## Marcas: efeito mecânico e manifestação narrativa separados
 
 A carta define o que mecanicamente acontece e seus limites. Aparência, origem e manifestação podem ser reinterpretadas para combinar com personagem e cenário.
 
 Mudar a descrição não pode conceder uma nova vantagem, permissão, alcance, potência ou evitar uma limitação da Marca.
+
+## Evitar redundância de fantasia sem diferença mecânica
+
+Não criar cartas diferentes apenas porque a manifestação narrativa mudou.
+
+Espada, machado, adaga ou alabarda não precisam de cartas próprias se todas apenas significarem “arma”. Familiar, drone, espírito ou animal companheiro podem usar a mesma Marca quando a diferença for apenas estética.
+
+Uma nova carta se justifica quando muda de forma relevante a decisão, a permissão, o risco, a posição, a informação, o recurso ou o impacto na mesa.
+
+## Potência compatível com aventureiros estabelecidos
+
+As Marcas devem ser relevantes para personagens que já começam competentes, aproximadamente na fantasia de personagens de D&D de nível 5–7.
+
+Uma Marca deve justificar ocupar um dos quatro slots. Em geral, ela deve conceder uma permissão relevante, uma especialização clara, uma nova opção tática, proteção significativa, informação recorrente ou outra mudança real na forma de jogar.
+
+Evitar microbônus e equipamentos mundanos tratados como Marcas quando poderiam simplesmente existir na ficção.
 
 ## Modificadores contidos
 
