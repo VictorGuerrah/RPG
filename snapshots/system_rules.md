@@ -468,7 +468,7 @@ O capitão usa seus próprios subordinados como proteção.
 Criar um personagem exige dois passos:
 
 1. distribua pontos entre **Corpo**, **Mente** e **Espírito**;
-2. crie três **Marcas**. Para cada uma, escreva **Nome**, **Descrição**, **Efeito** e **Custo**.
+2. escolha ou crie quatro **Marcas**. Para cada uma, considere **Nome**, **Descrição**, **Efeito** e **Custo**.
 ## Distribua os Atributos
 
 Você tem **6 pontos** para distribuir entre Corpo, Mente e Espírito. Cada Atributo recebe um dado conforme seu custo.
@@ -497,7 +497,7 @@ Estas são algumas distribuições possíveis:
 
 Não existe uma distribuição ideal. Escolha os dados que combinam com o personagem que você quer jogar.
 
-## Crie suas Marcas
+## Escolha suas Marcas\n\nEscolha **quatro Marcas** para representar aquilo que torna seu personagem único. Você pode escolher livremente entre as cartas, adaptar uma delas ou criar uma nova. As **receitas** do compêndio são apenas combinações sugeridas para ajudar quem já tem uma fantasia de personagem em mente; elas não criam Classes nem restringem escolhas.
 ### Escreva um Efeito
 
 Um bom Efeito diz quando a Marca funciona e o que ela muda na mesa.
