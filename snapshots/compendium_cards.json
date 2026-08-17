@@ -1,69 +1,264 @@
 [
   {
-    "id": "976a5cb8-2d3a-4c82-85a5-1f4eb1e3ccdb",
+    "id": "fa2f641d-6a6d-432b-b9a6-4bb249e51b79",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Mímico",
-    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Objeto Falso.** Enquanto não se mover, parece um objeto comum. Seu primeiro ataque contra alguém enganado é um Ataque Surpresa.\n\n**Instinto:** esperar que alguém se aproxime e bloquear a saída depois do ataque.",
+    "card_group": "Adversários comuns",
+    "title": "Aranha Gigante",
+    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Teia.** Em vez de causar dano, um ataque bem-sucedido pode prender o alvo. Libertar-se exige uma ação de Corpo contra Resistência d6.\n\n**Instinto:** imobilizar uma presa e arrastá-la para longe do grupo.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "9aa1c09d-089c-4fce-90df-800759bcd661",
+    "id": "7e1208b1-b6a3-4d7e-bbb8-f9854485ed60",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Basilisco",
-    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Olhar Petrificante.** Use uma ação contra alguém Perto que possa vê-lo. O alvo defende com Espírito; em falha, sofre 1 dano em Corpo e não pode se mover até receber ajuda ou gastar uma ação para se libertar.\n\n**Instinto:** imobilizar a ameaça mais próxima antes de avançar.",
+    "card_group": "Adversários comuns",
+    "title": "Armadura Animada",
+    "body": "**Comum | Construto | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Placas Vazias.** Reduza em **1** o primeiro dano físico sofrido na cena.\n\n**Instinto:** guardar uma entrada, objeto ou pessoa sem abandonar seu posto.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "460153d7-71de-40ca-bda2-92acb30b5b29",
+    "id": "e34254f6-acee-4831-ba02-de88a2846ac6",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Monstro da Ferrugem",
-    "body": "**Especialista | Monstruosidade | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Corroer Metal.** Em um ataque bem-sucedido, pode deixar uma arma, armadura ou ferramenta metálica indisponível em vez de causar dano. O item retorna após reparo.\n\n**Instinto:** alcançar o maior objeto de metal e fugir depois de se alimentar.",
+    "card_group": "Adversários comuns",
+    "title": "Autômato de Choque",
+    "body": "**Comum | Construto | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Descarga Atordoante.** Quando obtiver margem 3+ em um ataque, pode fazer o alvo perder sua Reação até o início da próxima rodada em vez de produzir outro benefício de margem.\n\n**Instinto:** atingir quem protege os aliados e abrir espaço para os demais.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "autômato",
+      "construto",
+      "choque",
+      "reação",
+      "atordoar"
+    ]
+  },
+  {
+    "id": "c7554239-e4aa-4275-a992-44da614b20c1",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Elemental Menor",
+    "body": "**Comum | Elemental | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Corpo Elemental.** Ao sofrer dano em combate Próximo, pode criar uma condição coerente com seu elemento, como fogo, gelo, vento ou terreno instável.\n\n**Instinto:** espalhar seu elemento e consumir aquilo que o contém.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "091f84b4-8772-40d3-a2a3-15997c3065b9",
+    "id": "8f7a0d86-a74a-4964-81c0-b978383ff235",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Feiticeiro do Culto",
-    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Selo Doloroso.** Use uma ação para marcar uma área Próxima. A primeira criatura que atravessá-la sofre 1 dano ou interrompe o movimento.\n\n**Instinto:** lutar atrás dos aliados e transformar o terreno em armadilha.\n\n---",
+    "card_group": "Adversários comuns",
+    "title": "Enxame Voraz",
+    "body": "**Comum | Enxame | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Muitos Corpos.** Ataques contra um único indivíduo recebem -1 contra o enxame; ataques de área ou métodos adequados para dispersar muitas criaturas ignoram essa proteção.\n\n**Instinto:** ocupar todo espaço livre, subir sobre alvos caídos e perseguir sangue ou alimento.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "enxame",
+      "ratos",
+      "insetos",
+      "muitos",
+      "área"
+    ]
+  },
+  {
+    "id": "e6191af9-728f-469b-8a09-d09a6a472bbf",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Espírito Possessor",
+    "body": "**Comum | Espírito | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Possessão.** Em vez de causar dano a um alvo Próximo, pode tentar possuí-lo. O alvo usa Espírito como Resistência. Em sucesso, o espírito ocupa seu corpo até sofrer dano, ser expulso por uma ação apropriada ou o hospedeiro superar Espírito d8 em seu turno. Enquanto possuído, no início de cada turno o espírito pode obrigar o hospedeiro a mover-se uma distância ou soltar um item que esteja segurando. O espírito não controla a ação principal nem pode usar Marcas do personagem.\n\n**Instinto:** escolher o corpo mais útil e colocar aliados uns contra os outros.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:39:36.359807+00:00",
+    "functions": [],
+    "keywords": [
+      "espírito",
+      "possessão",
+      "controle",
+      "sobrenatural",
+      "fantasma"
+    ]
+  },
+  {
+    "id": "d504fed2-cc37-4ccd-8abb-1ae8ee395065",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Ghoul",
+    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Garras Paralisantes.** Quando obtiver margem 3+ em um ataque Próximo, o alvo não pode se mover até gastar uma ação para recuperar o controle do corpo.\n\n**Instinto:** imobilizar alguém e arrastá-lo para longe dos aliados.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "ghoul",
+      "morto-vivo",
+      "paralisia",
+      "garras",
+      "controle"
+    ]
+  },
+  {
+    "id": "01f236b4-5a36-4696-8ce3-9351fdeff02a",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Guarda Veterano",
+    "body": "**Veterano | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Manter a Linha.** Quando um inimigo tentar atravessar sua posição Próxima, gaste sua Reação. O inimigo precisa superar Capacidade d8 com Corpo ou interrompe o movimento diante do guarda.\n\n**Instinto:** proteger uma passagem e obrigar os inimigos a lutar onde ele escolheu.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
+    "functions": [],
+    "keywords": [
+      "guarda",
+      "veterano",
+      "bloqueio",
+      "linha de frente",
+      "reação"
+    ]
+  },
+  {
+    "id": "547e01d3-724a-4aa5-aba7-fcbc3661a628",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Guerreiro Orc",
+    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Fúria Ferida.** Enquanto estiver com Vitalidade 1, receba **+1 nos ataques**.\n\n**Instinto:** ocupar o centro da luta e desafiar quem parecer mais perigoso.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "3f228aba-1db5-402b-82cf-a45a3482580b",
+    "id": "39b6de96-7bf6-4f2d-95f6-db128f80bd7a",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Lobo de Caça",
+    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Derrubar.** Em um sucesso forte ou decisivo no ataque, o alvo cai ou perde sua posição.\n\n**Instinto:** perseguir quem fugir e separar o alvo mais lento.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "f5d4abfc-59ca-4958-8449-0fdaaadbd886",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Mercenário Tático",
+    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Fogo de Supressão.** Use uma ação para cobrir uma área Perto. Até seu próximo turno, quem atravessá-la sob sua linha de tiro precisa superar Capacidade d8 com Corpo ou interromper o movimento e procurar cobertura.\n\n**Instinto:** dominar linhas de visão e obrigar o inimigo a mover-se por rotas previsíveis.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "mercenário",
+      "soldado",
+      "supressão",
+      "arma de fogo",
+      "controle",
+      "moderno"
+    ]
+  },
+  {
+    "id": "ab621820-cfaf-415c-ae35-a91a1096d6be",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Predador Camaleônico",
+    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Camuflagem Ativa.** Se terminar o turno sem estar Próximo de um inimigo, pode desaparecer no ambiente. Até atacar ou ser localizado por uma ação apropriada, seu próximo ataque pode ser um Ataque Surpresa.\n\n**Instinto:** mudar de posição depois de cada investida e evitar confronto prolongado.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "predador",
+      "camuflagem",
+      "furtividade",
+      "emboscada",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "32aeaaa5-32e1-4353-8dbb-9b4c5982e3ea",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Saqueador Goblin",
+    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Ataque em Bando.** Quando atacar um alvo que já foi atacado por outro goblin nesta rodada, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** cercar o alvo mais vulnerável e fugir quando estiver sozinho.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "e16ffc04-eaf5-436b-b19e-ff58ae210bad",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Sombra Faminta",
+    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Forma Escura.** Ataques físicos sem luz intensa, magia ou outra forma adequada de alcançá-la recebem **-1**.\n\n**Instinto:** apagar fontes de luz e atacar quem estiver sozinho.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "7abeecc7-39a8-4599-8ef4-68ade5875f4c",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Adversários comuns",
+    "title": "Zumbi Obstinado",
+    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d4 | Vitalidade 3**\n\n**Marca: Recusa em Cair.** Na primeira vez que chegaria a Vitalidade 0, permaneça com Vitalidade 1.\n\n**Instinto:** avançar pelo caminho mais curto e agarrar quem estiver ao alcance.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "efb4bca0-837d-43fa-a19b-9b4c27e04d79",
     "owner_id": null,
     "card_type": "Adversário",
     "card_group": "Brutamontes",
-    "title": "Ogro",
-    "body": "**Brutamontes | Gigante | 2 pontos**\n\n**Capacidade d6 | Vitalidade 4**\n\n**Marca: Golpe Anunciado.** Prepare um golpe contra uma área Próxima. No próximo turno, ataque todos que permanecerem ali; quem for atingido sofre **+1 dano**.\n\n**Instinto:** quebrar cobertura, espalhar o grupo e perseguir quem o feriu.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "title": "Abominação Tentacular",
+    "body": "**Brutamontes | Aberração | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Alcance Monstruoso.** Pode realizar ataques corpo a corpo contra alvos Perto. Em sucesso, pode puxar o alvo para Próximo em vez de causar dano.\n\n**Instinto:** espalhar os tentáculos, quebrar a formação e trazer um alvo por vez ao centro.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
     "functions": [],
-    "keywords": []
+    "keywords": [
+      "abominação",
+      "tentáculos",
+      "aberração",
+      "puxar",
+      "alcance",
+      "brutamontes"
+    ]
   },
   {
-    "id": "eb96ce3a-a360-4938-a32e-51c4e74545f8",
+    "id": "fbe4bb66-7db9-4d16-a1fe-210285b984fa",
     "owner_id": null,
     "card_type": "Adversário",
     "card_group": "Brutamontes",
-    "title": "Troll",
-    "body": "**Brutamontes | Gigante | 2 pontos**\n\n**Capacidade d6 | Vitalidade 4**\n\n**Marca: Regeneração.** No início do turno, recupere 1 de Vitalidade se não tiver sofrido dano de fogo ou outra fraqueza estabelecida desde o turno anterior.\n\n**Instinto:** suportar os primeiros golpes e avançar sobre o personagem mais próximo.",
+    "title": "Cubo Gelatinoso",
+    "body": "**Brutamontes | Limo | 2 pontos**\n\n**Capacidade d4 | Vitalidade 5**\n\n**Marca: Engolfar.** Em um ataque bem-sucedido, o alvo fica preso dentro do cubo. Escapar exige uma ação de Corpo contra Resistência d8. Enquanto estiver preso, no início do turno do cubo o alvo defende com Corpo contra Capacidade d4; em falha, sofre 1 dano.\n\n**Instinto:** avançar sem desviar e dissolver tudo que não puder expulsar.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:39:36.359807+00:00",
     "functions": [],
-    "keywords": []
+    "keywords": [
+      "cubo gelatinoso",
+      "limo",
+      "engolfar",
+      "prender",
+      "digestão",
+      "brutamontes"
+    ]
   },
   {
     "id": "0c9b055d-07bc-40ce-a8d8-068cff3b25c1",
@@ -73,8 +268,27 @@
     "title": "Escavador Blindado",
     "body": "**Brutamontes | Fera | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Ataque Subterrâneo.** Depois de passar um turno sob o solo, reapareça em qualquer ponto Perto e realize um Ataque Surpresa.\n\n**Instinto:** desaparecer depois de ser cercado e atacar por baixo do alvo mais pesado.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
+  },
+  {
+    "id": "3492604f-54dc-4ea7-9b98-286c346db7b7",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Escorpião Gigante",
+    "body": "**Brutamontes | Fera | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Pinças e Ferrão.** Em um ataque Próximo, pode agarrar em vez de causar dano. Enquanto segura um alvo, seu próximo ataque contra ele causa +1 dano e o libera.\n\n**Instinto:** prender a ameaça mais móvel e usar o ferrão antes de trocar de alvo.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "escorpião",
+      "fera",
+      "agarrar",
+      "ferrão",
+      "brutamontes"
+    ]
   },
   {
     "id": "5368b163-3abf-4d33-b835-8332188f1c9a",
@@ -84,28 +298,69 @@
     "title": "Golem de Pedra",
     "body": "**Brutamontes | Construto | 2 pontos**\n\n**Capacidade d6 | Vitalidade 5**\n\n**Marca: Corpo Inerte.** Veneno, medo, intimidação e controle mental comum não o afetam.\n\n**Instinto:** cumprir uma ordem literal e destruir tudo que impedir sua execução.\n\n---",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "1cb6fe8a-36c1-49be-b128-bda99a2263bf",
+    "id": "f2cd043a-1e08-40f7-86b9-34769ad1eb19",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Necromante",
-    "body": "**Líder | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Erguer os Mortos.** Uma vez por cena, use uma ação para colocar dois Esqueletos Rachados Próximos a restos mortais disponíveis.\n\n**Instinto:** aumentar o número de aliados e fugir quando for alcançado.",
+    "card_group": "Brutamontes",
+    "title": "Mecha Blindado",
+    "body": "**Brutamontes | Máquina | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Blindagem Frontal.** Reduza em 1 o primeiro dano sofrido em cada rodada por um ataque vindo de sua frente. Ataques pelas laterais, por trás ou contra um ponto fraco exposto ignoram esta proteção.\n\n**Instinto:** manter o lado blindado voltado para a maior ameaça e controlar corredores abertos.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "mecha",
+      "robô",
+      "blindagem",
+      "sci-fi",
+      "posição",
+      "brutamontes"
+    ]
+  },
+  {
+    "id": "3f228aba-1db5-402b-82cf-a45a3482580b",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Ogro",
+    "body": "**Brutamontes | Gigante | 2 pontos**\n\n**Capacidade d6 | Vitalidade 4**\n\n**Marca: Golpe Anunciado.** Prepare um golpe contra uma área Próxima. No próximo turno, ataque todos que permanecerem ali; quem for atingido sofre **+1 dano**.\n\n**Instinto:** quebrar cobertura, espalhar o grupo e perseguir quem o feriu.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "f75dcf9e-712b-49da-aa4b-965ba186ee1e",
+    "id": "5a45d17a-2b37-4360-94d0-c8fc9918833d",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Xamã de Guerra",
-    "body": "**Suporte | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Revigorar.** Uma vez por cena, use uma ação para fazer um aliado Próximo recuperar 1 de Vitalidade.\n\n**Instinto:** manter o aliado mais perigoso em combate e se esconder atrás dele.",
+    "card_group": "Brutamontes",
+    "title": "Treant",
+    "body": "**Brutamontes | Planta | 2 pontos**\n\n**Capacidade d6 | Vitalidade 5**\n\n**Marca: Raízes Profundas.** Enquanto permanecer no mesmo lugar, não pode ser empurrado e pode usar uma ação para prender um alvo Perto; escapar exige Corpo contra Resistência d8. Fogo apropriado ignora a proteção desta Marca e impede seu uso até o próximo turno.\n\n**Instinto:** transformar o terreno em obstáculo e proteger aquilo que considera parte da floresta.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "treant",
+      "árvore",
+      "planta",
+      "raízes",
+      "fogo",
+      "controle"
+    ]
+  },
+  {
+    "id": "eb96ce3a-a360-4938-a32e-51c4e74545f8",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Brutamontes",
+    "title": "Troll",
+    "body": "**Brutamontes | Gigante | 2 pontos**\n\n**Capacidade d6 | Vitalidade 4**\n\n**Marca: Regeneração.** No início do turno, recupere 1 de Vitalidade se não tiver sofrido dano de fogo ou outra fraqueza estabelecida desde o turno anterior.\n\n**Instinto:** suportar os primeiros golpes e avançar sobre o personagem mais próximo.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
@@ -117,6 +372,7 @@
     "title": "Batedor Goblin",
     "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Bater e Correr.** Depois de realizar um ataque, pode mover-se de Próximo para Perto sem gastar sua ação principal.\n\n**Instinto:** cercar, atacar pelas laterais e fugir antes de ser encurralado.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "goblin",
@@ -127,42 +383,215 @@
     ]
   },
   {
-    "id": "2f41460f-1998-40be-bc9e-b79024f75909",
+    "id": "3d1e8e78-8205-4d40-b55d-24b2063ce604",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Dríade Guardiã",
-    "body": "**Suporte | Feérico | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Raízes Vivas.** Use uma ação para prender um alvo Perto. Ele defende com Corpo; em falha, não pode se mover até gastar uma ação para escapar.\n\n**Instinto:** separar invasores, proteger árvores antigas e negociar antes de matar.",
+    "card_group": "Capangas",
+    "title": "Cultista Fanático",
+    "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Martírio.** Quando um aliado Próximo é derrotado, o próximo ataque do cultista recebe **+1**.\n\n**Instinto:** proteger o ritual e provar sua devoção diante dos outros.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "e6ae538b-4589-4088-9658-c96742a65549",
+    "id": "a82eba63-6c4c-4fde-9026-bec2a0795dac",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Comandante Mercenário",
-    "body": "**Líder | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Reposicionar.** Uma vez por rodada, gaste sua Reação para mover um aliado Perto para uma posição Próxima sem provocar uma rolagem.\n\n**Instinto:** controlar cobertura, concentrar ataques e preservar uma rota de retirada.\n\n---",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "01f236b4-5a36-4696-8ce3-9351fdeff02a",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Guarda Veterano",
-    "body": "**Veterano | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Manter a Linha.** Quando um inimigo tentar atravessar sua posição Próxima, gaste sua Reação. O inimigo precisa superar Capacidade d8 com Corpo ou interrompe o movimento diante do guarda.\n\n**Instinto:** proteger uma passagem e obrigar os inimigos a lutar onde ele escolheu.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "card_group": "Capangas",
+    "title": "Drone Explosivo",
+    "body": "**Capanga | Construto | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Sobrecarga.** Use uma ação para iniciar a sobrecarga. Se ainda estiver ativo no início de seu próximo turno, explode: realize um ataque contra todos Próximos e depois fique fora de combate.\n\n**Instinto:** aproximar-se do maior agrupamento e forçar todos a se dispersarem.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
     "functions": [],
     "keywords": [
-      "guarda",
-      "veterano",
-      "bloqueio",
-      "linha de frente",
-      "reação"
+      "drone",
+      "explosivo",
+      "capanga",
+      "sci-fi",
+      "área",
+      "contagem regressiva"
+    ]
+  },
+  {
+    "id": "7c27c26c-335b-4e65-b278-db7e48d05241",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Esporo Faminto",
+    "body": "**Capanga | Planta | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Nuvem Irritante.** Quando for destruído, quem estiver Próximo recebe **-1 na próxima rolagem**.\n\n**Instinto:** aproximar-se de calor, movimento e respiração.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "92425416-5d73-41ea-a77b-4b8479fb3f62",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Esqueleto Rachado",
+    "body": "**Capanga | Morto-vivo | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Sem Medo.** Medo, intimidação e dor não impedem o esqueleto de agir.\n\n**Instinto:** cumprir a última ordem recebida, mesmo quando isso o destrói.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "57d12870-4ad1-468f-aba4-d6c35c95f421",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Ladrão Oportunista",
+    "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Mãos Rápidas.** Em um ataque bem-sucedido contra alguém Próximo, pode tomar um pequeno item acessível em vez de causar dano.\n\n**Instinto:** roubar o que estiver exposto e desaparecer antes de uma luta justa.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "ladrão",
+      "capanga",
+      "roubo",
+      "furtividade",
+      "item"
+    ]
+  },
+  {
+    "id": "7563a907-5c61-4090-a2ae-8c599d3d0f70",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Parasita Alienígena",
+    "body": "**Capanga | Aberração | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Agarrar ao Hospedeiro.** Em um ataque bem-sucedido, pode se prender ao alvo em vez de causar dano. Enquanto estiver preso, o alvo recebe -1 em ações físicas que exijam liberdade de movimento. Removê-lo exige uma ação de Corpo contra Resistência d6.\n\n**Instinto:** saltar no alvo isolado e permanecer fora do alcance dos demais.",
+    "created_at": "2026-08-14T12:36:25.714516+00:00",
+    "updated_at": "2026-08-14T12:36:25.714516+00:00",
+    "functions": [],
+    "keywords": [
+      "alienígena",
+      "parasita",
+      "capanga",
+      "agarrar",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "152c2b8d-f93a-4d24-9880-6bca5f2c4d2c",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Capangas",
+    "title": "Sentinela Mecânica",
+    "body": "**Capanga | Construto | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Alarme.** Em sua primeira ação, pode alertar os aliados; a próxima rolagem de um deles recebe **+1**.\n\n**Instinto:** identificar intrusos, bloquear a passagem e chamar reforços.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "580092fd-0882-4672-9754-732a1e742d7f",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Arqueiro Goblin",
+    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Tiro de Posição.** Ao atacar de Longe sem ter se movido no turno, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** manter distância, procurar cobertura e trocar de posição quando ameaçado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "50f3a694-deb1-4f7b-991e-23bd866d7fa9",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Assassino",
+    "body": "**Especialista | Humanoide | 2 pontos**\n\n**Capacidade d10 | Vitalidade 2**\n\n**Marca: Golpe de Emboscada.** Quando realizar um Ataque Surpresa contra um alvo isolado, cause +1 dano em sucesso. Depois do primeiro ataque, perde esse benefício até conseguir desaparecer novamente da percepção dos inimigos.\n\n**Instinto:** eliminar uma vítima vulnerável e abandonar uma luta que deixou de ser injusta.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "assassino",
+      "furtividade",
+      "emboscada",
+      "dano",
+      "especialista"
+    ]
+  },
+  {
+    "id": "298e14b4-ccce-41d6-929a-1d59670d2c00",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Atirador de Elite",
+    "body": "**Especialista | Humanoide | 2 pontos**\n\n**Capacidade d10 | Vitalidade 2**\n\n**Marca: Alvo Marcado.** Use uma ação para mirar em alguém que possa ver a Longe. Se não perder a linha de visão até seu próximo turno, o primeiro ataque contra esse alvo causa +1 dano em sucesso.\n\n**Instinto:** escolher o alvo mais importante, mudar de posição quando descoberto e evitar combate Próximo.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "atirador",
+      "sniper",
+      "longo alcance",
+      "mira",
+      "moderno",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "9aa1c09d-089c-4fce-90df-800759bcd661",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Basilisco",
+    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Olhar Petrificante.** Use uma ação contra alguém Perto que possa vê-lo. O alvo defende com Espírito; em falha, sofre 1 dano em Corpo e não pode se mover até receber ajuda ou gastar uma ação para se libertar.\n\n**Instinto:** imobilizar a ameaça mais próxima antes de avançar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "ffaa6ac9-9c63-4714-b36a-7aba4aec6cab",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Bruxa das Maldições",
+    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Mau-Olhado.** Use uma ação contra um alvo Perto usando Capacidade contra Espírito. Em sucesso, escolha movimento, ataques ou Resistências: o alvo recebe -1 na primeira rolagem desse tipo a cada rodada. Só uma criatura pode estar amaldiçoada por vez; a maldição termina se a bruxa ficar fora de combate ou se for quebrada por uma ação apropriada.\n\n**Instinto:** enfraquecer a maior ameaça e manter distância enquanto a maldição trabalha.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "bruxa",
+      "maldição",
+      "magia",
+      "controle",
+      "debuff"
+    ]
+  },
+  {
+    "id": "091f84b4-8772-40d3-a2a3-15997c3065b9",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Feiticeiro do Culto",
+    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Selo Doloroso.** Use uma ação para marcar uma área Próxima. A primeira criatura que atravessá-la sofre 1 dano ou interrompe o movimento.\n\n**Instinto:** lutar atrás dos aliados e transformar o terreno em armadilha.\n\n---",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "c7c91cc6-6921-408a-b6e6-fc4547b48fa0",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Hacker Hostil",
+    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Intrusão Remota.** Contra tecnologia conectada que possa alcançar, pode atacar um dispositivo, sistema ou Marca tecnológica. Em sucesso, deixe-o indisponível até alguém gastar uma ação apropriada para reiniciá-lo ou expulsar a intrusão.\n\n**Instinto:** desligar sensores, armas e rotas de fuga antes de atingir pessoas.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "hacker",
+      "tecnologia",
+      "sci-fi",
+      "sabotagem",
+      "sistemas"
     ]
   },
   {
@@ -173,6 +602,7 @@
     "title": "Harpia",
     "body": "**Especialista | Monstruosidade | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Canção Hipnótica.** Use uma ação contra uma criatura Perto que possa ouvir. Ela usa Espírito como Resistência. Em sucesso, deve se aproximar da harpia em seu próximo turno ou gastar sua ação resistindo ao chamado.\n\n**Instinto:** atrair uma vítima para um lugar alto, isolado ou perigoso.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "harpia",
@@ -183,6 +613,103 @@
     ]
   },
   {
+    "id": "91474b2d-72d3-4a0d-ac2f-fb85f236319d",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Manticora",
+    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Rajada de Espinhos.** Use uma ação para atacar até dois alvos diferentes Perto. Resolva uma rolagem separada contra cada um.\n\n**Instinto:** circular fora do alcance corpo a corpo e obrigar o grupo a se separar.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "manticora",
+      "monstro",
+      "espinhos",
+      "múltiplos alvos",
+      "voador"
+    ]
+  },
+  {
+    "id": "976a5cb8-2d3a-4c82-85a5-1f4eb1e3ccdb",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Mímico",
+    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Objeto Falso.** Enquanto não se mover, parece um objeto comum. Seu primeiro ataque contra alguém enganado é um Ataque Surpresa.\n\n**Instinto:** esperar que alguém se aproxime e bloquear a saída depois do ataque.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "460153d7-71de-40ca-bda2-92acb30b5b29",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Monstro da Ferrugem",
+    "body": "**Especialista | Monstruosidade | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Corroer Metal.** Em um ataque bem-sucedido, pode deixar uma arma, armadura ou ferramenta metálica indisponível em vez de causar dano. O item retorna após reparo.\n\n**Instinto:** alcançar o maior objeto de metal e fugir depois de se alimentar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "6435414d-dfd6-4a16-b589-703db2228c64",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Psíquico Controlador",
+    "body": "**Especialista | Psíquico | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Impulso Telecinético.** Em vez de causar dano, um ataque contra alguém Perto pode empurrar o alvo para Perto, derrubá-lo ou arrancar um objeto acessível de suas mãos.\n\n**Instinto:** manter inimigos longe e transformar posição em arma.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "psíquico",
+      "telecinese",
+      "controle",
+      "empurrar",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "63530cf6-8210-4f0b-8eff-4848b11978dc",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Torreta Automática",
+    "body": "**Especialista | Construto | 1 ponto**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Zona de Tiro.** Escolha uma área Perto que possa observar. Enquanto permanecer instalada e funcional, pode gastar sua Reação para atacar a primeira criatura hostil que entrar ou sair dessa área.\n\n**Instinto:** controlar um corredor ou acesso e nunca perseguir alvos fora de sua linha de fogo.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "torreta",
+      "robô",
+      "reação",
+      "zona",
+      "arma",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "d76de416-cf57-4834-8425-9f2f9d7aef13",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Especialistas",
+    "title": "Wyvern",
+    "body": "**Veterano | Dragão | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Mergulho Venenoso.** Depois de se mover de Longe para Próximo voando, seu ataque pode causar 1 dano e, com margem 3+, também aplicar -1 à próxima ação física do alvo.\n\n**Instinto:** mergulhar, ferir e voltar ao ar antes de ser cercada.",
+    "created_at": "2026-08-14T12:36:46.126544+00:00",
+    "updated_at": "2026-08-14T12:36:46.126544+00:00",
+    "functions": [],
+    "keywords": [
+      "wyvern",
+      "dragão",
+      "voo",
+      "veneno",
+      "mergulho"
+    ]
+  },
+  {
     "id": "d729aebf-4a17-4c43-aec7-0ef59636b17f",
     "owner_id": null,
     "card_type": "Adversário",
@@ -190,6 +717,7 @@
     "title": "Arcanista Imortal",
     "body": "**Solo | Morto-vivo | 4 pontos**\n\n- **Corpo d6**\n- **Mente d12**\n- **Espírito d6**\n\n**Marca: Feitiço Preparado.** No primeiro turno, escolha fogo, gelo, medo ou deslocamento. Até o fim da cena, ataques mágicos desse tipo usam Mente e podem alcançar alvos Perto.\n\n**Marca: Âncora da Alma.** Na primeira vez em que ficaria fora de combate, permaneça em cena com apenas um Atributo não Abalado. Destruir ou neutralizar a âncora impede este efeito.\n\n**Marca: Passo Arcano.** Quando for alvo de um ataque e puder perceber o agressor, pode gastar sua Reação para mover-se de Próximo para Perto antes da rolagem. Se isso tornar o ataque impossível, ele é evitado; caso contrário, a rolagem continua normalmente.\n\n**Instinto:** estudar as capacidades do grupo, explorar sua maior fraqueza e proteger a âncora da alma.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "lich",
@@ -201,6 +729,44 @@
     ]
   },
   {
+    "id": "7ec1748c-2ff1-4fb2-a047-7e25ef24bfb8",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Colosso Mecânico",
+    "body": "**Solo | Construto | 4 pontos**\n\n- **Corpo d12**\n- **Mente d8**\n- **Espírito d6**\n\n**Marca: Sistemas Independentes.** No início de cada rodada, escolha Canhão ou Braço. Até a rodada terminar, recebe uma Reação adicional que só pode usar para atacar com o sistema escolhido.\n\n**Marca: Ponto Fraco Exposto.** Depois que usar Sistemas Independentes pela segunda vez na cena, exponha um componente. Um personagem que gaste uma ação para alcançá-lo pode atacar contra Resistência d8 em vez do Atributo normal do Colosso até o componente ser protegido novamente no turno seguinte.\n\n**Instinto:** dominar uma área, alternar sistemas e manter o lado vulnerável longe dos inimigos.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
+    "functions": [],
+    "keywords": [
+      "colosso",
+      "mecha",
+      "robô",
+      "solo",
+      "sci-fi",
+      "ponto fraco"
+    ]
+  },
+  {
+    "id": "4a821094-3f74-4588-8e0d-13ddcf83f8fd",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Demônio Maior",
+    "body": "**Solo | Infernal | 4 pontos**\n\n- **Corpo d10**\n- **Mente d8**\n- **Espírito d10**\n\n**Marca: Presença Infernal.** A primeira vez em cada cena que uma criatura se aproxima do demônio, ela precisa superar Espírito d10 ou não pode voluntariamente se aproximar mais até o fim do turno.\n\n**Marca: Chamas do Abismo.** Use uma ação para atacar todos em uma área Perto. Depois disso, esta Marca fica indisponível até o demônio passar um turno sem usá-la.\n\n**Marca: Passo pelas Chamas.** Quando for cercado por duas ou mais criaturas, pode gastar sua Reação para mover-se para qualquer posição Perto que possa alcançar narrativamente através de fogo, sombra ou ruptura sobrenatural.\n\n**Instinto:** quebrar a coragem do grupo, punir agrupamentos e obrigar os inimigos a persegui-lo.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
+    "functions": [],
+    "keywords": [
+      "demônio",
+      "infernal",
+      "solo",
+      "medo",
+      "fogo",
+      "teleporte"
+    ]
+  },
+  {
     "id": "da008e07-0623-417c-8afa-c853ade88e05",
     "owner_id": null,
     "card_type": "Adversário",
@@ -208,6 +774,7 @@
     "title": "Dragão Jovem",
     "body": "**Solo | Dragão | 4 pontos**\n\n- **Corpo d10**\n- **Mente d8**\n- **Espírito d6**\n\n**Marca: Sopro Elemental.** Use uma ação para atacar todos em uma área Perto. Depois disso, a Marca fica indisponível até o dragão passar um turno preparando um novo sopro.\n\n**Marca: Voo Poderoso.** Mova-se entre Perto e Longe sem usar a ação principal quando houver espaço para voar.\n\n**Marca: Golpe de Asas.** Quando duas ou mais criaturas estiverem Próximas, pode gastar sua Reação para atacar uma delas com Corpo. Em sucesso, empurre-a para Perto em vez de causar dano.\n\n**Instinto:** dominar o campo do alto, proteger seu tesouro e punir grupos amontoados.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "dragão",
@@ -226,6 +793,7 @@
     "title": "Gigante Errante",
     "body": "**Solo | Gigante | 4 pontos**\n\n- **Corpo d12**\n- **Mente d6**\n- **Espírito d6**\n\n**Marca: Varredura.** Use uma ação para atacar todos que estiverem Próximos. Em sucesso, cause dano ou arremesse o alvo para Perto.\n\n**Marca: Arremesso de Rocha.** Ataque um ponto Longe. Em sucesso, quem estiver Próximo do impacto precisa se mover ou recebe -1 na próxima rolagem.\n\n**Marca: Passos que Abalam.** Depois de sofrer dano de alguém Próximo, pode gastar sua Reação para fazer essa criatura superar Corpo d12 ou ser empurrada para Perto.\n\n**Instinto:** usar tamanho e terreno para impedir que inimigos permaneçam juntos.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "gigante",
@@ -244,6 +812,7 @@
     "title": "Guardião Minotauro",
     "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d6**\n- **Espírito d6**\n\n**Marca: Investida.** Depois de se mover de Perto para Próximo, ataque com Corpo. Em sucesso, empurre o alvo para Perto ou cause +1 dano.\n\n**Marca: Labirinto Familiar.** Ao perseguir, esconder-se ou cortar caminho em seu território, receba +1 no resultado do Atributo.\n\n**Marca: Interceptar.** Quando uma criatura Perto se mover para Próximo de outro alvo, o minotauro pode gastar sua Reação para mover-se para Próximo dela e tornar-se o obstáculo em seu caminho.\n\n**Instinto:** separar intrusos e encurralá-los onde não possam recuar.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "minotauro",
@@ -254,6 +823,64 @@
     ]
   },
   {
+    "id": "3a3d559b-d02d-4451-9372-6a68002de5fc",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Hidra",
+    "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d4**\n- **Espírito d8**\n\n**Marca: Muitas Cabeças.** No início de cada rodada, recebe três Reações. Essas Reações só podem ser usadas para Defender ou para realizar uma mordida contra uma criatura que entrar ou agir Próxima da Hidra. No máximo duas dessas Reações podem ser usadas para morder na mesma rodada, e cada criatura só pode provocar uma mordida dessas por rodada.\n\n**Marca: Cabeças Renascidas.** Uma vez por rodada, depois de sofrer dano, recupere Corpo em um passo se não tiver sofrido dano de fogo desde seu último turno.\n\n**Instinto:** atacar alvos diferentes, cercar o grupo e proteger o corpo central.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:38:40.965257+00:00",
+    "functions": [],
+    "keywords": [
+      "hidra",
+      "solo",
+      "muitas cabeças",
+      "reação",
+      "regeneração",
+      "fogo"
+    ]
+  },
+  {
+    "id": "5bbd6070-0bc7-489e-a2de-8ad8546f7dd3",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Kraken",
+    "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d6**\n- **Espírito d8**\n\n**Marca: Tentáculos Distantes.** Pode realizar ataques físicos contra alvos Perto. Em sucesso, pode agarrar e puxar o alvo para Próximo em vez de causar dano. Pode manter até dois alvos agarrados.\n\n**Marca: Onda Violenta.** Quando sofrer dano, pode gastar sua Reação para atacar todos que estiverem Próximos da água ou de seus tentáculos; em sucesso, empurre para Perto em vez de causar dano.\n\n**Instinto:** agarrar alvos diferentes, afundar quem estiver isolado e usar o ambiente como arma.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
+    "functions": [],
+    "keywords": [
+      "kraken",
+      "tentáculos",
+      "solo",
+      "mar",
+      "agarrar",
+      "área"
+    ]
+  },
+  {
+    "id": "ce67d53c-40d0-46e9-a7e9-6a461a0b0367",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Solos",
+    "title": "Rainha Alienígena",
+    "body": "**Solo | Aberração | 4 pontos**\n\n- **Corpo d10**\n- **Mente d8**\n- **Espírito d8**\n\n**Marca: Ninhada.** Uma vez por cena, use uma ação para colocar dois Parasitas Alienígenas em posições Perto.\n\n**Marca: Sangue Ácido.** Quando sofrer dano de alguém Próximo, pode gastar sua Reação para atacar esse agressor com Corpo. Em sucesso, cause 1 dano.\n\n**Marca: Caçadora da Colmeia.** Depois que um Parasita Alienígena for derrotado, pode mover-se uma distância sem gastar sua ação principal no próximo turno.\n\n**Instinto:** proteger a ninhada, separar a presa e punir quem se aproxima demais.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
+    "functions": [],
+    "keywords": [
+      "alienígena",
+      "rainha",
+      "solo",
+      "sci-fi",
+      "parasita",
+      "ácido",
+      "invocação"
+    ]
+  },
+  {
     "id": "157a5d12-273e-40f8-bdc3-3fca8396a212",
     "owner_id": null,
     "card_type": "Adversário",
@@ -261,6 +888,7 @@
     "title": "Vampiro",
     "body": "**Solo | Morto-vivo | 4 pontos**\n\n- **Corpo d8**\n- **Mente d8**\n- **Espírito d8**\n\n**Marca: Beber Vida.** Uma vez por rodada, quando causar dano em combate Próximo, recupere um Atributo em um passo.\n\n**Marca: Forma de Névoa.** Gaste uma Reação para evitar ser Interposto ou atravessar uma abertura estreita; ataques físicos contra você recebem -1 até seu próximo turno.\n\n**Marca: Predador Noturno.** Quando uma criatura Perto terminar o turno sem nenhum aliado Próximo, o vampiro pode gastar sua Reação para mover-se para Próximo dela.\n\n**Instinto:** seduzir antes de lutar, isolar uma vítima e preservar sua própria existência.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": [
       "vampiro",
@@ -272,21 +900,22 @@
     ]
   },
   {
-    "id": "fbe4bb66-7db9-4d16-a1fe-210285b984fa",
+    "id": "ce349eb5-9ba4-4f09-b68f-9a99662bf5f1",
     "owner_id": null,
     "card_type": "Adversário",
-    "card_group": "Brutamontes",
-    "title": "Cubo Gelatinoso",
-    "body": "**Brutamontes | Limo | 2 pontos**\n\n**Capacidade d4 | Vitalidade 5**\n\n**Marca: Engolfar.** Em um ataque bem-sucedido, o alvo fica preso dentro do cubo. Escapar exige uma ação de Corpo contra Resistência d8. Enquanto estiver preso, no início do turno do cubo o alvo defende com Corpo contra Capacidade d4; em falha, sofre 1 dano.\n\n**Instinto:** avançar sem desviar e dissolver tudo que não puder expulsar.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "card_group": "Suportes e líderes",
+    "title": "Alfa da Matilha",
+    "body": "**Líder | Fera | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Caçada Coordenada.** Uma vez por rodada, quando uma fera aliada Perto terminar seu turno, o Alfa pode gastar sua Reação para permitir que outra fera aliada se mova uma distância.\n\n**Instinto:** cercar uma presa, fechar rotas de fuga e atacar quando alguém se separa.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
     "functions": [],
     "keywords": [
-      "cubo gelatinoso",
-      "limo",
-      "engolfar",
-      "prender",
-      "digestão",
-      "brutamontes"
+      "alfa",
+      "matilha",
+      "fera",
+      "líder",
+      "movimento",
+      "caçada"
     ]
   },
   {
@@ -297,70 +926,94 @@
     "title": "Capitão Goblin",
     "body": "**Líder importante | Humanoide | 3 pontos**\n\n- **Corpo d8**\n- **Mente d6**\n- **Espírito d8**\n\n**Marca: Ordem Cruel.** Uma vez por rodada, quando um aliado Próximo fizer um ataque, o capitão pode gastar sua Reação para conceder **+1 no resultado da rolagem**.\n\n**Custo:** se o ataque falhar, o aliado hesita e não pode usar sua Reação até o início da próxima rodada.\n\n**Marca: Sobreviver a Qualquer Custo.** Quando sofrer dano, o capitão pode fazer um aliado Próximo receber o dano em seu lugar.\n\n**Custo:** o aliado fica fora de combate, mesmo que pudesse suportar o dano.\n\n**Instinto:** manter aliados entre si e o perigo, recuando quando ficar sem proteção.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-14T12:36:01.51668+00:00",
     "functions": [],
     "keywords": []
   },
   {
-    "id": "e360d95e-1322-4b5a-aa4d-dccc39adb9c2",
+    "id": "a068f592-cbd3-45fe-879e-4d99d46ba603",
     "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Voz de Comando",
-    "body": "Você sabe transformar hesitação em ação.\n\n**Efeito:** gaste sua ação principal e dê uma instrução clara a um aliado que possa ouvi-lo. A próxima rolagem dele diretamente ligada à instrução recebe **+1**.\n\n**Custo:** se o aliado seguir a instrução e falhar, você também sofre a consequência quando ela puder alcançá-lo. Caso contrário, o Mestre cria uma consequência ligada à ordem que você deu.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Suporte",
-      "Social"
-    ],
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Chefão do Crime",
+    "body": "**Líder importante | Humanoide | 3 pontos**\n\n- **Corpo d6**\n- **Mente d8**\n- **Espírito d10**\n\n**Marca: Todos Têm um Preço.** Em interações sociais com pessoas que tenham algo concreto a ganhar ou perder, receba +1 no resultado de Espírito.\n\n**Marca: Escudo Humano.** Quando sofrer um ataque e houver um capanga aliado Próximo, pode gastar sua Reação para fazê-lo Interpor sem gastar a Reação dele.\n\n**Instinto:** negociar enquanto tiver vantagem, colocar subordinados no caminho do perigo e manter uma saída preparada.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
+    "functions": [],
     "keywords": [
-      "comando",
+      "chefão",
+      "crime",
       "líder",
-      "ordem",
-      "aliado",
-      "tático"
+      "social",
+      "capangas",
+      "moderno"
     ]
   },
   {
-    "id": "e2cafed7-4c65-4aee-9431-720263575a77",
+    "id": "e6ae538b-4589-4088-9658-c96742a65549",
     "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Domínio Elemental",
-    "body": "Escolha um elemento ou força ao adquirir esta Marca, como fogo, gelo, vento ou eletricidade.\n\n**Efeito:** você pode criar, mover ou mudar esse elemento ao seu alcance. Isso permite ações que seriam impossíveis sem a Marca, como incendiar algo, congelar uma passagem ou conduzir eletricidade. O uso normal não causa dano adicional por si só.\n\n**Custo:** escolha também uma força oposta. Quando uma rolagem com esta Marca falhar, a força oposta dificulta seu controle: até o fim do combate ou até você deixar o local, a Resistência contra usos desta Marca aumenta em um passo quando essa força estiver presente.",
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Comandante Mercenário",
+    "body": "**Líder | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Reposicionar.** Uma vez por rodada, gaste sua Reação para mover um aliado Perto para uma posição Próxima sem provocar uma rolagem.\n\n**Instinto:** controlar cobertura, concentrar ataques e preservar uma rota de retirada.\n\n---",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Exploração",
-      "Controle"
-    ],
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "2f41460f-1998-40be-bc9e-b79024f75909",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Dríade Guardiã",
+    "body": "**Suporte | Feérico | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Raízes Vivas.** Use uma ação para prender um alvo Perto. Ele defende com Corpo; em falha, não pode se mover até gastar uma ação para escapar.\n\n**Instinto:** separar invasores, proteger árvores antigas e negociar antes de matar.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "c1faa03e-75d7-43f6-a931-2488ef3538ab",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Ilusionista",
+    "body": "**Suporte | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Imagem Falsa.** Quando um aliado Perto for atacado, gaste sua Reação para impor -1 ao resultado do ataque, desde que o atacante dependa da visão.\n\n**Instinto:** esconder aliados perigosos, criar dúvidas e evitar ser o alvo mais óbvio.",
+    "created_at": "2026-08-14T12:37:08.699001+00:00",
+    "updated_at": "2026-08-14T12:37:08.699001+00:00",
+    "functions": [],
     "keywords": [
-      "elemental",
-      "fogo",
-      "gelo",
-      "vento",
-      "raio",
+      "ilusionista",
+      "suporte",
       "magia",
-      "poder"
+      "ilusão",
+      "proteção"
     ]
   },
   {
-    "id": "93705541-1d3e-4139-9a5f-714126c2c12e",
+    "id": "1cb6fe8a-36c1-49be-b128-bda99a2263bf",
     "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Barreira Instantânea",
-    "body": "Você cria uma proteção breve de energia, pedra, vento ou outra força.\n\n**Efeito:** gaste sua Reação quando você ou um aliado Próximo sofrer um ataque ou outro perigo imediato. Acrescente **+1 à Resistência** dessa pessoa, mesmo que ela já tenha gasto a própria Reação.\n\n**Custo:** depois de usada, a Barreira só pode ser usada outra vez após um Descanso breve.\n\nA Barreira protege alguém que não conseguiria Defender por conta própria; Defender continua sendo a Reação normal da pessoa atacada.",
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Necromante",
+    "body": "**Líder | Humanoide | 2 pontos**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Erguer os Mortos.** Uma vez por cena, use uma ação para colocar dois Esqueletos Rachados Próximos a restos mortais disponíveis.\n\n**Instinto:** aumentar o número de aliados e fugir quando for alcançado.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Proteção",
-      "Suporte"
-    ],
-    "keywords": [
-      "barreira",
-      "escudo mágico",
-      "proteção",
-      "aliado",
-      "reação"
-    ]
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
+  },
+  {
+    "id": "f75dcf9e-712b-49da-aa4b-965ba186ee1e",
+    "owner_id": null,
+    "card_type": "Adversário",
+    "card_group": "Suportes e líderes",
+    "title": "Xamã de Guerra",
+    "body": "**Suporte | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Revigorar.** Uma vez por cena, use uma ação para fazer um aliado Próximo recuperar 1 de Vitalidade.\n\n**Instinto:** manter o aliado mais perigoso em combate e se esconder atrás dele.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-07T00:55:58.232852+00:00",
+    "functions": [],
+    "keywords": []
   },
   {
     "id": "59bc7da0-da8b-40fd-b32b-74362659bdf0",
@@ -370,6 +1023,7 @@
     "title": "Arma Pesada",
     "body": "Uma arma grande, brutal ou feita para atravessar defesas.\n\n**Efeito:** uma vez por rodada, quando acertar um ataque com esta arma, cause **+1 dano**.\n\n**Custo:** se o dado usado no ataque mostrar **1**, a arma fica presa, desequilibrada ou fora de alcance. Você não pode usar este Efeito de novo até gastar uma ação principal para recuperá-la ou prepará-la.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:02.828+00:00",
     "functions": [
       "Ofensiva"
     ],
@@ -383,173 +1037,6 @@
     ]
   },
   {
-    "id": "3a3d559b-d02d-4451-9372-6a68002de5fc",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Solos",
-    "title": "Hidra",
-    "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d4**\n- **Espírito d8**\n\n**Marca: Muitas Cabeças.** No início de cada rodada, recebe três Reações. Essas Reações só podem ser usadas para Defender ou para realizar uma mordida contra uma criatura que entrar ou agir Próxima da Hidra. No máximo duas dessas Reações podem ser usadas para morder na mesma rodada, e cada criatura só pode provocar uma mordida dessas por rodada.\n\n**Marca: Cabeças Renascidas.** Uma vez por rodada, depois de sofrer dano, recupere Corpo em um passo se não tiver sofrido dano de fogo desde seu último turno.\n\n**Instinto:** atacar alvos diferentes, cercar o grupo e proteger o corpo central.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": [
-      "hidra",
-      "solo",
-      "muitas cabeças",
-      "reação",
-      "regeneração",
-      "fogo"
-    ]
-  },
-  {
-    "id": "1799c95c-4f6e-4836-8cb0-56b56349a4e6",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Equipamentos",
-    "title": "Ferramentas de Especialista",
-    "body": "Um conjunto de instrumentos apropriados para uma profissão ou tarefa.\n\n**Efeito:** escolha uma atividade, como abrir fechaduras, cirurgia, alquimia, mecânica ou falsificação. Ao usar as ferramentas nessa atividade, receba **+1 no resultado do Atributo**.\n\n**Custo:** se o dado do Atributo mostrar **1**, as ferramentas ficam indisponíveis até serem reparadas ou substituídas.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Exploração"
-    ],
-    "keywords": [
-      "ferramentas",
-      "especialista",
-      "profissão",
-      "kit",
-      "técnica"
-    ]
-  },
-  {
-    "id": "47eca903-9ef3-47f1-8a06-fabcde4168ef",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Equipamentos",
-    "title": "Kit de Disfarces",
-    "body": "Roupas, pigmentos, próteses e documentos básicos para assumir outra identidade.\n\n**Efeito:** com alguns minutos de preparação, assuma a aparência convincente de uma função social ou tipo de pessoa.\n\n**Custo:** uma inspeção física detalhada revela o disfarce, assim como alguém que conheça pessoalmente a identidade imitada.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Furtividade",
-      "Social"
-    ],
-    "keywords": [
-      "disfarce",
-      "identidade",
-      "infiltração",
-      "espião",
-      "ladino"
-    ]
-  },
-  {
-    "id": "29a3fe5e-83a8-4e37-a277-750208aa9f3a",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Improvisador",
-    "body": "Você transforma materiais inadequados em soluções temporárias.\n\n**Efeito:** ignore a falta de uma ferramenta comum quando houver objetos que possam substituí-la.\n\n**Custo:** em uma falha, o material improvisado quebra e a tentativa não pode ser repetida sem ferramentas adequadas.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Exploração"
-    ],
-    "keywords": [
-      "improviso",
-      "ferramenta",
-      "engenhoso",
-      "sobrevivência"
-    ]
-  },
-  {
-    "id": "3301992e-aa0a-4f05-922e-97e5d04491ed",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Memória Perfeita",
-    "body": "Você conserva detalhes visuais, palavras e caminhos com precisão extraordinária.\n\n**Efeito:** depois de observar algo com atenção, recorde seus detalhes importantes sem precisar rolar.\n\n**Custo:** uma informação falsa aceita como verdadeira permanece em sua memória até ser claramente contradita.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Investigação"
-    ],
-    "keywords": [
-      "memória",
-      "lembrar",
-      "detalhes",
-      "investigação"
-    ]
-  },
-  {
-    "id": "6b512c40-eb60-4294-9a11-6c83246b4cbf",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Recusar a Queda",
-    "body": "Você continua avançando quando outra pessoa já teria parado.\n\n**Efeito:** uma vez por descanso longo, quando um Atributo fosse ficar Abalado, mantenha-o em **d4**.\n\n**Custo:** depois da cena, o Atributo fica Abalado e não pode ser recuperado por descanso breve.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Proteção"
-    ],
-    "keywords": [
-      "resistência",
-      "sobreviver",
-      "abalado",
-      "tenacidade"
-    ]
-  },
-  {
-    "id": "7b5c07b2-cf13-410a-bf9f-4f3da1028c92",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Reflexos Impossíveis",
-    "body": "Você reage antes de compreender completamente o perigo.\n\n**Efeito:** mesmo quando estiver realmente surpreso, você pode gastar sua Reação para **Defender** contra o primeiro perigo que atingir você.\n\n**Custo:** ao perceber o primeiro sinal da ameaça, decida imediatamente se usa a Reação; você não pode esperar pelo resultado da rolagem.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Proteção"
-    ],
-    "keywords": [
-      "reflexos",
-      "surpresa",
-      "defender",
-      "reação"
-    ]
-  },
-  {
-    "id": "36a8d857-02c7-4a99-a315-50d1fd666ba1",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Vontade Inabalável",
-    "body": "Dor, medo e pressão dificilmente alteram suas decisões.\n\n**Efeito:** ao resistir a medo, intimidação ou controle mental, receba **+1 no resultado de Espírito**.\n\n**Custo:** depois de resistir, sua próxima tentativa de recuar ou aceitar ajuda durante a cena recebe **-1**.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Proteção"
-    ],
-    "keywords": [
-      "vontade",
-      "medo",
-      "mental",
-      "coragem",
-      "resistir"
-    ]
-  },
-  {
-    "id": "2a2412f0-c09b-4400-83f7-97aa89c8b9b4",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Origens",
-    "title": "Feito de Outro Material",
-    "body": "Seu corpo é formado total ou parcialmente por pedra, metal, madeira, cristal ou matéria semelhante.\n\n**Efeito:** uma vez por cena, reduza em **1** o dano causado por veneno, doença ou outro perigo que dependa de um corpo orgânico.\n\n**Custo:** um descanso breve não recupera seu Corpo sem materiais ou cuidados adequados à sua composição.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Proteção"
-    ],
-    "keywords": [
-      "construto",
-      "pedra",
-      "metal",
-      "orgânico",
-      "origem"
-    ]
-  },
-  {
     "id": "378b3867-a2ef-493f-ae97-46534271ed5a",
     "owner_id": null,
     "card_type": "Marca",
@@ -557,6 +1044,7 @@
     "title": "Armadura Reforçada",
     "body": "Uma couraça, traje blindado ou proteção corporal feita para absorver impactos.\n\n**Efeito:** a armadura possui **1 ponto de Proteção**. Quando sofrer dano físico, gaste a Proteção para reduzir esse dano em **1**.\n\n**Custo:** depois de gasta, a Proteção só retorna quando a armadura for reparada durante um Descanso breve ou em outra pausa apropriada.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:05.511+00:00",
     "functions": [
       "Proteção"
     ],
@@ -576,6 +1064,7 @@
     "title": "Escudo Confiável",
     "body": "Um escudo, campo defensivo ou dispositivo feito para bloquear ataques.\n\n**Efeito:** quando gastar sua Reação para **Defender** contra um ataque físico, receba **+1 na Resistência**.\n\n**Custo:** se o dado usado para Defender mostrar **1**, o escudo se quebra, descarrega ou fica preso. Ele não pode conceder este Efeito até ser reparado durante um Descanso breve.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:06.19+00:00",
     "functions": [
       "Proteção"
     ],
@@ -588,6 +1077,164 @@
     ]
   },
   {
+    "id": "1799c95c-4f6e-4836-8cb0-56b56349a4e6",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Ferramentas de Especialista",
+    "body": "Um conjunto de instrumentos apropriados para uma profissão ou tarefa.\n\n**Efeito:** escolha uma atividade, como abrir fechaduras, cirurgia, alquimia, mecânica ou falsificação. Ao usar as ferramentas nessa atividade, receba **+1 no resultado do Atributo**.\n\n**Custo:** se o dado do Atributo mostrar **1**, as ferramentas ficam indisponíveis até serem reparadas ou substituídas.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Exploração"
+    ],
+    "keywords": [
+      "ferramentas",
+      "especialista",
+      "profissão",
+      "kit",
+      "técnica"
+    ]
+  },
+  {
+    "id": "47eca903-9ef3-47f1-8a06-fabcde4168ef",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Equipamentos",
+    "title": "Kit de Disfarces",
+    "body": "Roupas, pigmentos, próteses e documentos básicos para assumir outra identidade.\n\n**Efeito:** com alguns minutos de preparação, assuma a aparência convincente de uma função social ou tipo de pessoa.\n\n**Custo:** uma inspeção física detalhada revela o disfarce, assim como alguém que conheça pessoalmente a identidade imitada.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Furtividade",
+      "Social"
+    ],
+    "keywords": [
+      "disfarce",
+      "identidade",
+      "infiltração",
+      "espião",
+      "ladino"
+    ]
+  },
+  {
+    "id": "ea542dcf-7759-415b-8e93-16d18e56a5d0",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Fúria",
+    "body": "Você abandona cautela para lutar com violência difícil de conter.\n\n**Efeito:** uma vez por Descanso breve, entre em Fúria até o fim do combate ou até decidir encerrá-la. Enquanto ela durar, receba **+1** nos ataques corpo a corpo.\n\n**Custo:** enquanto estiver em Fúria, suas Resistências contra ataques recebem **-1**. Você também não pode usar Marcas que exijam calma, conversa cuidadosa ou concentração.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:51.365+00:00",
+    "functions": [
+      "Ofensiva"
+    ],
+    "keywords": [
+      "furia",
+      "bárbaro",
+      "berserker",
+      "corpo a corpo",
+      "agressivo"
+    ]
+  },
+  {
+    "id": "29a3fe5e-83a8-4e37-a277-750208aa9f3a",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Improvisador",
+    "body": "Você transforma materiais inadequados em soluções temporárias.\n\n**Efeito:** ignore a falta de uma ferramenta comum quando houver objetos que possam substituí-la.\n\n**Custo:** em uma falha, o material improvisado quebra e a tentativa não pode ser repetida sem ferramentas adequadas.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Exploração"
+    ],
+    "keywords": [
+      "improviso",
+      "ferramenta",
+      "engenhoso",
+      "sobrevivência"
+    ]
+  },
+  {
+    "id": "3301992e-aa0a-4f05-922e-97e5d04491ed",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Memória Perfeita",
+    "body": "Você conserva detalhes visuais, palavras e caminhos com precisão extraordinária.\n\n**Efeito:** depois de observar algo com atenção, recorde seus detalhes importantes sem precisar rolar.\n\n**Custo:** uma informação falsa aceita como verdadeira permanece em sua memória até ser claramente contradita.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Investigação"
+    ],
+    "keywords": [
+      "memória",
+      "lembrar",
+      "detalhes",
+      "investigação"
+    ]
+  },
+  {
+    "id": "0c67dd42-aba6-4eb7-a631-362ab7e90d8f",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Presença Aterradora",
+    "body": "Sua aparência, reputação ou natureza faz outras pessoas hesitarem.\n\n**Efeito:** ao intimidar alguém que tenha motivo plausível para temê-lo, receba **+1 no resultado de Espírito**.\n\n**Custo:** depois de usar esta Marca contra alguém, interações amistosas com essa pessoa durante a cena recebem **-1**.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Social",
+      "Controle"
+    ],
+    "keywords": [
+      "intimidar",
+      "medo",
+      "bárbaro",
+      "vampiro",
+      "ameaça"
+    ]
+  },
+  {
+    "id": "6b512c40-eb60-4294-9a11-6c83246b4cbf",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Recusar a Queda",
+    "body": "Você continua avançando quando outra pessoa já teria parado.\n\n**Efeito:** uma vez por descanso longo, quando um Atributo fosse ficar Abalado, mantenha-o em **d4**.\n\n**Custo:** depois da cena, o Atributo fica Abalado e não pode ser recuperado por descanso breve.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Proteção"
+    ],
+    "keywords": [
+      "resistência",
+      "sobreviver",
+      "abalado",
+      "tenacidade"
+    ]
+  },
+  {
+    "id": "7b5c07b2-cf13-410a-bf9f-4f3da1028c92",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Reflexos Impossíveis",
+    "body": "Você reage antes de compreender completamente o perigo.\n\n**Efeito:** mesmo quando estiver realmente surpreso, você pode gastar sua Reação para **Defender** contra o primeiro perigo que atingir você.\n\n**Custo:** ao perceber o primeiro sinal da ameaça, decida imediatamente se usa a Reação; você não pode esperar pelo resultado da rolagem.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Proteção"
+    ],
+    "keywords": [
+      "reflexos",
+      "surpresa",
+      "defender",
+      "reação"
+    ]
+  },
+  {
     "id": "a0dec9f8-b877-4e49-9e25-e717245d8b1c",
     "owner_id": null,
     "card_type": "Marca",
@@ -595,6 +1242,7 @@
     "title": "Sempre Preparado",
     "body": "Você costuma carregar pequenos objetos úteis, mesmo quando ninguém esperava por isso.\n\n**Efeito:** uma vez por Descanso breve, declare que possui um item comum e portátil relacionado à situação.\n\n**Custo:** depois que o item for usado para ajudar numa ação, ele é gasto, perdido ou fica inutilizado até que você tenha outra oportunidade de repor suas provisões.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:41.485+00:00",
     "functions": [
       "Exploração"
     ],
@@ -606,6 +1254,46 @@
     ]
   },
   {
+    "id": "36a8d857-02c7-4a99-a315-50d1fd666ba1",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Instintos",
+    "title": "Vontade Inabalável",
+    "body": "Dor, medo e pressão dificilmente alteram suas decisões.\n\n**Efeito:** ao resistir a medo, intimidação ou controle mental, receba **+1 no resultado de Espírito**.\n\n**Custo:** depois de resistir, sua próxima tentativa de recuar ou aceitar ajuda durante a cena recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Proteção"
+    ],
+    "keywords": [
+      "vontade",
+      "medo",
+      "mental",
+      "coragem",
+      "resistir"
+    ]
+  },
+  {
+    "id": "2a2412f0-c09b-4400-83f7-97aa89c8b9b4",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Origens",
+    "title": "Feito de Outro Material",
+    "body": "Seu corpo é formado total ou parcialmente por pedra, metal, madeira, cristal ou matéria semelhante.\n\n**Efeito:** uma vez por cena, reduza em **1** o dano causado por veneno, doença ou outro perigo que dependa de um corpo orgânico.\n\n**Custo:** um descanso breve não recupera seu Corpo sem materiais ou cuidados adequados à sua composição.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Proteção"
+    ],
+    "keywords": [
+      "construto",
+      "pedra",
+      "metal",
+      "orgânico",
+      "origem"
+    ]
+  },
+  {
     "id": "44fb7a84-a938-4eb1-91ba-d9d26fd8d728",
     "owner_id": null,
     "card_type": "Marca",
@@ -613,6 +1301,7 @@
     "title": "Forma Mutável",
     "body": "Seu corpo pode alterar rosto, voz, pele, pelos ou porte.\n\n**Efeito:** depois de alguns instantes de concentração, altere características superficiais para assumir outra aparência.\n\n**Custo:** a transformação não copia lembranças ou capacidades. Se falhar numa rolagem para enganar alguém com esse disfarce, essa pessoa descobre a farsa; contra ela, você não pode usar esta Marca de novo até assumir uma aparência diferente após um Descanso breve.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:41.934+00:00",
     "functions": [
       "Furtividade",
       "Social"
@@ -633,6 +1322,7 @@
     "title": "Herança Aquática",
     "body": "Seu corpo está adaptado à água por ancestralidade, mutação, magia ou tecnologia.\n\n**Efeito:** você respira debaixo d'água e nada sem dificuldade.\n\n**Custo:** depois de passar um Descanso longo sem se molhar, receba **-1 no resultado de Corpo** até passar alguns minutos imerso em água.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:42.595+00:00",
     "functions": [
       "Mobilidade",
       "Exploração"
@@ -653,6 +1343,7 @@
     "title": "Povo das Profundezas",
     "body": "Você cresceu em cavernas, túneis, ruínas subterrâneas ou cidades sem luz natural.\n\n**Efeito:** você enxerga na escuridão comum e reconhece sinais evidentes de instabilidade em construções subterrâneas.\n\n**Custo:** depois de encarar luz intensa ou repentina, sua próxima rolagem recebe **-1**.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
     "functions": [
       "Exploração",
       "Investigação"
@@ -673,6 +1364,7 @@
     "title": "Sangue Gigante",
     "body": "Você descende de seres enormes ou possui força física incomum.\n\n**Efeito:** ao levantar, empurrar, carregar ou quebrar algo com força bruta, receba **+1 no resultado de Corpo**.\n\n**Custo:** seu tamanho ou peso impõe **-1** quando atravessar espaços estreitos, estruturas frágeis ou lugares feitos para corpos menores.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
     "functions": [
       "Exploração"
     ],
@@ -692,6 +1384,7 @@
     "title": "Sentidos de Caçador",
     "body": "Seu olfato, audição, visão ou outro sentido está muito acima do normal.\n\n**Efeito:** ao rastrear alguém por sinais físicos recentes, receba **+1 no resultado de Mente**.\n\n**Custo:** quando estímulos intensos sobrecarregarem seus sentidos, sua próxima rolagem de Mente recebe **-1**.",
     "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
     "functions": [
       "Investigação",
       "Exploração"
@@ -705,687 +1398,6 @@
     ]
   },
   {
-    "id": "f44308bb-5db7-4117-b7d1-ce8d5f4355e6",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Mover sem Tocar",
-    "body": "Você exerce força à distância por magia, mente ou tecnologia.\n\n**Efeito:** mova ou manipule à distância um objeto que uma pessoa comum conseguiria carregar.\n\n**Custo:** exige concentração e linha de visão. Sofrer dano ou realizar outra ação interrompe o controle.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Controle",
-      "Exploração"
-    ],
-    "keywords": [
-      "telecinese",
-      "mover",
-      "objeto",
-      "psíquico",
-      "magia"
-    ]
-  },
-  {
-    "id": "cf2b18fe-bda5-4c44-bc27-59fa70a3cf92",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Olhar Além",
-    "body": "Você percebe ecos mágicos, presenças invisíveis ou vestígios de eventos passados.\n\n**Efeito:** ao se concentrar, perceba forças sobrenaturais e descubra sua direção ou natureza geral.\n\n**Custo:** aquilo que você observa pode perceber sua atenção. Quando isso acontecer, sua próxima rolagem de Espírito recebe **-1**.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Investigação"
-    ],
-    "keywords": [
-      "detectar magia",
-      "sobrenatural",
-      "espírito",
-      "oculto",
-      "percepção"
-    ]
-  },
-  {
-    "id": "ccb43cb0-fa31-4449-89dc-f8aaf37265a7",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Passo pelas Sombras",
-    "body": "Você atravessa a escuridão e reaparece a uma curta distância.\n\n**Efeito:** mova-se instantaneamente entre duas sombras que estejam até Perto e que você consiga perceber.\n\n**Custo:** a sombra de destino precisa comportar seu corpo. Em uma falha, sua próxima Resistência contra um ataque recebe **-1**.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Mobilidade",
-      "Furtividade"
-    ],
-    "keywords": [
-      "teleporte",
-      "sombra",
-      "movimento",
-      "furtivo",
-      "magia"
-    ]
-  },
-  {
-    "id": "8034c43a-9ac6-438c-8dcc-5c3e21062f65",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Especialista em Infiltração",
-    "body": "Você sabe atravessar áreas vigiadas sem ser percebido.\n\n**Efeito:** ao se mover silenciosamente, esconder-se ou evitar vigilância, receba **+1 no resultado do Atributo**.\n\n**Custo:** em uma falha, sua próxima rolagem para escapar da vigilância ou perseguição recebe **-1**.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Furtividade",
-      "Exploração"
-    ],
-    "keywords": [
-      "infiltração",
-      "furtividade",
-      "esconder",
-      "vigilância",
-      "ladino"
-    ]
-  },
-  {
-    "id": "006899aa-e027-4441-8c93-65cbf069866d",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Palavra Vinculante",
-    "body": "Sua voz carrega uma força que impõe obediência momentânea.\n\n**Efeito:** dê uma ordem curta a alguém que possa ouvi-lo. Se houver resistência, role Espírito. Em sucesso, o alvo interrompe a ação atual ou segue a ordem, desde que ela não cause dano direto contra ele mesmo.\n\n**Custo:** depois de ser afetado, o alvo não pode ser submetido novamente a esta Marca até completar um Descanso breve. Se ele resistir à ordem, reconhece a tentativa e recebe **+1 na Resistência** contra a próxima ordem que você der antes desse descanso.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Controle",
-      "Social"
-    ],
-    "keywords": [
-      "comando",
-      "palavra",
-      "encantar",
-      "controle",
-      "voz"
-    ]
-  },
-  {
-    "id": "db43f75a-2e87-49ae-8e57-234e90977f9a",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Duelista",
-    "body": "Você controla distância, ritmo e abertura em confrontos individuais.\n\n**Efeito:** quando enfrentar sozinho um único adversário em combate, receba **+1 no resultado** para atacá-lo ou para usar um Atributo como Resistência contra os ataques dele.\n\n**Custo:** se o dado usado com este Efeito mostrar **1**, o adversário encontra uma abertura. O próximo ataque dele contra você recebe **+1 no resultado**.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Ofensiva",
-      "Proteção"
-    ],
-    "keywords": [
-      "duelista",
-      "espada",
-      "duelo",
-      "guerreiro",
-      "aparar"
-    ]
-  },
-  {
-    "id": "a78bf6cb-0ccb-4bfe-b711-02e6c70b4424",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Investigador",
-    "body": "Você reconhece inconsistências, padrões e detalhes que outras pessoas ignoram.\n\n**Efeito:** depois de uma investigação bem-sucedida, faça ao Mestre uma pergunta direta sobre o que aconteceu. Se a margem for **3 ou maior**, faça uma segunda pergunta.\n\n**Custo:** em uma falha, a pista ou fonte que você examinava fica comprometida: ela é destruída, alterada, retirada ou deixa de ser confiável. O grupo precisa encontrar outra pista ou usar outra abordagem antes de investigar aquele ponto de novo.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Investigação"
-    ],
-    "keywords": [
-      "investigador",
-      "pistas",
-      "dedução",
-      "pergunta",
-      "detetive"
-    ]
-  },
-  {
-    "id": "e504ad69-ab69-4c48-8a70-4c4a99685640",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Médico de Campo",
-    "body": "Você sabe estabilizar ferimentos e manter pessoas em condições de agir.\n\n**Efeito:** durante um Descanso breve, trate você ou um aliado para recuperar **um passo adicional** em um Atributo. Os instrumentos e materiais comuns necessários fazem parte desta Marca.\n\n**Custo:** cada pessoa só pode receber este benefício uma vez antes do próximo Descanso longo. Depois do tratamento, os materiais usados precisam ser repostos antes que você trate outra pessoa.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Recuperação",
-      "Suporte"
-    ],
-    "keywords": [
-      "médico",
-      "cura",
-      "tratamento",
-      "paramédico",
-      "ferimento"
-    ]
-  },
-  {
-    "id": "60f12e67-7399-4e38-baf3-5f76e864d102",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Atirador Preparado",
-    "body": "Você sabe escolher posição, controlar a respiração e esperar o momento certo.\n\n**Efeito:** quando gastar seu movimento para firmar posição, receba **+1 no resultado** do próximo ataque à distância feito antes de se mover novamente.\n\n**Custo:** se esse ataque falhar, sua posição é revelada. Até mudar de lugar, você não recebe benefícios de cobertura contra o alvo do disparo.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Ofensiva"
-    ],
-    "keywords": [
-      "atirador",
-      "mira",
-      "distância",
-      "pistoleiro",
-      "arqueiro"
-    ]
-  },
-  {
-    "id": "27d9a185-3c37-484d-86a2-2b5eda19f0a5",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Companheiro Leal",
-    "body": "Um animal, espírito, máquina ou parceiro menor acompanha você.\n\n**Efeito:** uma vez por cena, receba **+1 no resultado do Atributo** quando o companheiro puder ajudar diretamente. Ele também pode carregar objetos pequenos, entregar mensagens ou explorar lugares acessíveis a ele.\n\n**Custo:** se for exposto a perigo direto, proteja-o ou deixe a Marca indisponível até que ele receba cuidado.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Suporte",
-      "Exploração"
-    ],
-    "keywords": [
-      "companheiro",
-      "familiar",
-      "drone",
-      "animal",
-      "espírito",
-      "montaria"
-    ]
-  },
-  {
-    "id": "7d8475cb-cc63-4e60-b4a6-deeafc77a93e",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Contato no Submundo",
-    "body": "Você conhece intermediários, contrabandistas e negociadores ilegais.\n\n**Efeito:** em uma comunidade habitada, encontre alguém disposto a negociar informação, mercadoria proibida ou acesso clandestino.\n\n**Custo:** depois de recorrer ao contato, a Marca fica indisponível até que você pague o preço ou cumpra o favor exigido.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Social",
-      "Investigação"
-    ],
-    "keywords": [
-      "submundo",
-      "contato",
-      "crime",
-      "contrabando",
-      "ilegal"
-    ]
-  },
-  {
-    "id": "5d54a4e7-63d5-488c-b1aa-204ab4b9619f",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Nome Respeitado",
-    "body": "Uma organização, família, título ou feito conhecido abre portas para você.\n\n**Efeito:** entre pessoas que reconhecem sua reputação, consiga uma audiência, abrigo temporário ou tratamento respeitoso.\n\n**Custo:** agir contra as expectativas ligadas ao seu nome torna a Marca indisponível naquela comunidade.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Social"
-    ],
-    "keywords": [
-      "reputação",
-      "nome",
-      "título",
-      "nobre",
-      "acesso"
-    ]
-  },
-  {
-    "id": "a184a07d-ade9-455f-98b1-21778123efd0",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Procurado",
-    "body": "Você conhece os métodos usados para perseguir pessoas porque já foi alvo deles.\n\n**Efeito:** ao evitar autoridades, caçadores ou sistemas de vigilância, receba **+1 no resultado do Atributo**.\n\n**Custo:** em uma falha, a próxima rolagem para escapar da mesma perseguição enfrenta **+1 no resultado da Resistência**.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Furtividade",
-      "Exploração"
-    ],
-    "keywords": [
-      "procurado",
-      "fugitivo",
-      "autoridade",
-      "vigilância",
-      "perseguição"
-    ]
-  },
-  {
-    "id": "92425416-5d73-41ea-a77b-4b8479fb3f62",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Esqueleto Rachado",
-    "body": "**Capanga | Morto-vivo | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Sem Medo.** Medo, intimidação e dor não impedem o esqueleto de agir.\n\n**Instinto:** cumprir a última ordem recebida, mesmo quando isso o destrói.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "3d1e8e78-8205-4d40-b55d-24b2063ce604",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Cultista Fanático",
-    "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Martírio.** Quando um aliado Próximo é derrotado, o próximo ataque do cultista recebe **+1**.\n\n**Instinto:** proteger o ritual e provar sua devoção diante dos outros.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "f962b18f-6aeb-4290-862f-bfcbb179bee3",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Sobrevivente",
-    "body": "Você conhece abrigo, orientação, alimentos e perigos naturais.\n\n**Efeito:** em regiões selvagens, encontre água, abrigo básico ou uma direção segura quando esse recurso existir na área.\n\n**Custo:** escolha um preço: a busca consome tempo, deixa rastros fáceis de seguir ou obriga o grupo a carregar menos suprimentos. O Mestre aplica a opção que fizer mais sentido à região e à urgência da viagem.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Exploração"
-    ],
-    "keywords": [
-      "sobrevivência",
-      "selvagem",
-      "abrigo",
-      "água",
-      "orientação"
-    ]
-  },
-  {
-    "id": "d18b6d8a-ccff-4523-aa4a-b4e3349aad5f",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Dívida Antiga",
-    "body": "Alguém poderoso deve a você um favor significativo.\n\n**Efeito:** uma vez por aventura, peça ajuda, informação, transporte, proteção ou acesso compatível com os recursos dessa pessoa.\n\n**Custo:** depois do favor, o contato cobra uma dívida. Até que você a quite, ele pode pedir uma tarefa possível e relacionada aos próprios interesses; se você recusar, perde o acesso a ele e a qualquer benefício desta Marca até reparar a relação.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [
-      "Social",
-      "Suporte"
-    ],
-    "keywords": [
-      "favor",
-      "contato",
-      "dívida",
-      "aliado",
-      "acesso"
-    ]
-  },
-  {
-    "id": "152c2b8d-f93a-4d24-9880-6bca5f2c4d2c",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Sentinela Mecânica",
-    "body": "**Capanga | Construto | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Alarme.** Em sua primeira ação, pode alertar os aliados; a próxima rolagem de um deles recebe **+1**.\n\n**Instinto:** identificar intrusos, bloquear a passagem e chamar reforços.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "7c27c26c-335b-4e65-b278-db7e48d05241",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Esporo Faminto",
-    "body": "**Capanga | Planta | dois por 1 ponto**\n\n**Capacidade d4 | Vitalidade 1**\n\n**Marca: Nuvem Irritante.** Quando for destruído, quem estiver Próximo recebe **-1 na próxima rolagem**.\n\n**Instinto:** aproximar-se de calor, movimento e respiração.\n\n---",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "32aeaaa5-32e1-4353-8dbb-9b4c5982e3ea",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Saqueador Goblin",
-    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Ataque em Bando.** Quando atacar um alvo que já foi atacado por outro goblin nesta rodada, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** cercar o alvo mais vulnerável e fugir quando estiver sozinho.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "39b6de96-7bf6-4f2d-95f6-db128f80bd7a",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Lobo de Caça",
-    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Derrubar.** Em um sucesso forte ou decisivo no ataque, o alvo cai ou perde sua posição.\n\n**Instinto:** perseguir quem fugir e separar o alvo mais lento.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "547e01d3-724a-4aa5-aba7-fcbc3661a628",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Guerreiro Orc",
-    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Fúria Ferida.** Enquanto estiver com Vitalidade 1, receba **+1 nos ataques**.\n\n**Instinto:** ocupar o centro da luta e desafiar quem parecer mais perigoso.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "fa2f641d-6a6d-432b-b9a6-4bb249e51b79",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Aranha Gigante",
-    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Teia.** Em vez de causar dano, um ataque bem-sucedido pode prender o alvo. Libertar-se exige uma ação de Corpo contra Resistência d6.\n\n**Instinto:** imobilizar uma presa e arrastá-la para longe do grupo.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "7abeecc7-39a8-4599-8ef4-68ade5875f4c",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Zumbi Obstinado",
-    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d4 | Vitalidade 3**\n\n**Marca: Recusa em Cair.** Na primeira vez que chegaria a Vitalidade 0, permaneça com Vitalidade 1.\n\n**Instinto:** avançar pelo caminho mais curto e agarrar quem estiver ao alcance.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "7e1208b1-b6a3-4d7e-bbb8-f9854485ed60",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Armadura Animada",
-    "body": "**Comum | Construto | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Placas Vazias.** Reduza em **1** o primeiro dano físico sofrido na cena.\n\n**Instinto:** guardar uma entrada, objeto ou pessoa sem abandonar seu posto.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "c7554239-e4aa-4275-a992-44da614b20c1",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Elemental Menor",
-    "body": "**Comum | Elemental | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Corpo Elemental.** Ao sofrer dano em combate Próximo, pode criar uma condição coerente com seu elemento, como fogo, gelo, vento ou terreno instável.\n\n**Instinto:** espalhar seu elemento e consumir aquilo que o contém.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "e16ffc04-eaf5-436b-b19e-ff58ae210bad",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Sombra Faminta",
-    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Forma Escura.** Ataques físicos sem luz intensa, magia ou outra forma adequada de alcançá-la recebem **-1**.\n\n**Instinto:** apagar fontes de luz e atacar quem estiver sozinho.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "580092fd-0882-4672-9754-732a1e742d7f",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Arqueiro Goblin",
-    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Tiro de Posição.** Ao atacar de Longe sem ter se movido no turno, receba **+1 no resultado da Capacidade**.\n\n**Instinto:** manter distância, procurar cobertura e trocar de posição quando ameaçado.",
-    "created_at": "2026-08-07T00:55:58.232852+00:00",
-    "functions": [],
-    "keywords": []
-  },
-  {
-    "id": "e218d3e4-8082-4dab-835f-2f49dd315cee",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Voo",
-    "body": "Você pode se manter e se mover no ar por asas, magia, tecnologia ou outro meio.\n\n**Efeito:** mova-se pelo ar como faria pelo chão e alcance lugares inacessíveis a quem depende apenas de movimento terrestre.\n\n**Custo:** se o dado de uma rolagem feita com esta Marca mostrar **1**, seu meio de voo falha. Você não pode voar de novo até repará-lo, recarregá-lo ou recuperar-se de modo apropriado durante um Descanso breve.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Mobilidade",
-      "Exploração"
-    ],
-    "keywords": [
-      "voo",
-      "voar",
-      "asas",
-      "levitação",
-      "aéreo"
-    ]
-  },
-  {
-    "id": "5b6ac274-a3cc-450e-a667-7b7d17b30b93",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Ataque Furtivo",
-    "body": "Você sabe explorar uma abertura antes que o alvo consiga reagir.\n\n**Efeito:** quando atingir um alvo que não possa usar **Defender**, cause **+1 dano**.\n\n**Custo:** se o ataque falhar, você se expõe; sua próxima Resistência contra esse alvo recebe **-1**.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Ofensiva",
-      "Furtividade"
-    ],
-    "keywords": [
-      "furtivo",
-      "emboscada",
-      "surpresa",
-      "oportunidade",
-      "dano",
-      "ladino",
-      "assassino"
-    ]
-  },
-  {
-    "id": "41a976a3-4592-4244-8cfb-f2b8abe2c940",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Provocação",
-    "body": "Você sabe ocupar a atenção de um inimigo e tornar perigoso ignorá-lo.\n\n**Efeito:** escolha um adversário que possa perceber você. Até o início do seu próximo turno, se ele atacar diretamente outro alvo, receba **-1 no resultado do Atributo** nesse ataque.\n\n**Custo:** enquanto o efeito durar, você recebe **-1** ao tentar se afastar ou evitar esse adversário.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle",
-      "Proteção"
-    ],
-    "keywords": [
-      "provocar",
-      "guardar",
-      "tanque",
-      "guardião",
-      "paladino",
-      "desafio"
-    ]
-  },
-  {
-    "id": "ea542dcf-7759-415b-8e93-16d18e56a5d0",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Fúria",
-    "body": "Você abandona cautela para lutar com violência difícil de conter.\n\n**Efeito:** uma vez por Descanso breve, entre em Fúria até o fim do combate ou até decidir encerrá-la. Enquanto ela durar, receba **+1** nos ataques corpo a corpo.\n\n**Custo:** enquanto estiver em Fúria, suas Resistências contra ataques recebem **-1**. Você também não pode usar Marcas que exijam calma, conversa cuidadosa ou concentração.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Ofensiva"
-    ],
-    "keywords": [
-      "furia",
-      "bárbaro",
-      "berserker",
-      "corpo a corpo",
-      "agressivo"
-    ]
-  },
-  {
-    "id": "29f33bf3-a727-466f-b7a1-c650f0249771",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Contra-golpe",
-    "body": "Você transforma o erro do adversário em uma abertura imediata.\n\n**Efeito:** uma vez por rodada, quando um adversário falhar um ataque contra você, receba **+1** no próximo ataque que fizer contra ele antes do fim da rodada.\n\n**Custo:** se você usar o bônus e ainda falhar, o adversário pode se afastar, buscar cobertura ou preparar uma Reação antes de você agir de novo.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Ofensiva"
-    ],
-    "keywords": [
-      "contra-ataque",
-      "riposta",
-      "duelista",
-      "guerreiro",
-      "monge"
-    ]
-  },
-  {
-    "id": "dfa49b17-0ce2-4e31-bb63-a0d0f62ece32",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Neutralizar",
-    "body": "Você sabe comprometer a ofensiva de alguém sem precisar derrubá-lo.\n\n**Efeito:** uma vez por Descanso breve, quando acertar um ataque, troque o dano adicional por uma interrupção apropriada: faça o alvo largar uma arma, bloqueie uma técnica, prenda seus movimentos ou impeça uma ação ofensiva específica até que ele gaste uma ação principal para se recompor.\n\n**Custo:** se a margem for **0**, o alvo escolhe uma consequência: você perde posição, fica sem a arma usada no golpe ou se expõe à Reação dele.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle"
-    ],
-    "keywords": [
-      "desarmar",
-      "arma",
-      "duelista",
-      "guerreiro",
-      "controle"
-    ]
-  },
-  {
-    "id": "d8080773-56ff-417f-94a2-755603499281",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Ilusão",
-    "body": "Você cria uma imagem, som ou sensação falsa convincente.\n\n**Efeito:** crie uma ilusão de tamanho limitado que permaneça enquanto você mantiver concentração. Quem tiver motivo para duvidar pode agir para descobrir a falsidade.\n\n**Custo:** a ilusão não exerce força física nem causa dano diretamente.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle",
-      "Social",
-      "Furtividade"
-    ],
-    "keywords": [
-      "ilusão",
-      "imagem",
-      "som",
-      "distração",
-      "mago",
-      "enganar"
-    ]
-  },
-  {
-    "id": "b8e234b0-c7c3-4c2d-88cf-285865923d4b",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Quebra-Influências",
-    "body": "Você sabe romper forças que prendem, dominam ou corrompem pessoas, objetos e lugares.\n\n**Efeito:** ao enfrentar uma maldição, controle mental, possessão, vínculo sobrenatural ou outro efeito persistente, faça uma rolagem apropriada para suspendê-lo, enfraquecê-lo ou expulsá-lo.\n\n**Custo:** em uma falha, a força reage contra você. Ela recebe **+1 na Resistência** contra sua próxima tentativa e passa a tratá-lo como uma ameaça prioritária quando puder agir.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle",
-      "Suporte"
-    ],
-    "keywords": [
-      "exorcismo",
-      "espírito",
-      "possessão",
-      "clérigo",
-      "ocultista"
-    ]
-  },
-  {
-    "id": "d4f818f7-eb95-45fb-bf15-cc32e336848c",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Ritualista",
-    "body": "Você conhece procedimentos capazes de produzir efeitos extraordinários com tempo e preparação.\n\n**Efeito:** com tempo, materiais e conhecimento que façam sentido, realize um ritual para obter informação, estabelecer contato, criar uma proteção, abrir ou fechar um acesso sobrenatural ou produzir outro efeito indireto.\n\n**Custo:** o ritual não resolve um perigo que já esteja acontecendo no mesmo instante; ele precisa de uma preparação que a situação permita. Em falha, os materiais são gastos e o caminho escolhido se fecha, se complica ou chama a atenção da força envolvida.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Exploração",
-      "Investigação"
-    ],
-    "keywords": [
-      "ritual",
-      "mago",
-      "bruxo",
-      "clérigo",
-      "ocultista",
-      "magia"
-    ]
-  },
-  {
-    "id": "d07f11e0-9e73-4751-b449-68f61964c679",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Telepatia",
-    "body": "Você estabelece comunicação direta entre mentes.\n\n**Efeito:** converse silenciosamente com uma criatura que você perceba a até Longe. Para captar pensamentos que ela não queira compartilhar, faça uma rolagem apropriada contra sua Resistência.\n\n**Custo:** uma tentativa invasiva que falhar revela sua presença mental ao alvo. Até você encerrar o contato, ele pode responder mentalmente, localizar sua direção aproximada ou aumentar a Resistência contra novas tentativas de leitura.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Social",
-      "Investigação"
-    ],
-    "keywords": [
-      "telepatia",
-      "mente",
-      "psíquico",
-      "pensamentos",
-      "comunicação"
-    ]
-  },
-  {
-    "id": "27a2b285-5176-4fff-8d24-83932448f80e",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Premonição",
-    "body": "Você percebe fragmentos do que está prestes a acontecer.\n\n**Efeito:** uma vez por Descanso breve, pergunte ao Mestre qual é o perigo imediato mais evidente que ainda não aconteceu. Sua primeira rolagem feita diretamente para evitar esse perigo recebe **+1**.\n\n**Custo:** a visão mostra o perigo, não a melhor solução. Se você ignorar o aviso e o perigo acontecer, a primeira consequência dele é tratada como um nível mais grave na tabela de margem.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Investigação",
-      "Proteção"
-    ],
-    "keywords": [
-      "premonição",
-      "oráculo",
-      "psíquico",
-      "futuro",
-      "perigo"
-    ]
-  },
-  {
-    "id": "419f739d-1155-4973-b5c3-895d13fd57bf",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Maldição",
-    "body": "Você lança uma praga breve que atrapalha uma capacidade específica de outra criatura.\n\n**Efeito:** escolha uma criatura que possa perceber e diga como a Maldição a enfraquece: atacar, fugir, mentir, resistir, usar magia ou outra abordagem clara. Em sucesso numa rolagem apropriada, a próxima rolagem do alvo nessa abordagem recebe **-1**.\n\n**Custo:** se a Maldição falhar, o alvo percebe a tentativa e recebe **+1 na Resistência** contra sua próxima ação dirigida a ele. Um alvo afetado não pode receber a mesma Maldição de novo até um Descanso breve.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle"
-    ],
-    "keywords": [
-      "maldição",
-      "bruxo",
-      "ocultista",
-      "debilitar",
-      "hex"
-    ]
-  },
-  {
     "id": "5164813c-d352-49c9-9298-6dac0587320b",
     "owner_id": null,
     "card_type": "Marca",
@@ -1393,6 +1405,7 @@
     "title": "Aura Protetora",
     "body": "Sua presença fortalece quem permanece ao seu lado.\n\n**Efeito:** uma vez por rodada, quando um aliado Próximo fizer uma rolagem de Resistência, você pode aumentar esse dado em um passo.\n\n**Custo:** se a Resistência ainda falhar, a aura se rompe para esse aliado. Você não pode protegê-lo com esta Marca de novo até o início da próxima rodada.",
     "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:54.269+00:00",
     "functions": [
       "Proteção",
       "Suporte"
@@ -1406,306 +1419,24 @@
     ]
   },
   {
-    "id": "bb93b162-6b7e-4aa9-91b0-1b4dd9194f5d",
+    "id": "93705541-1d3e-4139-9a5f-714126c2c12e",
     "owner_id": null,
     "card_type": "Marca",
     "card_group": "Poderes",
-    "title": "Invisibilidade",
-    "body": "Você apaga sua presença da percepção comum.\n\n**Efeito:** uma vez por Descanso breve, fique invisível enquanto não atacar, sofrer dano ou realizar uma ação que chame atenção direta.\n\n**Custo:** sons, rastros, cheiro e outros indícios continuam existindo. Se uma rolagem feita enquanto estiver invisível falhar, o alvo encontra um desses indícios e você não pode usar esta Marca para se esconder dele até mudar de lugar ou completar um Descanso breve.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "title": "Barreira Instantânea",
+    "body": "Você cria uma proteção breve de energia, pedra, vento ou outra força.\n\n**Efeito:** gaste sua Reação quando você ou um aliado Próximo sofrer um ataque ou outro perigo imediato. Acrescente **+1 à Resistência** dessa pessoa, mesmo que ela já tenha gasto a própria Reação.\n\n**Custo:** depois de usada, a Barreira só pode ser usada outra vez após um Descanso breve.\n\nA Barreira protege alguém que não conseguiria Defender por conta própria; Defender continua sendo a Reação normal da pessoa atacada.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:42.99+00:00",
     "functions": [
-      "Furtividade",
-      "Exploração"
-    ],
-    "keywords": [
-      "invisível",
-      "invisibilidade",
-      "furtivo",
-      "mago",
-      "agente"
-    ]
-  },
-  {
-    "id": "b2093ab4-8b7f-4f38-a17d-517bac8e7814",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Truques Arcanos",
-    "body": "Você manipula pequenas forças extraordinárias com naturalidade.\n\n**Efeito:** crie efeitos menores que não causem dano nem resolvam diretamente um desafio. Quando um truque criar uma abertura plausível, ele pode conceder **+1** a uma rolagem do grupo.\n\n**Custo:** depois de conceder esse bônus, o truque chama atenção, deixa um rastro reconhecível ou se esgota. Você não pode conceder outro bônus com esta Marca até um Descanso breve.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Exploração",
-      "Social"
-    ],
-    "keywords": [
-      "prestidigitação",
-      "truque",
-      "magia menor",
-      "arcano",
-      "utilidade",
-      "mago"
-    ]
-  },
-  {
-    "id": "eae5a4b4-3377-40d2-8927-71de49a8cc98",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Armadilheiro",
-    "body": "Você sabe transformar terreno e materiais simples em perigo preparado.\n\n**Efeito:** com alguns minutos e materiais adequados, prepare uma armadilha. Diga o que a dispara, como uma porta ser aberta ou alguém cruzar um corredor. Quando disparar, ela pode prender, derrubar, alarmar ou realizar um ataque preparado.\n\n**Custo:** a armadilha é consumida ao disparar. Se alguém a perceber antes, pode evitá-la e aprender como desativá-la; para preparar outra no mesmo local, você precisa mudar o tipo de armadilha ou a forma de disparo.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle",
-      "Exploração"
-    ],
-    "keywords": [
-      "armadilha",
-      "patrulheiro",
-      "caçador",
-      "sabotar",
-      "preparo"
-    ]
-  },
-  {
-    "id": "90a3a9d0-7dd9-48fb-a5c1-e7a70b941a92",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Pilotagem de Risco",
-    "body": "Você mantém controle de veículos quando outras pessoas perderiam a vantagem.\n\n**Efeito:** receba **+1** quando pilotar um veículo em perseguições, manobras perigosas ou ambientes hostis.\n\n**Custo:** em falha, além da consequência normal, o veículo sofre desgaste, perde posição ou exige reparo antes de repetir a mesma manobra.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Mobilidade"
-    ],
-    "keywords": [
-      "piloto",
-      "veículo",
-      "perseguição",
-      "manobra",
-      "nave"
-    ]
-  },
-  {
-    "id": "b8b7c160-3c27-4516-b835-42e154454d77",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Mãos Leves",
-    "body": "Você manipula pequenos objetos sem chamar atenção.\n\n**Efeito:** receba **+1** ao esconder, plantar, trocar ou retirar discretamente um objeto pequeno de uma pessoa ou lugar ao seu alcance.\n\n**Custo:** em falha, alguém percebe a manipulação ou nota imediatamente que algo está errado.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Furtividade",
-      "Social"
-    ],
-    "keywords": [
-      "mãos leves",
-      "roubar",
-      "plantar",
-      "batedor",
-      "ladino",
-      "furtar"
-    ]
-  },
-  {
-    "id": "6a5dc5ab-f463-45f4-82b1-4a3180d1f99b",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Leitor de Pessoas",
-    "body": "Você reconhece hesitação, intenção e mudanças sutis de comportamento.\n\n**Efeito:** depois de alguns momentos de conversa ou observação, faça ao Mestre uma pergunta direta sobre a intenção imediata, emoção dominante ou ponto de pressão de uma pessoa.\n\n**Custo:** sua leitura revela o que a pessoa demonstra; não fatos que ela própria desconheça.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Investigação",
-      "Social"
-    ],
-    "keywords": [
-      "ler pessoas",
-      "empatia",
-      "intenção",
-      "diplomata",
-      "investigador"
-    ]
-  },
-  {
-    "id": "abaf0ac4-a32f-4cbc-923c-6b7ecbaef9e9",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Performance Cativante",
-    "body": "Você sabe capturar a atenção de uma audiência.\n\n**Efeito:** ao cantar, discursar, contar histórias ou realizar outra performance, mantenha a atenção de um pequeno grupo enquanto nada mais urgente exigir sua reação.\n\n**Custo:** quem já tiver motivo forte para desconfiar ou atacar você não é automaticamente convencido; a Marca controla atenção, não crença.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Social",
-      "Controle"
-    ],
-    "keywords": [
-      "performance",
-      "bardo",
-      "orador",
-      "artista",
-      "distração"
-    ]
-  },
-  {
-    "id": "2f48c8d0-1648-47ca-9d5c-9d0be3236b2c",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Inspiração",
-    "body": "Você consegue fazer outra pessoa ir além do que faria sozinha.\n\n**Efeito:** uma vez por cena, depois que um aliado Próximo falhar uma rolagem, reduza a margem da falha em **1**. Se a margem se tornar 0, trate o resultado como **sucesso com custo**.\n\n**Custo:** explique como sua presença, palavra ou ação ajuda naquele momento; a Marca não funciona se você não puder interagir com o aliado.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
+      "Proteção",
       "Suporte"
     ],
     "keywords": [
-      "inspiração",
-      "bardo",
-      "líder",
-      "mentor",
-      "ajuda"
-    ]
-  },
-  {
-    "id": "2fd5cbb1-d252-4e3d-9c6d-ca63137e71b4",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Caçador de Monstros",
-    "body": "Você estuda padrões, fraquezas e sinais de criaturas perigosas.\n\n**Efeito:** depois de observar ou investigar uma criatura incomum, pergunte ao Mestre por uma fraqueza, hábito ou defesa relevante que possa ser explorada.\n\n**Custo:** a resposta representa conhecimento ou observação plausível; criaturas completamente desconhecidas podem exigir primeiro evidências ou pesquisa.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Investigação",
-      "Ofensiva"
-    ],
-    "keywords": [
-      "monstro",
-      "fraqueza",
-      "caçador",
-      "patrulheiro",
-      "ocultista"
-    ]
-  },
-  {
-    "id": "9ef9b667-f56b-4314-bd0f-f9fd9dd591dc",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Sabotagem",
-    "body": "Você sabe fazer máquinas, estruturas ou sistemas falharem no momento certo.\n\n**Efeito:** com acesso e alguns instantes, prepare um dispositivo ou estrutura para travar, desligar ou falhar quando uma condição simples acontecer.\n\n**Custo:** o efeito precisa explorar algo que realmente possa ser alterado; em falha, a sabotagem é descoberta ou acontece cedo demais.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Controle",
-      "Furtividade",
-      "Exploração"
-    ],
-    "keywords": [
-      "sabotagem",
-      "espião",
-      "hacker",
-      "engenheiro",
-      "ladino"
-    ]
-  },
-  {
-    "id": "3da0061b-5f56-467a-9deb-4d2219d6f15c",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Rede de Informantes",
-    "body": "Você mantém contatos espalhados em diferentes meios sociais.\n\n**Efeito:** em uma comunidade onde seja plausível haver alguém da sua rede, obtenha uma pista, rumor ou indicação de quem sabe mais sobre um assunto local.\n\n**Custo:** a informação nunca é totalmente gratuita; alguém espera pagamento, troca ou discrição.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Investigação",
-      "Social"
-    ],
-    "keywords": [
-      "informantes",
-      "contatos",
-      "rumor",
-      "jornalista",
-      "espião",
-      "diplomata"
-    ]
-  },
-  {
-    "id": "670ea478-a949-4a6b-8ca5-56d81cf2fe2b",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Poderes",
-    "title": "Intangível",
-    "body": "Você atravessa matéria por alguns instantes.\n\n**Efeito:** uma vez por Descanso breve, atravesse uma barreira fina ou passe por um obstáculo sólido imediatamente ao seu alcance.\n\n**Custo:** ao atravessar, deixe uma marca visível ou sobrenatural no ponto de passagem. Quem a encontrar sabe que alguém cruzou ali e pode seguir sua origem com uma investigação apropriada.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Mobilidade",
-      "Exploração"
-    ],
-    "keywords": [
-      "intangível",
-      "fantasma",
-      "atravessar",
-      "parede",
-      "fase"
-    ]
-  },
-  {
-    "id": "0c67dd42-aba6-4eb7-a631-362ab7e90d8f",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Instintos",
-    "title": "Presença Aterradora",
-    "body": "Sua aparência, reputação ou natureza faz outras pessoas hesitarem.\n\n**Efeito:** ao intimidar alguém que tenha motivo plausível para temê-lo, receba **+1 no resultado de Espírito**.\n\n**Custo:** depois de usar esta Marca contra alguém, interações amistosas com essa pessoa durante a cena recebem **-1**.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Social",
-      "Controle"
-    ],
-    "keywords": [
-      "intimidar",
-      "medo",
-      "bárbaro",
-      "vampiro",
-      "ameaça"
-    ]
-  },
-  {
-    "id": "bcefe658-f50d-4aa8-8084-88e5a6540f0c",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Vínculos",
-    "title": "Juramento",
-    "body": "Você está ligado a uma promessa que orienta suas escolhas e lhe dá propósito.\n\n**Efeito:** uma vez por Descanso breve, quando aceitar um risco claro para cumprir seu Juramento, receba **+1** na rolagem diretamente relacionada.\n\n**Custo:** se agir deliberadamente contra o Juramento, marque uma Quebra. Enquanto a Quebra existir, esta Marca não pode ser usada nem Escalada. Ela só é removida quando você repara a falha por meio de uma ação significativa na aventura.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Suporte",
-      "Social"
-    ],
-    "keywords": [
-      "juramento",
-      "paladino",
-      "cavaleiro",
-      "vingador",
-      "promessa"
-    ]
-  },
-  {
-    "id": "331818b7-3484-4750-bd3f-bcb05a4388f9",
-    "owner_id": null,
-    "card_type": "Marca",
-    "card_group": "Treinamentos",
-    "title": "Química de Campo",
-    "body": "Você improvisa compostos úteis a partir de materiais que carrega ou encontra.\n\n**Efeito:** durante uma pausa, prepare uma dose de fumaça, solvente, estimulante, sedativo leve, reagente ou outro composto simples. Escolha o efeito quando prepará-la.\n\n**Custo:** você só pode manter uma dose preparada por vez. Quando uma dose for usada numa rolagem que falhar, ela se esgota de forma perigosa: você ou quem a aplicou sofre a consequência da falha junto com um efeito menor do composto.",
-    "created_at": "2026-08-13T21:33:43.09077+00:00",
-    "functions": [
-      "Exploração",
-      "Suporte"
-    ],
-    "keywords": [
-      "química",
-      "alquimia",
-      "cientista",
-      "médico",
-      "fumaça",
-      "sedativo"
+      "barreira",
+      "escudo mágico",
+      "proteção",
+      "aliado",
+      "reação"
     ]
   },
   {
@@ -1716,6 +1447,7 @@
     "title": "Cura pelas Mãos",
     "body": "Você restaura ferimentos através de energia, fé, biotecnologia ou outro meio extraordinário.\n\n**Efeito:** uma vez por Descanso breve, toque você ou um aliado e recupere **1 passo** de um Atributo que não esteja Abalado.\n\n**Custo:** cada criatura só pode receber esta cura uma vez antes do próximo Descanso longo. Quando cura alguém, a fonte do poder deixa um sinal perceptível até o próximo Descanso breve; forças, sensores ou criaturas sensíveis a ela podem localizar a pessoa curada quando a situação permitir.",
     "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:47.983+00:00",
     "functions": [
       "Recuperação",
       "Suporte"
@@ -1730,6 +1462,29 @@
     ]
   },
   {
+    "id": "e2cafed7-4c65-4aee-9431-720263575a77",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Domínio Elemental",
+    "body": "Escolha um elemento ou força ao adquirir esta Marca, como fogo, gelo, vento ou eletricidade.\n\n**Efeito:** você pode criar, mover ou mudar esse elemento ao seu alcance. Isso permite ações que seriam impossíveis sem a Marca, como incendiar algo, congelar uma passagem ou conduzir eletricidade. O uso normal não causa dano adicional por si só.\n\n**Custo:** escolha também uma força oposta. Quando uma rolagem com esta Marca falhar, a força oposta dificulta seu controle: até o fim do combate ou até você deixar o local, a Resistência contra usos desta Marca aumenta em um passo quando essa força estiver presente.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:43.405+00:00",
+    "functions": [
+      "Exploração",
+      "Controle"
+    ],
+    "keywords": [
+      "elemental",
+      "fogo",
+      "gelo",
+      "vento",
+      "raio",
+      "magia",
+      "poder"
+    ]
+  },
+  {
     "id": "118bf508-21bc-4a83-a042-d34de6c5fa99",
     "owner_id": null,
     "card_type": "Marca",
@@ -1737,6 +1492,7 @@
     "title": "Forma Selvagem",
     "body": "Você assume a forma de uma criatura natural ligada ao lugar onde está.\n\n**Efeito:** uma vez por Descanso breve, transforme-se em um animal de porte semelhante ao seu ou menor. Escolha duas capacidades naturais dessa forma, como voar, nadar, escalar, farejar, enxergar no escuro ou atravessar espaços estreitos. Enquanto transformado, você pode usar essas capacidades e falar com dificuldade.\n\n**Custo:** você não pode usar equipamentos nem Marcas que dependam do seu corpo normal. Se o dado usado numa rolagem da forma mostrar **1**, ela se desfaz e você não pode se transformar de novo até um Descanso breve.",
     "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:48.375+00:00",
     "functions": [
       "Mobilidade",
       "Exploração",
@@ -1758,6 +1514,7 @@
     "title": "Golpe Sagrado",
     "body": "Você canaliza uma força extraordinária através de um ataque comum.\n\n**Efeito:** uma vez por Descanso breve, depois de acertar um ataque, cause **+1 dano** ou torne o golpe capaz de afetar algo normalmente resistente a ataques comuns.\n\n**Custo:** o poder deixa uma marca evidente na arma, no alvo ou em você. Até um Descanso breve, criaturas ligadas à mesma força podem perceber que esse poder foi usado e recebem **+1 na Resistência** contra uma nova tentativa sua de usar essa força.",
     "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:54.698+00:00",
     "functions": [
       "Ofensiva"
     ],
@@ -1771,493 +1528,866 @@
     ]
   },
   {
-    "id": "f2cd043a-1e08-40f7-86b9-34769ad1eb19",
+    "id": "d8080773-56ff-417f-94a2-755603499281",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Brutamontes",
-    "title": "Mecha Blindado",
-    "body": "**Brutamontes | Máquina | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Blindagem Frontal.** Reduza em 1 o primeiro dano sofrido em cada rodada por um ataque vindo de sua frente. Ataques pelas laterais, por trás ou contra um ponto fraco exposto ignoram esta proteção.\n\n**Instinto:** manter o lado blindado voltado para a maior ameaça e controlar corredores abertos.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Ilusão",
+    "body": "Você cria uma imagem, som ou sensação falsa convincente.\n\n**Efeito:** crie uma ilusão de tamanho limitado que permaneça enquanto você mantiver concentração. Quem tiver motivo para duvidar pode agir para descobrir a falsidade.\n\n**Custo:** a ilusão não exerce força física nem causa dano diretamente.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Controle",
+      "Social",
+      "Furtividade"
+    ],
     "keywords": [
-      "mecha",
-      "robô",
-      "blindagem",
-      "sci-fi",
-      "posição",
-      "brutamontes"
+      "ilusão",
+      "imagem",
+      "som",
+      "distração",
+      "mago",
+      "enganar"
     ]
   },
   {
-    "id": "7563a907-5c61-4090-a2ae-8c599d3d0f70",
+    "id": "670ea478-a949-4a6b-8ca5-56d81cf2fe2b",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Parasita Alienígena",
-    "body": "**Capanga | Aberração | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Agarrar ao Hospedeiro.** Em um ataque bem-sucedido, pode se prender ao alvo em vez de causar dano. Enquanto estiver preso, o alvo recebe -1 em ações físicas que exijam liberdade de movimento. Removê-lo exige uma ação de Corpo contra Resistência d6.\n\n**Instinto:** saltar no alvo isolado e permanecer fora do alcance dos demais.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Intangível",
+    "body": "Você atravessa matéria por alguns instantes.\n\n**Efeito:** uma vez por Descanso breve, atravesse uma barreira fina ou passe por um obstáculo sólido imediatamente ao seu alcance.\n\n**Custo:** ao atravessar, deixe uma marca visível ou sobrenatural no ponto de passagem. Quem a encontrar sabe que alguém cruzou ali e pode seguir sua origem com uma investigação apropriada.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:50.971+00:00",
+    "functions": [
+      "Mobilidade",
+      "Exploração"
+    ],
     "keywords": [
-      "alienígena",
-      "parasita",
-      "capanga",
-      "agarrar",
-      "sci-fi"
+      "intangível",
+      "fantasma",
+      "atravessar",
+      "parede",
+      "fase"
     ]
   },
   {
-    "id": "8f7a0d86-a74a-4964-81c0-b978383ff235",
+    "id": "bb93b162-6b7e-4aa9-91b0-1b4dd9194f5d",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Enxame Voraz",
-    "body": "**Comum | Enxame | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Muitos Corpos.** Ataques contra um único indivíduo recebem -1 contra o enxame; ataques de área ou métodos adequados para dispersar muitas criaturas ignoram essa proteção.\n\n**Instinto:** ocupar todo espaço livre, subir sobre alvos caídos e perseguir sangue ou alimento.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Invisibilidade",
+    "body": "Você apaga sua presença da percepção comum.\n\n**Efeito:** uma vez por Descanso breve, fique invisível enquanto não atacar, sofrer dano ou realizar uma ação que chame atenção direta.\n\n**Custo:** sons, rastros, cheiro e outros indícios continuam existindo. Se uma rolagem feita enquanto estiver invisível falhar, o alvo encontra um desses indícios e você não pode usar esta Marca para se esconder dele até mudar de lugar ou completar um Descanso breve.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:55.086+00:00",
+    "functions": [
+      "Furtividade",
+      "Exploração"
+    ],
     "keywords": [
-      "enxame",
-      "ratos",
-      "insetos",
-      "muitos",
-      "área"
+      "invisível",
+      "invisibilidade",
+      "furtivo",
+      "mago",
+      "agente"
     ]
   },
   {
-    "id": "f5d4abfc-59ca-4958-8449-0fdaaadbd886",
+    "id": "419f739d-1155-4973-b5c3-895d13fd57bf",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Mercenário Tático",
-    "body": "**Comum | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Fogo de Supressão.** Use uma ação para cobrir uma área Perto. Até seu próximo turno, quem atravessá-la sob sua linha de tiro precisa superar Capacidade d8 com Corpo ou interromper o movimento e procurar cobertura.\n\n**Instinto:** dominar linhas de visão e obrigar o inimigo a mover-se por rotas previsíveis.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Maldição",
+    "body": "Você lança uma praga breve que atrapalha uma capacidade específica de outra criatura.\n\n**Efeito:** escolha uma criatura que possa perceber e diga como a Maldição a enfraquece: atacar, fugir, mentir, resistir, usar magia ou outra abordagem clara. Em sucesso numa rolagem apropriada, a próxima rolagem do alvo nessa abordagem recebe **-1**.\n\n**Custo:** se a Maldição falhar, o alvo percebe a tentativa e recebe **+1 na Resistência** contra sua próxima ação dirigida a ele. Um alvo afetado não pode receber a mesma Maldição de novo até um Descanso breve.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:53.901+00:00",
+    "functions": [
+      "Controle"
+    ],
     "keywords": [
-      "mercenário",
-      "soldado",
-      "supressão",
-      "arma de fogo",
-      "controle",
-      "moderno"
+      "maldição",
+      "bruxo",
+      "ocultista",
+      "debilitar",
+      "hex"
     ]
   },
   {
-    "id": "e6191af9-728f-469b-8a09-d09a6a472bbf",
+    "id": "f44308bb-5db7-4117-b7d1-ce8d5f4355e6",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Espírito Possessor",
-    "body": "**Comum | Espírito | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Possessão.** Em vez de causar dano a um alvo Próximo, pode tentar possuí-lo. O alvo usa Espírito como Resistência. Em sucesso, o espírito ocupa seu corpo até sofrer dano, ser expulso por uma ação apropriada ou o hospedeiro superar Espírito d8 em seu turno. Enquanto possuído, no início de cada turno o espírito pode obrigar o hospedeiro a mover-se uma distância ou soltar um item que esteja segurando. O espírito não controla a ação principal nem pode usar Marcas do personagem.\n\n**Instinto:** escolher o corpo mais útil e colocar aliados uns contra os outros.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Mover sem Tocar",
+    "body": "Você exerce força à distância por magia, mente ou tecnologia.\n\n**Efeito:** mova ou manipule à distância um objeto que uma pessoa comum conseguiria carregar.\n\n**Custo:** exige concentração e linha de visão. Sofrer dano ou realizar outra ação interrompe o controle.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Controle",
+      "Exploração"
+    ],
     "keywords": [
-      "espírito",
-      "possessão",
-      "controle",
+      "telecinese",
+      "mover",
+      "objeto",
+      "psíquico",
+      "magia"
+    ]
+  },
+  {
+    "id": "cf2b18fe-bda5-4c44-bc27-59fa70a3cf92",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Olhar Além",
+    "body": "Você percebe ecos mágicos, presenças invisíveis ou vestígios de eventos passados.\n\n**Efeito:** ao se concentrar, perceba forças sobrenaturais e descubra sua direção ou natureza geral.\n\n**Custo:** aquilo que você observa pode perceber sua atenção. Quando isso acontecer, sua próxima rolagem de Espírito recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Investigação"
+    ],
+    "keywords": [
+      "detectar magia",
       "sobrenatural",
-      "fantasma"
+      "espírito",
+      "oculto",
+      "percepção"
     ]
   },
   {
-    "id": "e34254f6-acee-4831-ba02-de88a2846ac6",
+    "id": "006899aa-e027-4441-8c93-65cbf069866d",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Autômato de Choque",
-    "body": "**Comum | Construto | 1 ponto**\n\n**Capacidade d6 | Vitalidade 3**\n\n**Marca: Descarga Atordoante.** Quando obtiver margem 3+ em um ataque, pode fazer o alvo perder sua Reação até o início da próxima rodada em vez de produzir outro benefício de margem.\n\n**Instinto:** atingir quem protege os aliados e abrir espaço para os demais.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Palavra Vinculante",
+    "body": "Sua voz carrega uma força que impõe obediência momentânea.\n\n**Efeito:** dê uma ordem curta a alguém que possa ouvi-lo. Se houver resistência, role Espírito. Em sucesso, o alvo interrompe a ação atual ou segue a ordem, desde que ela não cause dano direto contra ele mesmo.\n\n**Custo:** depois de ser afetado, o alvo não pode ser submetido novamente a esta Marca até completar um Descanso breve. Se ele resistir à ordem, reconhece a tentativa e recebe **+1 na Resistência** contra a próxima ordem que você der antes desse descanso.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:46.134+00:00",
+    "functions": [
+      "Controle",
+      "Social"
+    ],
     "keywords": [
-      "autômato",
-      "construto",
-      "choque",
-      "reação",
-      "atordoar"
+      "comando",
+      "palavra",
+      "encantar",
+      "controle",
+      "voz"
     ]
   },
   {
-    "id": "d504fed2-cc37-4ccd-8abb-1ae8ee395065",
+    "id": "ccb43cb0-fa31-4449-89dc-f8aaf37265a7",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Ghoul",
-    "body": "**Comum | Morto-vivo | 1 ponto**\n\n**Capacidade d6 | Vitalidade 2**\n\n**Marca: Garras Paralisantes.** Quando obtiver margem 3+ em um ataque Próximo, o alvo não pode se mover até gastar uma ação para recuperar o controle do corpo.\n\n**Instinto:** imobilizar alguém e arrastá-lo para longe dos aliados.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Passo pelas Sombras",
+    "body": "Você atravessa a escuridão e reaparece a uma curta distância.\n\n**Efeito:** mova-se instantaneamente entre duas sombras que estejam até Perto e que você consiga perceber.\n\n**Custo:** a sombra de destino precisa comportar seu corpo. Em uma falha, sua próxima Resistência contra um ataque recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Mobilidade",
+      "Furtividade"
+    ],
     "keywords": [
-      "ghoul",
-      "morto-vivo",
-      "paralisia",
-      "garras",
-      "controle"
+      "teleporte",
+      "sombra",
+      "movimento",
+      "furtivo",
+      "magia"
     ]
   },
   {
-    "id": "3492604f-54dc-4ea7-9b98-286c346db7b7",
+    "id": "27a2b285-5176-4fff-8d24-83932448f80e",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Brutamontes",
-    "title": "Escorpião Gigante",
-    "body": "**Brutamontes | Fera | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Pinças e Ferrão.** Em um ataque Próximo, pode agarrar em vez de causar dano. Enquanto segura um alvo, seu próximo ataque contra ele causa +1 dano e o libera.\n\n**Instinto:** prender a ameaça mais móvel e usar o ferrão antes de trocar de alvo.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Premonição",
+    "body": "Você percebe fragmentos do que está prestes a acontecer.\n\n**Efeito:** uma vez por Descanso breve, pergunte ao Mestre qual é o perigo imediato mais evidente que ainda não aconteceu. Sua primeira rolagem feita diretamente para evitar esse perigo recebe **+1**.\n\n**Custo:** a visão mostra o perigo, não a melhor solução. Se você ignorar o aviso e o perigo acontecer, a primeira consequência dele é tratada como um nível mais grave na tabela de margem.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:53.445+00:00",
+    "functions": [
+      "Investigação",
+      "Proteção"
+    ],
     "keywords": [
-      "escorpião",
-      "fera",
-      "agarrar",
-      "ferrão",
-      "brutamontes"
+      "premonição",
+      "oráculo",
+      "psíquico",
+      "futuro",
+      "perigo"
     ]
   },
   {
-    "id": "efb4bca0-837d-43fa-a19b-9b4c27e04d79",
+    "id": "d4f818f7-eb95-45fb-bf15-cc32e336848c",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Brutamontes",
-    "title": "Abominação Tentacular",
-    "body": "**Brutamontes | Aberração | 2 pontos**\n\n**Capacidade d8 | Vitalidade 4**\n\n**Marca: Alcance Monstruoso.** Pode realizar ataques corpo a corpo contra alvos Perto. Em sucesso, pode puxar o alvo para Próximo em vez de causar dano.\n\n**Instinto:** espalhar os tentáculos, quebrar a formação e trazer um alvo por vez ao centro.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Ritualista",
+    "body": "Você conhece procedimentos capazes de produzir efeitos extraordinários com tempo e preparação.\n\n**Efeito:** com tempo, materiais e conhecimento que façam sentido, realize um ritual para obter informação, estabelecer contato, criar uma proteção, abrir ou fechar um acesso sobrenatural ou produzir outro efeito indireto.\n\n**Custo:** o ritual não resolve um perigo que já esteja acontecendo no mesmo instante; ele precisa de uma preparação que a situação permita. Em falha, os materiais são gastos e o caminho escolhido se fecha, se complica ou chama a atenção da força envolvida.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:52.527+00:00",
+    "functions": [
+      "Exploração",
+      "Investigação"
+    ],
     "keywords": [
-      "abominação",
-      "tentáculos",
-      "aberração",
-      "puxar",
-      "alcance",
-      "brutamontes"
+      "ritual",
+      "mago",
+      "bruxo",
+      "clérigo",
+      "ocultista",
+      "magia"
     ]
   },
   {
-    "id": "5a45d17a-2b37-4360-94d0-c8fc9918833d",
+    "id": "d07f11e0-9e73-4751-b449-68f61964c679",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Brutamontes",
-    "title": "Treant",
-    "body": "**Brutamontes | Planta | 2 pontos**\n\n**Capacidade d6 | Vitalidade 5**\n\n**Marca: Raízes Profundas.** Enquanto permanecer no mesmo lugar, não pode ser empurrado e pode usar uma ação para prender um alvo Perto; escapar exige Corpo contra Resistência d8. Fogo apropriado ignora a proteção desta Marca e impede seu uso até o próximo turno.\n\n**Instinto:** transformar o terreno em obstáculo e proteger aquilo que considera parte da floresta.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Telepatia",
+    "body": "Você estabelece comunicação direta entre mentes.\n\n**Efeito:** converse silenciosamente com uma criatura que você perceba a até Longe. Para captar pensamentos que ela não queira compartilhar, faça uma rolagem apropriada contra sua Resistência.\n\n**Custo:** uma tentativa invasiva que falhar revela sua presença mental ao alvo. Até você encerrar o contato, ele pode responder mentalmente, localizar sua direção aproximada ou aumentar a Resistência contra novas tentativas de leitura.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:52.935+00:00",
+    "functions": [
+      "Social",
+      "Investigação"
+    ],
     "keywords": [
-      "treant",
-      "árvore",
-      "planta",
-      "raízes",
-      "fogo",
-      "controle"
+      "telepatia",
+      "mente",
+      "psíquico",
+      "pensamentos",
+      "comunicação"
     ]
   },
   {
-    "id": "57d12870-4ad1-468f-aba4-d6c35c95f421",
+    "id": "b2093ab4-8b7f-4f38-a17d-517bac8e7814",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Ladrão Oportunista",
-    "body": "**Capanga | Humanoide | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Mãos Rápidas.** Em um ataque bem-sucedido contra alguém Próximo, pode tomar um pequeno item acessível em vez de causar dano.\n\n**Instinto:** roubar o que estiver exposto e desaparecer antes de uma luta justa.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Truques Arcanos",
+    "body": "Você manipula pequenas forças extraordinárias com naturalidade.\n\n**Efeito:** crie efeitos menores que não causem dano nem resolvam diretamente um desafio. Quando um truque criar uma abertura plausível, ele pode conceder **+1** a uma rolagem do grupo.\n\n**Custo:** depois de conceder esse bônus, o truque chama atenção, deixa um rastro reconhecível ou se esgota. Você não pode conceder outro bônus com esta Marca até um Descanso breve.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:55.466+00:00",
+    "functions": [
+      "Exploração",
+      "Social"
+    ],
     "keywords": [
-      "ladrão",
-      "capanga",
-      "roubo",
-      "furtividade",
-      "item"
+      "prestidigitação",
+      "truque",
+      "magia menor",
+      "arcano",
+      "utilidade",
+      "mago"
     ]
   },
   {
-    "id": "a82eba63-6c4c-4fde-9026-bec2a0795dac",
+    "id": "e218d3e4-8082-4dab-835f-2f49dd315cee",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Capangas",
-    "title": "Drone Explosivo",
-    "body": "**Capanga | Construto | dois por 1 ponto**\n\n**Capacidade d6 | Vitalidade 1**\n\n**Marca: Sobrecarga.** Use uma ação para iniciar a sobrecarga. Se ainda estiver ativo no início de seu próximo turno, explode: realize um ataque contra todos Próximos e depois fique fora de combate.\n\n**Instinto:** aproximar-se do maior agrupamento e forçar todos a se dispersarem.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Poderes",
+    "title": "Voo",
+    "body": "Você pode se manter e se mover no ar por asas, magia, tecnologia ou outro meio.\n\n**Efeito:** mova-se pelo ar como faria pelo chão e alcance lugares inacessíveis a quem depende apenas de movimento terrestre.\n\n**Custo:** se o dado de uma rolagem feita com esta Marca mostrar **1**, seu meio de voo falha. Você não pode voar de novo até repará-lo, recarregá-lo ou recuperar-se de modo apropriado durante um Descanso breve.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:45.745+00:00",
+    "functions": [
+      "Mobilidade",
+      "Exploração"
+    ],
     "keywords": [
-      "drone",
-      "explosivo",
-      "capanga",
-      "sci-fi",
-      "área",
-      "contagem regressiva"
+      "voo",
+      "voar",
+      "asas",
+      "levitação",
+      "aéreo"
     ]
   },
   {
-    "id": "ab621820-cfaf-415c-ae35-a91a1096d6be",
+    "id": "eae5a4b4-3377-40d2-8927-71de49a8cc98",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Adversários comuns",
-    "title": "Predador Camaleônico",
-    "body": "**Comum | Fera | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Camuflagem Ativa.** Se terminar o turno sem estar Próximo de um inimigo, pode desaparecer no ambiente. Até atacar ou ser localizado por uma ação apropriada, seu próximo ataque pode ser um Ataque Surpresa.\n\n**Instinto:** mudar de posição depois de cada investida e evitar confronto prolongado.",
-    "created_at": "2026-08-14T12:36:25.714516+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Armadilheiro",
+    "body": "Você sabe transformar terreno e materiais simples em perigo preparado.\n\n**Efeito:** com alguns minutos e materiais adequados, prepare uma armadilha. Diga o que a dispara, como uma porta ser aberta ou alguém cruzar um corredor. Quando disparar, ela pode prender, derrubar, alarmar ou realizar um ataque preparado.\n\n**Custo:** a armadilha é consumida ao disparar. Se alguém a perceber antes, pode evitá-la e aprender como desativá-la; para preparar outra no mesmo local, você precisa mudar o tipo de armadilha ou a forma de disparo.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:55.824+00:00",
+    "functions": [
+      "Controle",
+      "Exploração"
+    ],
     "keywords": [
-      "predador",
-      "camuflagem",
-      "furtividade",
+      "armadilha",
+      "patrulheiro",
+      "caçador",
+      "sabotar",
+      "preparo"
+    ]
+  },
+  {
+    "id": "5b6ac274-a3cc-450e-a667-7b7d17b30b93",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Ataque Furtivo",
+    "body": "Você sabe explorar uma abertura antes que o alvo consiga reagir.\n\n**Efeito:** quando atingir um alvo que não possa usar **Defender**, cause **+1 dano**.\n\n**Custo:** se o ataque falhar, você se expõe; sua próxima Resistência contra esse alvo recebe **-1**.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Ofensiva",
+      "Furtividade"
+    ],
+    "keywords": [
+      "furtivo",
       "emboscada",
-      "sci-fi"
-    ]
-  },
-  {
-    "id": "50f3a694-deb1-4f7b-991e-23bd866d7fa9",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Assassino",
-    "body": "**Especialista | Humanoide | 2 pontos**\n\n**Capacidade d10 | Vitalidade 2**\n\n**Marca: Golpe de Emboscada.** Quando realizar um Ataque Surpresa contra um alvo isolado, cause +1 dano em sucesso. Depois do primeiro ataque, perde esse benefício até conseguir desaparecer novamente da percepção dos inimigos.\n\n**Instinto:** eliminar uma vítima vulnerável e abandonar uma luta que deixou de ser injusta.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
-    "keywords": [
-      "assassino",
-      "furtividade",
-      "emboscada",
+      "surpresa",
+      "oportunidade",
       "dano",
-      "especialista"
+      "ladino",
+      "assassino"
     ]
   },
   {
-    "id": "298e14b4-ccce-41d6-929a-1d59670d2c00",
+    "id": "60f12e67-7399-4e38-baf3-5f76e864d102",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Atirador de Elite",
-    "body": "**Especialista | Humanoide | 2 pontos**\n\n**Capacidade d10 | Vitalidade 2**\n\n**Marca: Alvo Marcado.** Use uma ação para mirar em alguém que possa ver a Longe. Se não perder a linha de visão até seu próximo turno, o primeiro ataque contra esse alvo causa +1 dano em sucesso.\n\n**Instinto:** escolher o alvo mais importante, mudar de posição quando descoberto e evitar combate Próximo.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Atirador Preparado",
+    "body": "Você sabe escolher posição, controlar a respiração e esperar o momento certo.\n\n**Efeito:** quando gastar seu movimento para firmar posição, receba **+1 no resultado** do próximo ataque à distância feito antes de se mover novamente.\n\n**Custo:** se esse ataque falhar, sua posição é revelada. Até mudar de lugar, você não recebe benefícios de cobertura contra o alvo do disparo.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:49.094+00:00",
+    "functions": [
+      "Ofensiva"
+    ],
     "keywords": [
       "atirador",
-      "sniper",
-      "longo alcance",
       "mira",
-      "moderno",
-      "sci-fi"
+      "distância",
+      "pistoleiro",
+      "arqueiro"
     ]
   },
   {
-    "id": "63530cf6-8210-4f0b-8eff-4848b11978dc",
+    "id": "2fd5cbb1-d252-4e3d-9c6d-ca63137e71b4",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Torreta Automática",
-    "body": "**Especialista | Construto | 1 ponto**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Zona de Tiro.** Escolha uma área Perto que possa observar. Enquanto permanecer instalada e funcional, pode gastar sua Reação para atacar a primeira criatura hostil que entrar ou sair dessa área.\n\n**Instinto:** controlar um corredor ou acesso e nunca perseguir alvos fora de sua linha de fogo.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Caçador de Monstros",
+    "body": "Você estuda padrões, fraquezas e sinais de criaturas perigosas.\n\n**Efeito:** depois de observar ou investigar uma criatura incomum, pergunte ao Mestre por uma fraqueza, hábito ou defesa relevante que possa ser explorada.\n\n**Custo:** a resposta representa conhecimento ou observação plausível; criaturas completamente desconhecidas podem exigir primeiro evidências ou pesquisa.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Investigação",
+      "Ofensiva"
+    ],
     "keywords": [
-      "torreta",
-      "robô",
-      "reação",
-      "zona",
-      "arma",
-      "sci-fi"
-    ]
-  },
-  {
-    "id": "91474b2d-72d3-4a0d-ac2f-fb85f236319d",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Manticora",
-    "body": "**Veterano | Monstruosidade | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Rajada de Espinhos.** Use uma ação para atacar até dois alvos diferentes Perto. Resolva uma rolagem separada contra cada um.\n\n**Instinto:** circular fora do alcance corpo a corpo e obrigar o grupo a se separar.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
-    "keywords": [
-      "manticora",
       "monstro",
-      "espinhos",
-      "múltiplos alvos",
-      "voador"
+      "fraqueza",
+      "caçador",
+      "patrulheiro",
+      "ocultista"
     ]
   },
   {
-    "id": "d76de416-cf57-4834-8425-9f2f9d7aef13",
+    "id": "29f33bf3-a727-466f-b7a1-c650f0249771",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Wyvern",
-    "body": "**Veterano | Dragão | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Mergulho Venenoso.** Depois de se mover de Longe para Próximo voando, seu ataque pode causar 1 dano e, com margem 3+, também aplicar -1 à próxima ação física do alvo.\n\n**Instinto:** mergulhar, ferir e voltar ao ar antes de ser cercada.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Contra-golpe",
+    "body": "Você transforma o erro do adversário em uma abertura imediata.\n\n**Efeito:** uma vez por rodada, quando um adversário falhar um ataque contra você, receba **+1** no próximo ataque que fizer contra ele antes do fim da rodada.\n\n**Custo:** se você usar o bônus e ainda falhar, o adversário pode se afastar, buscar cobertura ou preparar uma Reação antes de você agir de novo.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:56.222+00:00",
+    "functions": [
+      "Ofensiva"
+    ],
     "keywords": [
-      "wyvern",
-      "dragão",
-      "voo",
-      "veneno",
-      "mergulho"
+      "contra-ataque",
+      "riposta",
+      "duelista",
+      "guerreiro",
+      "monge"
     ]
   },
   {
-    "id": "ffaa6ac9-9c63-4714-b36a-7aba4aec6cab",
+    "id": "db43f75a-2e87-49ae-8e57-234e90977f9a",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Bruxa das Maldições",
-    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Mau-Olhado.** Use uma ação contra um alvo Perto usando Capacidade contra Espírito. Em sucesso, escolha movimento, ataques ou Resistências: o alvo recebe -1 na primeira rolagem desse tipo a cada rodada. Só uma criatura pode estar amaldiçoada por vez; a maldição termina se a bruxa ficar fora de combate ou se for quebrada por uma ação apropriada.\n\n**Instinto:** enfraquecer a maior ameaça e manter distância enquanto a maldição trabalha.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Duelista",
+    "body": "Você controla distância, ritmo e abertura em confrontos individuais.\n\n**Efeito:** quando enfrentar sozinho um único adversário em combate, receba **+1 no resultado** para atacá-lo ou para usar um Atributo como Resistência contra os ataques dele.\n\n**Custo:** se o dado usado com este Efeito mostrar **1**, o adversário encontra uma abertura. O próximo ataque dele contra você recebe **+1 no resultado**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:46.826+00:00",
+    "functions": [
+      "Ofensiva",
+      "Proteção"
+    ],
     "keywords": [
-      "bruxa",
-      "maldição",
-      "magia",
-      "controle",
-      "debuff"
+      "duelista",
+      "espada",
+      "duelo",
+      "guerreiro",
+      "aparar"
     ]
   },
   {
-    "id": "c7c91cc6-6921-408a-b6e6-fc4547b48fa0",
+    "id": "8034c43a-9ac6-438c-8dcc-5c3e21062f65",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Hacker Hostil",
-    "body": "**Especialista | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Intrusão Remota.** Contra tecnologia conectada que possa alcançar, pode atacar um dispositivo, sistema ou Marca tecnológica. Em sucesso, deixe-o indisponível até alguém gastar uma ação apropriada para reiniciá-lo ou expulsar a intrusão.\n\n**Instinto:** desligar sensores, armas e rotas de fuga antes de atingir pessoas.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Especialista em Infiltração",
+    "body": "Você sabe atravessar áreas vigiadas sem ser percebido.\n\n**Efeito:** ao se mover silenciosamente, esconder-se ou evitar vigilância, receba **+1 no resultado do Atributo**.\n\n**Custo:** em uma falha, sua próxima rolagem para escapar da vigilância ou perseguição recebe **-1**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Furtividade",
+      "Exploração"
+    ],
     "keywords": [
-      "hacker",
-      "tecnologia",
-      "sci-fi",
+      "infiltração",
+      "furtividade",
+      "esconder",
+      "vigilância",
+      "ladino"
+    ]
+  },
+  {
+    "id": "2f48c8d0-1648-47ca-9d5c-9d0be3236b2c",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Inspiração",
+    "body": "Você consegue fazer outra pessoa ir além do que faria sozinha.\n\n**Efeito:** uma vez por cena, depois que um aliado Próximo falhar uma rolagem, reduza a margem da falha em **1**. Se a margem se tornar 0, trate o resultado como **sucesso com custo**.\n\n**Custo:** explique como sua presença, palavra ou ação ajuda naquele momento; a Marca não funciona se você não puder interagir com o aliado.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Suporte"
+    ],
+    "keywords": [
+      "inspiração",
+      "bardo",
+      "líder",
+      "mentor",
+      "ajuda"
+    ]
+  },
+  {
+    "id": "a78bf6cb-0ccb-4bfe-b711-02e6c70b4424",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Investigador",
+    "body": "Você reconhece inconsistências, padrões e detalhes que outras pessoas ignoram.\n\n**Efeito:** depois de uma investigação bem-sucedida, faça ao Mestre uma pergunta direta sobre o que aconteceu. Se a margem for **3 ou maior**, faça uma segunda pergunta.\n\n**Custo:** em uma falha, a pista ou fonte que você examinava fica comprometida: ela é destruída, alterada, retirada ou deixa de ser confiável. O grupo precisa encontrar outra pista ou usar outra abordagem antes de investigar aquele ponto de novo.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:47.232+00:00",
+    "functions": [
+      "Investigação"
+    ],
+    "keywords": [
+      "investigador",
+      "pistas",
+      "dedução",
+      "pergunta",
+      "detetive"
+    ]
+  },
+  {
+    "id": "6a5dc5ab-f463-45f4-82b1-4a3180d1f99b",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Leitor de Pessoas",
+    "body": "Você reconhece hesitação, intenção e mudanças sutis de comportamento.\n\n**Efeito:** depois de alguns momentos de conversa ou observação, faça ao Mestre uma pergunta direta sobre a intenção imediata, emoção dominante ou ponto de pressão de uma pessoa.\n\n**Custo:** sua leitura revela o que a pessoa demonstra; não fatos que ela própria desconheça.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Investigação",
+      "Social"
+    ],
+    "keywords": [
+      "ler pessoas",
+      "empatia",
+      "intenção",
+      "diplomata",
+      "investigador"
+    ]
+  },
+  {
+    "id": "b8b7c160-3c27-4516-b835-42e154454d77",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Mãos Leves",
+    "body": "Você manipula pequenos objetos sem chamar atenção.\n\n**Efeito:** receba **+1** ao esconder, plantar, trocar ou retirar discretamente um objeto pequeno de uma pessoa ou lugar ao seu alcance.\n\n**Custo:** em falha, alguém percebe a manipulação ou nota imediatamente que algo está errado.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Furtividade",
+      "Social"
+    ],
+    "keywords": [
+      "mãos leves",
+      "roubar",
+      "plantar",
+      "batedor",
+      "ladino",
+      "furtar"
+    ]
+  },
+  {
+    "id": "e504ad69-ab69-4c48-8a70-4c4a99685640",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Médico de Campo",
+    "body": "Você sabe estabilizar ferimentos e manter pessoas em condições de agir.\n\n**Efeito:** durante um Descanso breve, trate você ou um aliado para recuperar **um passo adicional** em um Atributo. Os instrumentos e materiais comuns necessários fazem parte desta Marca.\n\n**Custo:** cada pessoa só pode receber este benefício uma vez antes do próximo Descanso longo. Depois do tratamento, os materiais usados precisam ser repostos antes que você trate outra pessoa.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:47.598+00:00",
+    "functions": [
+      "Recuperação",
+      "Suporte"
+    ],
+    "keywords": [
+      "médico",
+      "cura",
+      "tratamento",
+      "paramédico",
+      "ferimento"
+    ]
+  },
+  {
+    "id": "dfa49b17-0ce2-4e31-bb63-a0d0f62ece32",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Neutralizar",
+    "body": "Você sabe comprometer a ofensiva de alguém sem precisar derrubá-lo.\n\n**Efeito:** uma vez por Descanso breve, quando acertar um ataque, troque o dano adicional por uma interrupção apropriada: faça o alvo largar uma arma, bloqueie uma técnica, prenda seus movimentos ou impeça uma ação ofensiva específica até que ele gaste uma ação principal para se recompor.\n\n**Custo:** se a margem for **0**, o alvo escolhe uma consequência: você perde posição, fica sem a arma usada no golpe ou se expõe à Reação dele.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:56.608+00:00",
+    "functions": [
+      "Controle"
+    ],
+    "keywords": [
+      "desarmar",
+      "arma",
+      "duelista",
+      "guerreiro",
+      "controle"
+    ]
+  },
+  {
+    "id": "abaf0ac4-a32f-4cbc-923c-6b7ecbaef9e9",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Performance Cativante",
+    "body": "Você sabe capturar a atenção de uma audiência.\n\n**Efeito:** ao cantar, discursar, contar histórias ou realizar outra performance, mantenha a atenção de um pequeno grupo enquanto nada mais urgente exigir sua reação.\n\n**Custo:** quem já tiver motivo forte para desconfiar ou atacar você não é automaticamente convencido; a Marca controla atenção, não crença.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Social",
+      "Controle"
+    ],
+    "keywords": [
+      "performance",
+      "bardo",
+      "orador",
+      "artista",
+      "distração"
+    ]
+  },
+  {
+    "id": "90a3a9d0-7dd9-48fb-a5c1-e7a70b941a92",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Pilotagem de Risco",
+    "body": "Você mantém controle de veículos quando outras pessoas perderiam a vantagem.\n\n**Efeito:** receba **+1** quando pilotar um veículo em perseguições, manobras perigosas ou ambientes hostis.\n\n**Custo:** em falha, além da consequência normal, o veículo sofre desgaste, perde posição ou exige reparo antes de repetir a mesma manobra.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Mobilidade"
+    ],
+    "keywords": [
+      "piloto",
+      "veículo",
+      "perseguição",
+      "manobra",
+      "nave"
+    ]
+  },
+  {
+    "id": "41a976a3-4592-4244-8cfb-f2b8abe2c940",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Provocação",
+    "body": "Você sabe ocupar a atenção de um inimigo e tornar perigoso ignorá-lo.\n\n**Efeito:** escolha um adversário que possa perceber você. Até o início do seu próximo turno, se ele atacar diretamente outro alvo, receba **-1 no resultado do Atributo** nesse ataque.\n\n**Custo:** enquanto o efeito durar, você recebe **-1** ao tentar se afastar ou evitar esse adversário.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Controle",
+      "Proteção"
+    ],
+    "keywords": [
+      "provocar",
+      "guardar",
+      "tanque",
+      "guardião",
+      "paladino",
+      "desafio"
+    ]
+  },
+  {
+    "id": "b8e234b0-c7c3-4c2d-88cf-285865923d4b",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Quebra-Influências",
+    "body": "Você sabe romper forças que prendem, dominam ou corrompem pessoas, objetos e lugares.\n\n**Efeito:** ao enfrentar uma maldição, controle mental, possessão, vínculo sobrenatural ou outro efeito persistente, faça uma rolagem apropriada para suspendê-lo, enfraquecê-lo ou expulsá-lo.\n\n**Custo:** em uma falha, a força reage contra você. Ela recebe **+1 na Resistência** contra sua próxima tentativa e passa a tratá-lo como uma ameaça prioritária quando puder agir.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:51.804+00:00",
+    "functions": [
+      "Controle",
+      "Suporte"
+    ],
+    "keywords": [
+      "exorcismo",
+      "espírito",
+      "possessão",
+      "clérigo",
+      "ocultista"
+    ]
+  },
+  {
+    "id": "331818b7-3484-4750-bd3f-bcb05a4388f9",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Química de Campo",
+    "body": "Você improvisa compostos úteis a partir de materiais que carrega ou encontra.\n\n**Efeito:** durante uma pausa, prepare uma dose de fumaça, solvente, estimulante, sedativo leve, reagente ou outro composto simples. Escolha o efeito quando prepará-la.\n\n**Custo:** você só pode manter uma dose preparada por vez. Quando uma dose for usada numa rolagem que falhar, ela se esgota de forma perigosa: você ou quem a aplicou sofre a consequência da falha junto com um efeito menor do composto.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:44.199+00:00",
+    "functions": [
+      "Exploração",
+      "Suporte"
+    ],
+    "keywords": [
+      "química",
+      "alquimia",
+      "cientista",
+      "médico",
+      "fumaça",
+      "sedativo"
+    ]
+  },
+  {
+    "id": "9ef9b667-f56b-4314-bd0f-f9fd9dd591dc",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Sabotagem",
+    "body": "Você sabe fazer máquinas, estruturas ou sistemas falharem no momento certo.\n\n**Efeito:** com acesso e alguns instantes, prepare um dispositivo ou estrutura para travar, desligar ou falhar quando uma condição simples acontecer.\n\n**Custo:** o efeito precisa explorar algo que realmente possa ser alterado; em falha, a sabotagem é descoberta ou acontece cedo demais.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Controle",
+      "Furtividade",
+      "Exploração"
+    ],
+    "keywords": [
       "sabotagem",
-      "sistemas"
+      "espião",
+      "hacker",
+      "engenheiro",
+      "ladino"
     ]
   },
   {
-    "id": "6435414d-dfd6-4a16-b589-703db2228c64",
+    "id": "f962b18f-6aeb-4290-862f-bfcbb179bee3",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Especialistas",
-    "title": "Psíquico Controlador",
-    "body": "**Especialista | Psíquico | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Impulso Telecinético.** Em vez de causar dano, um ataque contra alguém Perto pode empurrar o alvo para Perto, derrubá-lo ou arrancar um objeto acessível de suas mãos.\n\n**Instinto:** manter inimigos longe e transformar posição em arma.",
-    "created_at": "2026-08-14T12:36:46.126544+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Sobrevivente",
+    "body": "Você conhece abrigo, orientação, alimentos e perigos naturais.\n\n**Efeito:** em regiões selvagens, encontre água, abrigo básico ou uma direção segura quando esse recurso existir na área.\n\n**Custo:** escolha um preço: a busca consome tempo, deixa rastros fáceis de seguir ou obriga o grupo a carregar menos suprimentos. O Mestre aplica a opção que fizer mais sentido à região e à urgência da viagem.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:49.494+00:00",
+    "functions": [
+      "Exploração"
+    ],
     "keywords": [
-      "psíquico",
-      "telecinese",
-      "controle",
-      "empurrar",
-      "sci-fi"
+      "sobrevivência",
+      "selvagem",
+      "abrigo",
+      "água",
+      "orientação"
     ]
   },
   {
-    "id": "7ec1748c-2ff1-4fb2-a047-7e25ef24bfb8",
+    "id": "e360d95e-1322-4b5a-aa4d-dccc39adb9c2",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Solos",
-    "title": "Colosso Mecânico",
-    "body": "**Solo | Construto | 4 pontos**\n\n- **Corpo d12**\n- **Mente d8**\n- **Espírito d6**\n\n**Marca: Sistemas Independentes.** No início de cada rodada, escolha Canhão ou Braço. Até a rodada terminar, recebe uma Reação adicional que só pode usar para atacar com o sistema escolhido.\n\n**Marca: Ponto Fraco Exposto.** Depois que usar Sistemas Independentes pela segunda vez na cena, exponha um componente. Um personagem que gaste uma ação para alcançá-lo pode atacar contra Resistência d8 em vez do Atributo normal do Colosso até o componente ser protegido novamente no turno seguinte.\n\n**Instinto:** dominar uma área, alternar sistemas e manter o lado vulnerável longe dos inimigos.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Treinamentos",
+    "title": "Voz de Comando",
+    "body": "Você sabe transformar hesitação em ação.\n\n**Efeito:** gaste sua ação principal e dê uma instrução clara a um aliado que possa ouvi-lo. A próxima rolagem dele diretamente ligada à instrução recebe **+1**.\n\n**Custo:** se o aliado seguir a instrução e falhar, você também sofre a consequência quando ela puder alcançá-lo. Caso contrário, o Mestre cria uma consequência ligada à ordem que você deu.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:49.891+00:00",
+    "functions": [
+      "Suporte",
+      "Social"
+    ],
     "keywords": [
-      "colosso",
-      "mecha",
-      "robô",
-      "solo",
-      "sci-fi",
-      "ponto fraco"
-    ]
-  },
-  {
-    "id": "ce349eb5-9ba4-4f09-b68f-9a99662bf5f1",
-    "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Alfa da Matilha",
-    "body": "**Líder | Fera | 2 pontos**\n\n**Capacidade d8 | Vitalidade 3**\n\n**Marca: Caçada Coordenada.** Uma vez por rodada, quando uma fera aliada Perto terminar seu turno, o Alfa pode gastar sua Reação para permitir que outra fera aliada se mova uma distância.\n\n**Instinto:** cercar uma presa, fechar rotas de fuga e atacar quando alguém se separa.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
-    "keywords": [
-      "alfa",
-      "matilha",
-      "fera",
+      "comando",
       "líder",
-      "movimento",
-      "caçada"
+      "ordem",
+      "aliado",
+      "tático"
     ]
   },
   {
-    "id": "4a821094-3f74-4588-8e0d-13ddcf83f8fd",
+    "id": "27d9a185-3c37-484d-86a2-2b5eda19f0a5",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Solos",
-    "title": "Demônio Maior",
-    "body": "**Solo | Infernal | 4 pontos**\n\n- **Corpo d10**\n- **Mente d8**\n- **Espírito d10**\n\n**Marca: Presença Infernal.** A primeira vez em cada cena que uma criatura se aproxima do demônio, ela precisa superar Espírito d10 ou não pode voluntariamente se aproximar mais até o fim do turno.\n\n**Marca: Chamas do Abismo.** Use uma ação para atacar todos em uma área Perto. Depois disso, esta Marca fica indisponível até o demônio passar um turno sem usá-la.\n\n**Marca: Passo pelas Chamas.** Quando for cercado por duas ou mais criaturas, pode gastar sua Reação para mover-se para qualquer posição Perto que possa alcançar narrativamente através de fogo, sombra ou ruptura sobrenatural.\n\n**Instinto:** quebrar a coragem do grupo, punir agrupamentos e obrigar os inimigos a persegui-lo.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Companheiro Leal",
+    "body": "Um animal, espírito, máquina ou parceiro menor acompanha você.\n\n**Efeito:** uma vez por cena, receba **+1 no resultado do Atributo** quando o companheiro puder ajudar diretamente. Ele também pode carregar objetos pequenos, entregar mensagens ou explorar lugares acessíveis a ele.\n\n**Custo:** se for exposto a perigo direto, proteja-o ou deixe a Marca indisponível até que ele receba cuidado.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Suporte",
+      "Exploração"
+    ],
     "keywords": [
-      "demônio",
-      "infernal",
-      "solo",
-      "medo",
-      "fogo",
-      "teleporte"
+      "companheiro",
+      "familiar",
+      "drone",
+      "animal",
+      "espírito",
+      "montaria"
     ]
   },
   {
-    "id": "a068f592-cbd3-45fe-879e-4d99d46ba603",
+    "id": "7d8475cb-cc63-4e60-b4a6-deeafc77a93e",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Chefão do Crime",
-    "body": "**Líder importante | Humanoide | 3 pontos**\n\n- **Corpo d6**\n- **Mente d8**\n- **Espírito d10**\n\n**Marca: Todos Têm um Preço.** Em interações sociais com pessoas que tenham algo concreto a ganhar ou perder, receba +1 no resultado de Espírito.\n\n**Marca: Escudo Humano.** Quando sofrer um ataque e houver um capanga aliado Próximo, pode gastar sua Reação para fazê-lo Interpor sem gastar a Reação dele.\n\n**Instinto:** negociar enquanto tiver vantagem, colocar subordinados no caminho do perigo e manter uma saída preparada.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Contato no Submundo",
+    "body": "Você conhece intermediários, contrabandistas e negociadores ilegais.\n\n**Efeito:** em uma comunidade habitada, encontre alguém disposto a negociar informação, mercadoria proibida ou acesso clandestino.\n\n**Custo:** depois de recorrer ao contato, a Marca fica indisponível até que você pague o preço ou cumpra o favor exigido.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Social",
+      "Investigação"
+    ],
     "keywords": [
-      "chefão",
+      "submundo",
+      "contato",
       "crime",
-      "líder",
-      "social",
-      "capangas",
-      "moderno"
+      "contrabando",
+      "ilegal"
     ]
   },
   {
-    "id": "c1faa03e-75d7-43f6-a931-2488ef3538ab",
+    "id": "d18b6d8a-ccff-4523-aa4a-b4e3349aad5f",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Suportes e líderes",
-    "title": "Ilusionista",
-    "body": "**Suporte | Humanoide | 1 ponto**\n\n**Capacidade d8 | Vitalidade 2**\n\n**Marca: Imagem Falsa.** Quando um aliado Perto for atacado, gaste sua Reação para impor -1 ao resultado do ataque, desde que o atacante dependa da visão.\n\n**Instinto:** esconder aliados perigosos, criar dúvidas e evitar ser o alvo mais óbvio.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Dívida Antiga",
+    "body": "Alguém poderoso deve a você um favor significativo.\n\n**Efeito:** uma vez por aventura, peça ajuda, informação, transporte, proteção ou acesso compatível com os recursos dessa pessoa.\n\n**Custo:** depois do favor, o contato cobra uma dívida. Até que você a quite, ele pode pedir uma tarefa possível e relacionada aos próprios interesses; se você recusar, perde o acesso a ele e a qualquer benefício desta Marca até reparar a relação.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-17T15:32:50.259+00:00",
+    "functions": [
+      "Social",
+      "Suporte"
+    ],
     "keywords": [
-      "ilusionista",
-      "suporte",
-      "magia",
-      "ilusão",
-      "proteção"
+      "favor",
+      "contato",
+      "dívida",
+      "aliado",
+      "acesso"
     ]
   },
   {
-    "id": "5bbd6070-0bc7-489e-a2de-8ad8546f7dd3",
+    "id": "bcefe658-f50d-4aa8-8084-88e5a6540f0c",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Solos",
-    "title": "Kraken",
-    "body": "**Solo | Monstruosidade | 4 pontos**\n\n- **Corpo d12**\n- **Mente d6**\n- **Espírito d8**\n\n**Marca: Tentáculos Distantes.** Pode realizar ataques físicos contra alvos Perto. Em sucesso, pode agarrar e puxar o alvo para Próximo em vez de causar dano. Pode manter até dois alvos agarrados.\n\n**Marca: Onda Violenta.** Quando sofrer dano, pode gastar sua Reação para atacar todos que estiverem Próximos da água ou de seus tentáculos; em sucesso, empurre para Perto em vez de causar dano.\n\n**Instinto:** agarrar alvos diferentes, afundar quem estiver isolado e usar o ambiente como arma.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Juramento",
+    "body": "Você está ligado a uma promessa que orienta suas escolhas e lhe dá propósito.\n\n**Efeito:** uma vez por Descanso breve, quando aceitar um risco claro para cumprir seu Juramento, receba **+1** na rolagem diretamente relacionada.\n\n**Custo:** se agir deliberadamente contra o Juramento, marque uma Quebra. Enquanto a Quebra existir, esta Marca não pode ser usada nem Escalada. Ela só é removida quando você repara a falha por meio de uma ação significativa na aventura.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-17T15:32:43.796+00:00",
+    "functions": [
+      "Suporte",
+      "Social"
+    ],
     "keywords": [
-      "kraken",
-      "tentáculos",
-      "solo",
-      "mar",
-      "agarrar",
-      "área"
+      "juramento",
+      "paladino",
+      "cavaleiro",
+      "vingador",
+      "promessa"
     ]
   },
   {
-    "id": "ce67d53c-40d0-46e9-a7e9-6a461a0b0367",
+    "id": "5d54a4e7-63d5-488c-b1aa-204ab4b9619f",
     "owner_id": null,
-    "card_type": "Adversário",
-    "card_group": "Solos",
-    "title": "Rainha Alienígena",
-    "body": "**Solo | Aberração | 4 pontos**\n\n- **Corpo d10**\n- **Mente d8**\n- **Espírito d8**\n\n**Marca: Ninhada.** Uma vez por cena, use uma ação para colocar dois Parasitas Alienígenas em posições Perto.\n\n**Marca: Sangue Ácido.** Quando sofrer dano de alguém Próximo, pode gastar sua Reação para atacar esse agressor com Corpo. Em sucesso, cause 1 dano.\n\n**Marca: Caçadora da Colmeia.** Depois que um Parasita Alienígena for derrotado, pode mover-se uma distância sem gastar sua ação principal no próximo turno.\n\n**Instinto:** proteger a ninhada, separar a presa e punir quem se aproxima demais.",
-    "created_at": "2026-08-14T12:37:08.699001+00:00",
-    "functions": [],
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Nome Respeitado",
+    "body": "Uma organização, família, título ou feito conhecido abre portas para você.\n\n**Efeito:** entre pessoas que reconhecem sua reputação, consiga uma audiência, abrigo temporário ou tratamento respeitoso.\n\n**Custo:** agir contra as expectativas ligadas ao seu nome torna a Marca indisponível naquela comunidade.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Social"
+    ],
     "keywords": [
-      "alienígena",
-      "rainha",
-      "solo",
-      "sci-fi",
-      "parasita",
-      "ácido",
-      "invocação"
+      "reputação",
+      "nome",
+      "título",
+      "nobre",
+      "acesso"
+    ]
+  },
+  {
+    "id": "a184a07d-ade9-455f-98b1-21778123efd0",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Procurado",
+    "body": "Você conhece os métodos usados para perseguir pessoas porque já foi alvo deles.\n\n**Efeito:** ao evitar autoridades, caçadores ou sistemas de vigilância, receba **+1 no resultado do Atributo**.\n\n**Custo:** em uma falha, a próxima rolagem para escapar da mesma perseguição enfrenta **+1 no resultado da Resistência**.",
+    "created_at": "2026-08-07T00:55:58.232852+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Furtividade",
+      "Exploração"
+    ],
+    "keywords": [
+      "procurado",
+      "fugitivo",
+      "autoridade",
+      "vigilância",
+      "perseguição"
+    ]
+  },
+  {
+    "id": "3da0061b-5f56-467a-9deb-4d2219d6f15c",
+    "owner_id": null,
+    "card_type": "Marca",
+    "card_group": "Vínculos",
+    "title": "Rede de Informantes",
+    "body": "Você mantém contatos espalhados em diferentes meios sociais.\n\n**Efeito:** em uma comunidade onde seja plausível haver alguém da sua rede, obtenha uma pista, rumor ou indicação de quem sabe mais sobre um assunto local.\n\n**Custo:** a informação nunca é totalmente gratuita; alguém espera pagamento, troca ou discrição.",
+    "created_at": "2026-08-13T21:33:43.09077+00:00",
+    "updated_at": "2026-08-13T21:33:43.09077+00:00",
+    "functions": [
+      "Investigação",
+      "Social"
+    ],
+    "keywords": [
+      "informantes",
+      "contatos",
+      "rumor",
+      "jornalista",
+      "espião",
+      "diplomata"
     ]
   }
 ]
