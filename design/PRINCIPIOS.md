@@ -126,3 +126,32 @@ O objetivo é reutilizar soluções de design e arquétipos, não copiar texto n
 Quando uma regra parecer necessária, perguntar primeiro qual problema de mesa ela resolve. Dar peso especial a mecânicas que outros sistemas simplificaram ou removeram após playtests.
 
 Não adicionar complexidade preventiva sem evidência de que ela melhora a experiência.
+## Uma Marca sustenta uma fantasia completa
+
+Cada personagem possui apenas quatro Marcas. Por isso, uma Marca não deve ser a cópia direta de uma magia, item ou talento isolado de outro jogo.
+
+Partir da fantasia que a carta precisa sustentar e reunir nela elementos que funcionem juntos: uma técnica e sua ferramenta, um poder e a forma de usá-lo, uma origem e a permissão que ela concede, ou um contato e o acesso que ele abre. O pacote precisa continuar coeso e gerar uma decisão reconhecível na mesa.
+
+Não juntar benefícios sem relação apenas para aumentar a potência. A carta deve responder com clareza: o que este personagem consegue fazer que muda a aventura?
+
+## Custos que realmente mudam a situação
+
+Todo Custo tem um gatilho e uma consequência mecânica clara. Ele deve nascer de algo que possa dar errado no uso daquela Marca, não apenas repetir a condição do Efeito ou dizer que a tentativa falhou.
+
+Uma limitação narrativa pode explicar a Marca, mas na maioria dos casos não substitui o Custo. Depois que o gatilho acontece, deve ser possível apontar o que mudou no jogo: um recurso foi gasto, uma proteção foi quebrada, uma pista foi perdida, uma rota foi fechada, um alvo ganhou uma vantagem, a Marca ficou indisponível até ser reparada ou uma nova dificuldade concreta surgiu.
+
+Evitar usar automaticamente “-1 na próxima tentativa semelhante”. Esse resultado só serve quando representa uma perda específica e compreensível. Preferir consequências ligadas à ficção da carta e que criem uma decisão nova.
+
+Antes de aprovar um Custo, perguntar: **se ele disparar, qual alteração mecânica concreta os jogadores precisarão lidar agora?**
+
+## Tempo sem uma regra de cena
+
+Não usar “uma vez por cena”, “até a próxima cena” ou termos equivalentes como duração padrão. O sistema não depende de uma definição geral de cena.
+
+Escolher uma medida que combine com a Marca: até um Descanso breve, até um Descanso longo, até ser reparada, até o fim do combate, até sair de um local, até a perseguição terminar ou até uma condição explícita deixar de existir. A duração deve ser visível no texto da própria carta.
+
+## Revisão local antes da publicação
+
+A revisão das cartas ocorre primeiro no arquivo local `card-collection/revisoes-locais.json`. Os estados são **pendente**, **aprovada** e **precisa de revisão**; um comentário registra o problema ou a direção de ajuste.
+
+Enquanto essa revisão estiver em curso, propostas de mudança ficam locais. Só conteúdo aprovado após nova leitura deve seguir para Supabase e GitHub.

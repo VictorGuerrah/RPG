@@ -161,4 +161,22 @@ Antes de aprovar uma carta ou pacote, confira:
 4. Ela cabe em uma one-shot ou campanha curta?
 5. Ela pode ser encontrada por família, tema ou localidade?
 6. Ela continua simples quando lida fora do contexto em que foi criada?
+## Revisão local antes de publicar
 
+Toda carta nova ou revisada passa primeiro pela revisão local. A página do compêndio grava o resultado em `card-collection/revisoes-locais.json`:
+
+| Estado | Uso |
+| --- | --- |
+| Pendente | ainda não recebeu leitura manual |
+| Precisa de revisão | exige ajuste; o comentário aponta o problema |
+| Aprovada | pode seguir para teste em mesa ou sincronização |
+
+Durante essa fase, não sincronize a mudança automaticamente. Primeiro crie a proposta local, releia a carta e aprove-a; só então publique no banco e no repositório.
+
+Ao revisar uma Marca, confira também:
+
+1. Ela ocupa um dos quatro espaços do personagem com uma fantasia completa e coesa?
+2. O Efeito cria uma opção clara em jogo?
+3. O Custo tem gatilho e consequência mecânica que muda a situação?
+4. A duração está escrita na própria carta, sem depender de “cena”?
+5. A carta continua diferente das outras em decisão e função, não apenas em aparência?
